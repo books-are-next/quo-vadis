@@ -20,7 +20,12 @@ jobs:
           node-version: "14"
 
       - name: Install dependencies
-        run: npm install
+        run: |
+          npm install
+
+      - name: Download dart-sass
+        run: |
+          curl -sL https://github.com/sass/dart-sass-embedded/releases/download/1.0.0-beta.12/sass_embedded-1.0.0-beta.12-linux-x64.tar.gz | tar xvz
 
       - name: Check if there is an EPUB waiting for conversion
         id: epub-exists
@@ -58,7 +63,9 @@ jobs:
 
       - name: Build
         if: ${{ steps.epub-exists.outputs.result == 'false' }}
-        run: npm run build
+        run: |
+          export PATH="$PATH:$(realpath sass_embedded)"
+          npm run build
 
       - name: Publish the book 🚀
         uses: JamesIves/github-pages-deploy-action@4.1.4
