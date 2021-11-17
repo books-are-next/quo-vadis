@@ -1,0 +1,1538 @@
+{
+  "author": "Henryk Sienkiewicz",
+  "identifier": "sienkiewicz-quo-vadis-7420886",
+  "languagecode": "cs",
+  "modified": "2021-10-30T17:56:57.139Z",
+  "publisher": "Městská knihovna v Praze",
+  "title": "Quo vadis",
+  "revision": "7420886",
+  "generatedAt": {
+    "date": "Wed Nov 17 2021 08:11:09 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1637136669532
+  },
+  "documents": [
+    {
+      "title": "Tiráž",
+      "file": "colophon.html",
+      "words": 1,
+      "chars": 5,
+      "ideas": 1,
+      "role": "colophon",
+      "order": null,
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Tiráž",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "",
+      "file": "index.html",
+      "words": 8,
+      "chars": 51,
+      "ideas": 3,
+      "role": "cover",
+      "order": null,
+      "toc": [
+        {
+          "index": 1,
+          "level": 1,
+          "name": "Quo vadis",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "",
+      "file": "quo_vadis_001.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "other",
+      "order": null,
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "",
+      "file": "quo_vadis_002.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "other",
+      "order": null,
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "I",
+      "file": "quo_vadis_005.html",
+      "words": 4491,
+      "chars": 27115,
+      "ideas": 198,
+      "role": "other",
+      "order": null,
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "I",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "II",
+      "file": "quo_vadis_006.html",
+      "words": 6134,
+      "chars": 38242,
+      "ideas": 193,
+      "role": "other",
+      "order": null,
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "II",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "III",
+      "file": "quo_vadis_007.html",
+      "words": 962,
+      "chars": 5688,
+      "ideas": 34,
+      "role": "other",
+      "order": null,
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "III",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "IV",
+      "file": "quo_vadis_008.html",
+      "words": 2196,
+      "chars": 13059,
+      "ideas": 65,
+      "role": "other",
+      "order": null,
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "IV",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "V",
+      "file": "quo_vadis_009.html",
+      "words": 1178,
+      "chars": 7027,
+      "ideas": 28,
+      "role": "other",
+      "order": null,
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "V",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "VI",
+      "file": "quo_vadis_010.html",
+      "words": 1359,
+      "chars": 8051,
+      "ideas": 39,
+      "role": "other",
+      "order": null,
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "VI",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "VII",
+      "file": "quo_vadis_011.html",
+      "words": 8664,
+      "chars": 52511,
+      "ideas": 228,
+      "role": "other",
+      "order": null,
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "VII",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "VIII",
+      "file": "quo_vadis_012.html",
+      "words": 1934,
+      "chars": 11435,
+      "ideas": 54,
+      "role": "other",
+      "order": null,
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "VIII",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XI",
+      "file": "quo_vadis_013.html",
+      "words": 2157,
+      "chars": 12967,
+      "ideas": 68,
+      "role": "other",
+      "order": null,
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XI",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "X",
+      "file": "quo_vadis_014.html",
+      "words": 1446,
+      "chars": 8972,
+      "ideas": 65,
+      "role": "other",
+      "order": null,
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "X",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XI",
+      "file": "quo_vadis_015.html",
+      "words": 3878,
+      "chars": 22939,
+      "ideas": 93,
+      "role": "other",
+      "order": null,
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XI",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XII",
+      "file": "quo_vadis_016.html",
+      "words": 2362,
+      "chars": 14191,
+      "ideas": 89,
+      "role": "other",
+      "order": null,
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XII",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XIII",
+      "file": "quo_vadis_017.html",
+      "words": 2717,
+      "chars": 16420,
+      "ideas": 127,
+      "role": "other",
+      "order": null,
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XIII",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XIV",
+      "file": "quo_vadis_018.html",
+      "words": 3386,
+      "chars": 20249,
+      "ideas": 101,
+      "role": "other",
+      "order": null,
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XIV",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XV",
+      "file": "quo_vadis_019.html",
+      "words": 1617,
+      "chars": 9478,
+      "ideas": 21,
+      "role": "other",
+      "order": null,
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XV",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XVI",
+      "file": "quo_vadis_020.html",
+      "words": 2116,
+      "chars": 12296,
+      "ideas": 38,
+      "role": "other",
+      "order": null,
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XVI",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XVII",
+      "file": "quo_vadis_021.html",
+      "words": 2618,
+      "chars": 15669,
+      "ideas": 84,
+      "role": "other",
+      "order": null,
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XVII",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XVIII",
+      "file": "quo_vadis_022.html",
+      "words": 1523,
+      "chars": 9103,
+      "ideas": 15,
+      "role": "other",
+      "order": null,
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XVIII",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XIX",
+      "file": "quo_vadis_023.html",
+      "words": 3146,
+      "chars": 18784,
+      "ideas": 67,
+      "role": "other",
+      "order": null,
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XIX",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XX",
+      "file": "quo_vadis_024.html",
+      "words": 3764,
+      "chars": 22780,
+      "ideas": 48,
+      "role": "other",
+      "order": null,
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XX",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XXI",
+      "file": "quo_vadis_025.html",
+      "words": 2606,
+      "chars": 15620,
+      "ideas": 65,
+      "role": "other",
+      "order": null,
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XXI",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XXII",
+      "file": "quo_vadis_026.html",
+      "words": 2571,
+      "chars": 15243,
+      "ideas": 70,
+      "role": "other",
+      "order": null,
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XXII",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XXIII",
+      "file": "quo_vadis_027.html",
+      "words": 2391,
+      "chars": 13736,
+      "ideas": 61,
+      "role": "other",
+      "order": null,
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XXIII",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XXIV",
+      "file": "quo_vadis_028.html",
+      "words": 2719,
+      "chars": 15886,
+      "ideas": 119,
+      "role": "other",
+      "order": null,
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XXIV",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XXV",
+      "file": "quo_vadis_029.html",
+      "words": 2343,
+      "chars": 13767,
+      "ideas": 34,
+      "role": "other",
+      "order": null,
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XXV",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XXVI",
+      "file": "quo_vadis_030.html",
+      "words": 3315,
+      "chars": 19565,
+      "ideas": 89,
+      "role": "other",
+      "order": null,
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XXVI",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XXVII",
+      "file": "quo_vadis_031.html",
+      "words": 2904,
+      "chars": 17164,
+      "ideas": 43,
+      "role": "other",
+      "order": null,
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XXVII",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XXVIII",
+      "file": "quo_vadis_032.html",
+      "words": 3114,
+      "chars": 17762,
+      "ideas": 18,
+      "role": "other",
+      "order": null,
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XXVIII",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XXIX",
+      "file": "quo_vadis_033.html",
+      "words": 3585,
+      "chars": 21332,
+      "ideas": 90,
+      "role": "other",
+      "order": null,
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XXIX",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XXX",
+      "file": "quo_vadis_034.html",
+      "words": 1776,
+      "chars": 10442,
+      "ideas": 66,
+      "role": "other",
+      "order": null,
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XXX",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XXXI",
+      "file": "quo_vadis_035.html",
+      "words": 1931,
+      "chars": 12009,
+      "ideas": 54,
+      "role": "other",
+      "order": null,
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XXXI",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XXXII",
+      "file": "quo_vadis_036.html",
+      "words": 3363,
+      "chars": 19793,
+      "ideas": 91,
+      "role": "other",
+      "order": null,
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XXXII",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XXXIII",
+      "file": "quo_vadis_037.html",
+      "words": 1621,
+      "chars": 9342,
+      "ideas": 48,
+      "role": "other",
+      "order": null,
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XXXIII",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XXXIV",
+      "file": "quo_vadis_038.html",
+      "words": 1195,
+      "chars": 6776,
+      "ideas": 41,
+      "role": "other",
+      "order": null,
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XXXIV",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XXXV",
+      "file": "quo_vadis_039.html",
+      "words": 2435,
+      "chars": 14360,
+      "ideas": 95,
+      "role": "other",
+      "order": null,
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XXXV",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XXXVI",
+      "file": "quo_vadis_040.html",
+      "words": 3174,
+      "chars": 19616,
+      "ideas": 53,
+      "role": "other",
+      "order": null,
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XXXVI",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XXXVII",
+      "file": "quo_vadis_041.html",
+      "words": 1041,
+      "chars": 5925,
+      "ideas": 8,
+      "role": "other",
+      "order": null,
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XXXVII",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XXXVIII",
+      "file": "quo_vadis_042.html",
+      "words": 737,
+      "chars": 4230,
+      "ideas": 4,
+      "role": "other",
+      "order": null,
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XXXVIII",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XXXIX",
+      "file": "quo_vadis_043.html",
+      "words": 2609,
+      "chars": 15253,
+      "ideas": 43,
+      "role": "other",
+      "order": null,
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XXXIX",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XL",
+      "file": "quo_vadis_044.html",
+      "words": 2475,
+      "chars": 14650,
+      "ideas": 57,
+      "role": "other",
+      "order": null,
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XL",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XLI",
+      "file": "quo_vadis_045.html",
+      "words": 2042,
+      "chars": 12072,
+      "ideas": 76,
+      "role": "other",
+      "order": null,
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XLI",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XLII",
+      "file": "quo_vadis_046.html",
+      "words": 2769,
+      "chars": 16715,
+      "ideas": 53,
+      "role": "other",
+      "order": null,
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XLII",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XLIII",
+      "file": "quo_vadis_047.html",
+      "words": 3368,
+      "chars": 20617,
+      "ideas": 57,
+      "role": "other",
+      "order": null,
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XLIII",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XLIV",
+      "file": "quo_vadis_048.html",
+      "words": 1406,
+      "chars": 8875,
+      "ideas": 13,
+      "role": "other",
+      "order": null,
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XLIV",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XLV",
+      "file": "quo_vadis_049.html",
+      "words": 2880,
+      "chars": 17557,
+      "ideas": 74,
+      "role": "other",
+      "order": null,
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XLV",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XLVI",
+      "file": "quo_vadis_050.html",
+      "words": 946,
+      "chars": 6175,
+      "ideas": 8,
+      "role": "other",
+      "order": null,
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XLVI",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XLVII",
+      "file": "quo_vadis_051.html",
+      "words": 2058,
+      "chars": 12709,
+      "ideas": 70,
+      "role": "other",
+      "order": null,
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XLVII",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XLVIII",
+      "file": "quo_vadis_052.html",
+      "words": 1782,
+      "chars": 10592,
+      "ideas": 66,
+      "role": "other",
+      "order": null,
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XLVIII",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XLIX",
+      "file": "quo_vadis_053.html",
+      "words": 3010,
+      "chars": 18617,
+      "ideas": 103,
+      "role": "other",
+      "order": null,
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XLIX",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "L",
+      "file": "quo_vadis_054.html",
+      "words": 1664,
+      "chars": 10106,
+      "ideas": 71,
+      "role": "other",
+      "order": null,
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "L",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "LI",
+      "file": "quo_vadis_055.html",
+      "words": 4194,
+      "chars": 25315,
+      "ideas": 164,
+      "role": "other",
+      "order": null,
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "LI",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "LII",
+      "file": "quo_vadis_056.html",
+      "words": 1435,
+      "chars": 9072,
+      "ideas": 27,
+      "role": "other",
+      "order": null,
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "LII",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "LIII",
+      "file": "quo_vadis_057.html",
+      "words": 2777,
+      "chars": 16401,
+      "ideas": 75,
+      "role": "other",
+      "order": null,
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "LIII",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "LIV",
+      "file": "quo_vadis_058.html",
+      "words": 1724,
+      "chars": 10438,
+      "ideas": 68,
+      "role": "other",
+      "order": null,
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "LIV",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "LV",
+      "file": "quo_vadis_059.html",
+      "words": 1070,
+      "chars": 6424,
+      "ideas": 39,
+      "role": "other",
+      "order": null,
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "LV",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "LVI",
+      "file": "quo_vadis_060.html",
+      "words": 7090,
+      "chars": 44136,
+      "ideas": 174,
+      "role": "other",
+      "order": null,
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "LVI",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "LVII",
+      "file": "quo_vadis_061.html",
+      "words": 4127,
+      "chars": 24891,
+      "ideas": 205,
+      "role": "other",
+      "order": null,
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "LVII",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "LVIII",
+      "file": "quo_vadis_062.html",
+      "words": 2211,
+      "chars": 13683,
+      "ideas": 45,
+      "role": "other",
+      "order": null,
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "LVIII",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "LIX",
+      "file": "quo_vadis_063.html",
+      "words": 975,
+      "chars": 5853,
+      "ideas": 78,
+      "role": "other",
+      "order": null,
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "LIX",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "LX",
+      "file": "quo_vadis_064.html",
+      "words": 2044,
+      "chars": 12158,
+      "ideas": 80,
+      "role": "other",
+      "order": null,
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "LX",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "LXI",
+      "file": "quo_vadis_065.html",
+      "words": 1000,
+      "chars": 5921,
+      "ideas": 29,
+      "role": "other",
+      "order": null,
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "LXI",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "LXII",
+      "file": "quo_vadis_066.html",
+      "words": 3001,
+      "chars": 18097,
+      "ideas": 91,
+      "role": "other",
+      "order": null,
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "LXII",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "LXIII",
+      "file": "quo_vadis_067.html",
+      "words": 1221,
+      "chars": 7517,
+      "ideas": 36,
+      "role": "other",
+      "order": null,
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "LXIII",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "LXIV",
+      "file": "quo_vadis_068.html",
+      "words": 1301,
+      "chars": 7811,
+      "ideas": 8,
+      "role": "other",
+      "order": null,
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "LXIV",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "LXV",
+      "file": "quo_vadis_069.html",
+      "words": 1187,
+      "chars": 7350,
+      "ideas": 55,
+      "role": "other",
+      "order": null,
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "LXV",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "LXVI",
+      "file": "quo_vadis_070.html",
+      "words": 3019,
+      "chars": 18449,
+      "ideas": 53,
+      "role": "other",
+      "order": null,
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "LXVI",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "LXVII",
+      "file": "quo_vadis_071.html",
+      "words": 679,
+      "chars": 4050,
+      "ideas": 12,
+      "role": "other",
+      "order": null,
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "LXVII",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "LXVIII",
+      "file": "quo_vadis_072.html",
+      "words": 941,
+      "chars": 5583,
+      "ideas": 22,
+      "role": "other",
+      "order": null,
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "LXVIII",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "LXIX",
+      "file": "quo_vadis_073.html",
+      "words": 1794,
+      "chars": 10759,
+      "ideas": 33,
+      "role": "other",
+      "order": null,
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "LXIX",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "LXX",
+      "file": "quo_vadis_074.html",
+      "words": 709,
+      "chars": 4164,
+      "ideas": 31,
+      "role": "other",
+      "order": null,
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "LXX",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "LXXI",
+      "file": "quo_vadis_075.html",
+      "words": 1572,
+      "chars": 9479,
+      "ideas": 28,
+      "role": "other",
+      "order": null,
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "LXXI",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "LXXII",
+      "file": "quo_vadis_076.html",
+      "words": 393,
+      "chars": 2540,
+      "ideas": 5,
+      "role": "other",
+      "order": null,
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "LXXII",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "LXXIII",
+      "file": "quo_vadis_077.html",
+      "words": 2187,
+      "chars": 12860,
+      "ideas": 28,
+      "role": "other",
+      "order": null,
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "LXXIII",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "LXXIV",
+      "file": "quo_vadis_078.html",
+      "words": 2003,
+      "chars": 12214,
+      "ideas": 58,
+      "role": "other",
+      "order": null,
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "LXXIV",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Doslov",
+      "file": "quo_vadis_079.html",
+      "words": 1920,
+      "chars": 11975,
+      "ideas": 44,
+      "role": "other",
+      "order": null,
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Doslov",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "",
+      "file": "resources.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "other",
+      "order": null,
+      "next": null,
+      "toc": []
+    }
+  ],
+  "totals": {
+    "all": {
+      "words": 178061,
+      "chars": 1070678,
+      "ideas": 4887
+    },
+    "chapters": {
+      "words": 0,
+      "chars": 0,
+      "ideas": 0
+    }
+  }
+}
