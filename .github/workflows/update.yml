@@ -13,7 +13,9 @@ jobs:
           fetch-depth: 0
 
       - name: Remove old files
-        run: rm -rf .github layouts assets static config.toml README.* package.json package-lock.json
+        run: |
+          rm -rf .github layouts assets static config.toml README.* package.json package-lock.json
+          find . -maxdepth 4
 
       - name: Move new files into place
         run: |
