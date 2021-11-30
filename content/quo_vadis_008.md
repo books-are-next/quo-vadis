@@ -4,9 +4,9 @@ title: IV
 
 Petronius slibu opravdu dostál.
 
-Nazítří, po návštěvě u Chrisothemidy, spal sice po celý den, ale k večeru dal se zanésti na Palatin a měl s Neronem důvěrný rozhovor, jehož výsledkem bylo, že třetí den objevil se před domem Plautiovým centurio v čele hloučku praetoriánských[173](#footnote-19288-173) vojáků.
+Nazítří, po návštěvě u Chrisothemidy, spal sice po celý den, ale k večeru dal se zanésti na Palatin a měl s Neronem důvěrný rozhovor, jehož výsledkem bylo, že třetí den objevil se před domem Plautiovým centurio v čele hloučku praetoriánských[^173] vojáků.
 
-Časy byly nejisté a strašlivé. Poslové tohoto druhu byli nejčastěji také zvěstovateli smrti. Proto v okamžiku, ve kterém centurio udeřil kladívkem na dveře Aulovy a kdy správce atria ohlásil, že v síni jsou vojáci, zavládlo zděšení po celém domě. Rodina ihned obklopila starého vůdce, jelikož nikdo nepochyboval, že nebezpečí sneslo se především na něho. Pomponie, objavši rukama jeho krk, přitiskla se k němu všemi silami a její zsinalá ústa rychle se pohybovala, vyslovujíce nějaká tichá slova; Lygie s tváří bledou jako plátno líbala mu ruku; malý Aulus chytal se tógy – z chodeb, z pokojů, ležících v patře a určených pro služebné ženy, z čeledníku, z lázní, z klenutých dolejších příbytků, z celého domu začaly se hrnouti hloučky otroků a otrokyň. Daly se slyšeti výkřiky: _„Heu, heu, me miserum!“_[174](#footnote-19288-174) – ženy propukly ve veliký pláč; některé si již začaly drásati tváře nebo hlavy pokrývati šátky.
+Časy byly nejisté a strašlivé. Poslové tohoto druhu byli nejčastěji také zvěstovateli smrti. Proto v okamžiku, ve kterém centurio udeřil kladívkem na dveře Aulovy a kdy správce atria ohlásil, že v síni jsou vojáci, zavládlo zděšení po celém domě. Rodina ihned obklopila starého vůdce, jelikož nikdo nepochyboval, že nebezpečí sneslo se především na něho. Pomponie, objavši rukama jeho krk, přitiskla se k němu všemi silami a její zsinalá ústa rychle se pohybovala, vyslovujíce nějaká tichá slova; Lygie s tváří bledou jako plátno líbala mu ruku; malý Aulus chytal se tógy – z chodeb, z pokojů, ležících v patře a určených pro služebné ženy, z čeledníku, z lázní, z klenutých dolejších příbytků, z celého domu začaly se hrnouti hloučky otroků a otrokyň. Daly se slyšeti výkřiky: _„Heu, heu, me miserum!“_[^174] – ženy propukly ve veliký pláč; některé si již začaly drásati tváře nebo hlavy pokrývati šátky.
 
 Pouze sám starý vůdce, uvyklý po celá léta dívati se smrti přímo ve tvář, zůstal kliden a jen jeho krátký orlí obličej jako by pojednou byl vytesán z kamene. Za chvíli, ztišiv pokřiky a poničiv služebným lidem, aby se rozešli, řekl:
 
@@ -50,7 +50,7 @@ Vůdce mluvil klidně, ale nějak podivným, nezvyklým hlasem. Lygie naslouchal
 
 Lygie, tulíc se k její hrudi, opakovala: „Matko! Matko!“ – nemohouc vypraviti ze sebe kromě lkání jiná slova.
 
-„Kdybych byl na světě sám,“ řekl chmurně, „nevydal bych jí živé – a příbuzní ještě dnes by mohli přinésti za nás obětní dary ‚Jovi Liberatori‘[175](#footnote-19288-175)… Nicméně nemám práva ničiti tebe a naše dítě, které se může dožíti šťastnějších dob… Odeberu se ještě dnes k Caesarovi a budu ho snažně prositi, aby rozkaz změnil. Vyslyší-li mne, nevím. Zatím buď zdráva, Lygie, a věz, že já i Pomponie vždy jsme blahořečili dnu, ve kterém jsi zasedla u našeho domácího krbu.“
+„Kdybych byl na světě sám,“ řekl chmurně, „nevydal bych jí živé – a příbuzní ještě dnes by mohli přinésti za nás obětní dary ‚Jovi Liberatori‘[^175]… Nicméně nemám práva ničiti tebe a naše dítě, které se může dožíti šťastnějších dob… Odeberu se ještě dnes k Caesarovi a budu ho snažně prositi, aby rozkaz změnil. Vyslyší-li mne, nevím. Zatím buď zdráva, Lygie, a věz, že já i Pomponie vždy jsme blahořečili dnu, ve kterém jsi zasedla u našeho domácího krbu.“
 
 To praviv, položil jí ruku na hlavu, ale ač se snažil zachovati klid, přece jen ve chvíli, když k němu otočila oči, zalité slzami, a pak, chopivši se jeho ruky, začala ji tisknouti ke rtům, v jeho hlase zachvěl se hluboký, otcovský žal.
 
@@ -58,11 +58,11 @@ To praviv, položil jí ruku na hlavu, ale ač se snažil zachovati klid, přece
 
 A rychle odešel zpět do atria, aby zabránil tomu, že by podlehl pohnutí, nedůstojnému Římana a vůdce.
 
-Zatím Pomponie, odvedši Lygii do cubicula[176](#footnote-19288-176), začala ji konejšiti, těšiti, dodávati jí útěchy a mluviti slova, divně znějící v domě, ve kterém hned vedle, v sousedním pokoji, stálo ještě „lararium“[177](#footnote-19288-177) a krb, na němž Aulus Plautius, věren dávnému obyčeji, kladl obětní dary domácím bohům. Nuže, doba zkoušek nadešla! Kdysi Virginius[178](#footnote-19288-178) proklál prsa vlastní dcery, aby ji vysvobodil z rukou Appiových[179](#footnote-19288-179); ještě dávněji dobrovolně zaplatila Lukrecie[180](#footnote-19288-180) svoji hanbu životem. Caesarův dům jest pelechem hanby, zla, zločinu. – „My však, Lygie, víme, proč nemáme práva vztáhnouti ruku na sebe…!“ Tak jest…! Ten zákon, pod nímž obě žijí, jest jiný, větší, posvátnější. Dovoluje však brániti se proti zlu i hanbě, byť bylo nutno zaplatiti onu obranu životem mukami. Kdo vychází čist z příbytku zkázy, tím větší jest jeho zásluha. Země je takovým příbytkem, ale na štěstí život jest jediným mžikem oka a my vstáváme z mrtvých jen z hrobu, za nímž nevládne již Nero, nýbrž Milosrdenství – a místo bolesti je tam radost, místo slz veselí.
+Zatím Pomponie, odvedši Lygii do cubicula[^176], začala ji konejšiti, těšiti, dodávati jí útěchy a mluviti slova, divně znějící v domě, ve kterém hned vedle, v sousedním pokoji, stálo ještě „lararium“[^177] a krb, na němž Aulus Plautius, věren dávnému obyčeji, kladl obětní dary domácím bohům. Nuže, doba zkoušek nadešla! Kdysi Virginius[^178] proklál prsa vlastní dcery, aby ji vysvobodil z rukou Appiových[^179]; ještě dávněji dobrovolně zaplatila Lukrecie[^180] svoji hanbu životem. Caesarův dům jest pelechem hanby, zla, zločinu. – „My však, Lygie, víme, proč nemáme práva vztáhnouti ruku na sebe…!“ Tak jest…! Ten zákon, pod nímž obě žijí, jest jiný, větší, posvátnější. Dovoluje však brániti se proti zlu i hanbě, byť bylo nutno zaplatiti onu obranu životem mukami. Kdo vychází čist z příbytku zkázy, tím větší jest jeho zásluha. Země je takovým příbytkem, ale na štěstí život jest jediným mžikem oka a my vstáváme z mrtvých jen z hrobu, za nímž nevládne již Nero, nýbrž Milosrdenství – a místo bolesti je tam radost, místo slz veselí.
 
 Pak jala se mluviti o sobě. Ano, jest klidná – ale ani v jejích prsou nechybí bolestné rány. Na očích jejího Aula leží zajisté ještě bělmo, ještě se na něho nesnesl zdroj světla. Není jí rovněž dovoleno, aby vychovávala syna v Pravdě. – A když si tedy pomyslí, že může tomu tak býti do konce života a že může nadejíti okamžik rozloučení s nimi, rozloučení stokrát vážnějšího a hroznějšího, nežli je to dočasné – nedovede ani pochopiti, jakým způsobem bude s to, aby žila bez nich šťastna, a to i v nebi. A mnoho nocí již proplakala, mnohý čas strávila na modlitbách, žebrajíc o slitování a milost. Ale obětuje svoji bolest Bohu – a čeká, důvěřuje. A když nyní nová ji potkává rána, když ukrutníkův rozkaz jí odnímá drahou hlavu – tu, kterou Aulus nazval světlem očí, ještě důvěřuje, věříc, že je větší síla nežli Neronova – a Milosrdenství že jest mocnější než jeho zloba.
 
-A ještě pevněji přitiskla na prsa hlavu dívky, ta pak se za chvíli svezla k jejím kolenům, a ukryvši oči v záhybech jejího pepla[181](#footnote-19288-181), zůstala takto po dlouhou dobu v mlčení, ale když se konečně zvedla, bylo na její tváři viděti již trochu uklidnění.
+A ještě pevněji přitiskla na prsa hlavu dívky, ta pak se za chvíli svezla k jejím kolenům, a ukryvši oči v záhybech jejího pepla[^181], zůstala takto po dlouhou dobu v mlčení, ale když se konečně zvedla, bylo na její tváři viděti již trochu uklidnění.
 
 „Je mi tě líto, matko, je líto otce i bratra, ale vím, že odpor by nebyl nic platen a zahubil by nás všecky. Zato však ti slibuji, že tvých slov nikdy nezapomenu v domě Caesarově.“
 
@@ -84,7 +84,7 @@ Také napsala několik slov, doporučujíc Lygii ochraně Neronovy otrokyně Akt
 
 Hasta se uvolil, že sám doručí list Akté. Považuje také za přirozeno, že dcera královská musí míti družinu svého služebnictva, nečinil nejmenších nesnází proti tomu, aby vzato bylo do paláce, a spíše se divil jeho malému počtu. Nicméně prosil o spěch, maje obavu, aby nebyl v podezření, že mu chybí horlivost v plnění rozkazů. Hodina rozloučení nadešla. Oči Pomponie i Lygie opět se zalily slzami; Aulus ještě jednou vložil ruku na její hlavu a za chvíli vojáci, přivoláni křikem malého Aula, který v obraně sestry vyhrožoval centurionovi svými malými pěstmi – odváděli Lygii do domu Caesarova.
 
-Ale starý vůdce rozkázal, aby mu byla připravena lektika, zatím pak, uzamknuv se s Pomponií do pinakotéky[182](#footnote-19288-182), sousedící s oecem, řekl k ní:
+Ale starý vůdce rozkázal, aby mu byla připravena lektika, zatím pak, uzamknuv se s Pomponií do pinakotéky[^182], sousedící s oecem, řekl k ní:
 
 „Slyš mne, Pomponie! Odeberu se k Caesarovi, ač mám za to, že marně, a přesto, že slovo Senekovo u něho již nic neznamená, zajdu i k Senekovi. Dnes mají větší význam Sofonius, Tigellinus, Petronius nebo Vatinius… Co se týče Caesara, snad ani neslyšel v životě o národě Lygů, a vyžádal-li si vydání Lygie jako rukojmí, pak proto, že jej k tomu někdo přemluvil, a je snadno uhodnouti, kdo to mohl býti.“
 
@@ -110,22 +110,22 @@ Ale když konečně potlačil v sobě hněv, který mu kalil smysly, řekl:
 
 A za chvíli jej odnášela lektika směrem k Palatinu, Pomponie pak, osaměvši, odešla k malému Aulovi, který nepřestával plakati pro sestru a hroziti Caesarovi.
 
-[173](#footnote-19288-173-backlink) Pretoriáni – osobní stráž římských císařů.
+[^173]: Pretoriáni – osobní stráž římských císařů.
 
-[174](#footnote-19288-174-backlink) Běda, běda mně ubohému!
+[^174]: Běda, běda mně ubohému!
 
-[175](#footnote-19288-175-backlink) Jupiter Osvoboditel.
+[^175]: Jupiter Osvoboditel.
 
-[176](#footnote-19288-176-backlink) Ložnice.
+[^176]: Ložnice.
 
-[177](#footnote-19288-177-backlink) Kaplička nebo výklenek v peristylu, kde byly uloženy sošky domácích bůž­ků.
+[^177]: Kaplička nebo výklenek v peristylu, kde byly uloženy sošky domácích bůž­ků.
 
-[178](#footnote-19288-178-backlink) Římský setník, původce vzbouření lidu proti vysokému hodnostáři Ap­piovi v 5. st. př. n. l., jeho dceru přiřkl Appius jednomu ze svých klientů.
+[^178]: Římský setník, původce vzbouření lidu proti vysokému hodnostáři Ap­piovi v 5. st. př. n. l., jeho dceru přiřkl Appius jednomu ze svých klientů.
 
-[179](#footnote-19288-179-backlink) Slavný starořímský cenzor (vysoký státní finanční hodnostář) z konce 4. a počátku 3. st. př. n. l., který nechal zbudovat známou silnici nazvanou po něm Via Appia.
+[^179]: Slavný starořímský cenzor (vysoký státní finanční hodnostář) z konce 4. a počátku 3. st. př. n. l., který nechal zbudovat známou silnici nazvanou po něm Via Appia.
 
-[180](#footnote-19288-180-backlink) Dle starořímské pověsti choť mocného Římana, kterou znásilnil syn krále Tarquinia a která se poté sama usmrtila.
+[^180]: Dle starořímské pověsti choť mocného Římana, kterou znásilnil syn krále Tarquinia a která se poté sama usmrtila.
 
-[181](#footnote-19288-181-backlink) Dlouhé svrchní ženské roucho.
+[^181]: Dlouhé svrchní ženské roucho.
 
-[182](#footnote-19288-182-backlink) Obrazárna.
+[^182]: Obrazárna.

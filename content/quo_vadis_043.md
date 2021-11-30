@@ -74,7 +74,7 @@ Lygie zdvihla ruku, a uchopivši dlaň Vinitiovu, chtěla na ni přitisknouti �
 
 On však již přitiskl rty na její dlaně, bílé jako jasmín, a chvíli slyšeli pouze tlukot vlastních srdcí. Ve vzduchu nebylo nejmenšího vánku a cypřiše stály tak bez pohnutí, jako by rovněž zatajily dech v prsou…
 
-Pojednou bylo ticho přerušeno nenadálým, hlubokým, jako z podzemí vycházejícím řevem. Mráz přeběhl po těle Lygiině, Vinitius pak povstav, řekl: „To lvi řvou ve vivariích[406](#footnote-19288-406)…“
+Pojednou bylo ticho přerušeno nenadálým, hlubokým, jako z podzemí vycházejícím řevem. Mráz přeběhl po těle Lygiině, Vinitius pak povstav, řekl: „To lvi řvou ve vivariích[^406]…“
 
 A začali oba naslouchati. Zatím však prvnímu řevu odpověděl druhý, třetí, desátý, ze všech stran a čtvrtí. V městě bývalo někdy po několika tisících lvech, umístěných u různých arén, a mnohdy za nocí, přibližujíce se ke mřížím, a opírajíce o ně ohromné hlavy, dávali najevo tímto způsobem svůj stesk po svobodě a poušti. Tak začali teskniti také nyní a jeden druhému předávajíce hlas v nočním tichu, naplnili řevem celé město. Bylo v tom cosi nevýslovně hrozného a příšerného, a proto Lygie, jíž ony hlasy zaplašily jasné a klidné vidiny budoucnosti, naslouchala jim se srdcem stísněným jakousi podivnou úzkostí a smutkem.
 
@@ -84,4 +84,4 @@ Ale Vinitius ji objal paží a řekl:
 
 Pak vešli oba do domu Linova, provázeni stále mohutnějším řevem lvím.
 
-[406](#footnote-19288-406-backlink) Obory k chovu zvířat.
+[^406]: Obory k chovu zvířat.

@@ -16,7 +16,7 @@ A Nero začal se ptáti medovým hlasem, ve kterém se však třásla hluboce z
 
 Petronius však se na něho rozhorlil.
 
-„Nevěř jim,“ pravil, ukazuje rukou na přítomné, „ti se v ničem neznají! Ptáš se, co je nepěkného v těch verších? Chceš-li věděti pravdu, povím ti ji: Jsou pěkné pro Vergila[407](#footnote-19288-407), jsou pěkné pro Ovidia, ano, jsou pěkné i pro Homéra, ale ne pro tebe. Ty nesmíš psáti takových. Ten požár, jejž líčíš, dosti nehoří, tvůj oheň dosti nepálí. Neposlouchej lichotek Lucanových! Jemu bych za tytéž verše přiznal genialitu, tobě však nikoli. A víš, proč? Protože jsi větší než oni! Komu dali bohové tolik, co tobě, od toho lze žádati více. Ale z tebe se stává lenoch. Raději spíš po prandiu, nežli aby sis sedl na záhyby roucha. Můžeš stvořiti dílo, o jakém svět až dosud neslyšel, a proto ti pravím do očí: Napiš lepší!“
+„Nevěř jim,“ pravil, ukazuje rukou na přítomné, „ti se v ničem neznají! Ptáš se, co je nepěkného v těch verších? Chceš-li věděti pravdu, povím ti ji: Jsou pěkné pro Vergila[^407], jsou pěkné pro Ovidia, ano, jsou pěkné i pro Homéra, ale ne pro tebe. Ty nesmíš psáti takových. Ten požár, jejž líčíš, dosti nehoří, tvůj oheň dosti nepálí. Neposlouchej lichotek Lucanových! Jemu bych za tytéž verše přiznal genialitu, tobě však nikoli. A víš, proč? Protože jsi větší než oni! Komu dali bohové tolik, co tobě, od toho lze žádati více. Ale z tebe se stává lenoch. Raději spíš po prandiu, nežli aby sis sedl na záhyby roucha. Můžeš stvořiti dílo, o jakém svět až dosud neslyšel, a proto ti pravím do očí: Napiš lepší!“
 
 A mluvil to proti své vůli, jako by si tropil posměch a přitom i plísnil, ale oči Caesarovy obestřely se mlhou rozkoše a on řekl:
 
@@ -40,7 +40,7 @@ Nero se zamyslil a za chvíli pravil:
 
 „Odpověz mi, Petronie, na jednu otázku: Lituješ, že Troja shořela?“
 
-„Lituji-li…? U chromého manžela Venušina, ani dost málo! A řek­nu ti, proč! Troja totiž nebyla by shořela, kdyby Prometheus nebyl daroval lidem oheň a kdyby Řekové nebyli vypověděli Priamovi válku; kdyby pak nebylo ohně, Aischylos[408](#footnote-19288-408) by nebyl napsal svého Promethea právě tak, jako by bez války nebyl napsal Homér Iliadu. Mně je však milejší, že existuje Prometheus a Iliada, nežli aby se zachovalo ubohé městečko, dle všeho bídné a špinavé, ve kterém by teď seděl nanejvýše nějaký ustanovený prokurátor[409](#footnote-19288-409) a nudil tě hádkami s místním areopagem[410](#footnote-19288-410).“
+„Lituji-li…? U chromého manžela Venušina, ani dost málo! A řek­nu ti, proč! Troja totiž nebyla by shořela, kdyby Prometheus nebyl daroval lidem oheň a kdyby Řekové nebyli vypověděli Priamovi válku; kdyby pak nebylo ohně, Aischylos[^408] by nebyl napsal svého Promethea právě tak, jako by bez války nebyl napsal Homér Iliadu. Mně je však milejší, že existuje Prometheus a Iliada, nežli aby se zachovalo ubohé městečko, dle všeho bídné a špinavé, ve kterém by teď seděl nanejvýše nějaký ustanovený prokurátor[^409] a nudil tě hádkami s místním areopagem[^410].“
 
 „Hle, tomu se říká: mluviti rozumně!“ odpověděl Caesar. „Poesii a umění je dovoleno a nutno obětovati vše! Šťastní Achaiové, kteří poskytli Homérovi látky k Iliadě, a šťastný Priamus, který viděl zkázu vlasti! A co já? Já jsem hořícího města neviděl!“
 
@@ -68,7 +68,7 @@ Za hodinu později Vinitius, vraceje se s Petroniem z Caesarova letohrádku, p
 
 „Jaká to obratnost, která i z potupy dovede udělati lichotku! Ale jsou ty verše opravdu tak špatné? Já se v tom neznám.“
 
-„Nejsou horší nežli jiné. Lucanus má v jednom prstě více nadání, ale i v Rudobradém cosi jest. Především je to neobyčejná záliba v poesii a hudbě. Za dva dny máme býti u něho, abychom vyslechli hudbu k hymnu na počest Afroditinu, s nímž bude dnes nebo zítra hotov. Budeme v malém kroužku. Pouze já, ty, Tullius Senetio a mladý Nerva. A co se týče básní, není pravda to, co jsem ti řekl, že totiž jich užívám po hostině, jako používá Vitelius per plameňáka…! Bývají někdy výmluvné. Slova Hekuby[411](#footnote-19288-411) jsou dojímavá… Stěžuje si na muka porodu a Nero dovedl najíti vhodné výrazy snad proto, že sám rodí v mukách každý řádek… Někdy mi ho bývá líto. U Polluxe, jaká to podivná směsice! Kaligula to neměl v hlavě všecko v pořádku, ale přece jen nebyl takový divotvorce.“
+„Nejsou horší nežli jiné. Lucanus má v jednom prstě více nadání, ale i v Rudobradém cosi jest. Především je to neobyčejná záliba v poesii a hudbě. Za dva dny máme býti u něho, abychom vyslechli hudbu k hymnu na počest Afroditinu, s nímž bude dnes nebo zítra hotov. Budeme v malém kroužku. Pouze já, ty, Tullius Senetio a mladý Nerva. A co se týče básní, není pravda to, co jsem ti řekl, že totiž jich užívám po hostině, jako používá Vitelius per plameňáka…! Bývají někdy výmluvné. Slova Hekuby[^411] jsou dojímavá… Stěžuje si na muka porodu a Nero dovedl najíti vhodné výrazy snad proto, že sám rodí v mukách každý řádek… Někdy mi ho bývá líto. U Polluxe, jaká to podivná směsice! Kaligula to neměl v hlavě všecko v pořádku, ale přece jen nebyl takový divotvorce.“
 
 „Kdo může tušiti, kam až může dospět Ahenobarbovo bláznovství?“ řekl Vinitius.
 
@@ -104,12 +104,12 @@ Pak se na chvíli odmlčel a po krátkém přemýšlení řekl:
 
 „Může!“ odpověděl Vinitius, rozhlížeje se po nebi, posetém hvězdami.
 
-[407](#footnote-19288-407-backlink) Slavný starořímský básník z doby císaře Augusta z 1. st. př. n. l.
+[^407]: Slavný starořímský básník z doby císaře Augusta z 1. st. př. n. l.
 
-[408](#footnote-19288-408-backlink) Slavný řecký skladatel tragédií z konce 6. st. př. n. l.
+[^408]: Slavný řecký skladatel tragédií z konce 6. st. př. n. l.
 
-[409](#footnote-19288-409-backlink) Správce města nebo provincie.
+[^409]: Správce města nebo provincie.
 
-[410](#footnote-19288-410-backlink) Nejvyšší soudní dvůr ve starých Athénách.
+[^410]: Nejvyšší soudní dvůr ve starých Athénách.
 
-[411](#footnote-19288-411-backlink) Choť trojského krále Priama, která po pádu Troje připadla jako kořist Odys­seovi.
+[^411]: Choť trojského krále Priama, která po pádu Troje připadla jako kořist Odys­seovi.

@@ -4,11 +4,11 @@ title: LVI
 
 Nežli Flaviové zbudovali Colosseum, byly amfitheatry stavěny ze dřeva, a proto skoro všecky při požáru shořely. Nero však za účelem uspořádání her dal jich vybudovati několik a mezi nimi jeden obrovský, na který hned, jakmile oheň byl uhašen, začaly býti dopravovány po moři i po Tibru mohutné kmeny stromů, vykácených na svazích Atlasu. Poněvadž hry měly velkolepostí a počtem obětí převýšiti všecky předcházející, pořízeny rozsáhlé prostory pro umístění lidí i zvířat. Tisíce řemeslníků pracovalo o budově dnem i nocí. Stavělo se a zdobilo bez oddechu. Lid si vypravoval zázraky o zábradlích, vykládaných bronzem, jantarem, sloní kostí, perletí a štíty ze zámořských želv. Potrubí, která běžela podél sedadel a byla naplněna ledovou vodou z hor, měla v budově udržovati příjemný chládek, byť i za největších veder. Ohromné, nachové „velarium“ chránilo proti slunečním paprskům. Mezi řadami sedadel byly rozestaveny kadidelnice, na nichž měly hořeti vonné arabské byliny; nahoře byla umístěna zařízení na poprašování diváků šafránovou rosou a vervenou. Proslulí stavitelé Severus a Celer vynaložili všecky svoje vědomosti, aby zbudovali nevyrovnatelné divadlo, které by zároveň mohlo pojmouti takový počet diváků, jakého dosud žádné jiné ze známých nemohlo pojmouti.
 
-Proto také v den, v němž měl býti zahájen _ludus matutinus_, čekaly davy lidu od úsvitu na otevření bran, s rozkoší naslouchajíce řevu lvů, chrčivému kňučení pardálů a vytí psů. Zvířatům nebylo dáno žrádlo po dva dny, naproti tomu byly před nimi vystrkovány krvavé kusy masa, aby tím více byla u nich vydrážděna vzteklost a hlad. Chvílemi se také zvedala taková bouře divokých skřeků, že lidé stojící před cirkem nemohli spolu rozprávěti a citlivější bledli strachem. Zároveň však s východem slunce ozvaly se v okruhu cirku mohutné, ale klidné písně, jimž bylo nasloucháno s údivem; lidé si navzájem opakovali: „Křesťané! Křesťané!“ Četné jejich zástupy byly přivedeny do amfitheatru ještě v noci a ne z jednoho jen vězení, jak bylo původně v úmyslu, nýbrž ze všech po částkách. Vědělo se v davu, že podívaná se potáhne po celé týdny a měsíce, ale docházelo k hádkám, budou-li s onou částí křesťanů, která byla určena pro dnešek, hotovi za jeden den. Hlasy mužské, ženské i dětské, zpívající ranní píseň, byly tak četné, že znalci tvrdili, že kdyby třebas i po stu i dvou stech těl bylo vysíláno najednou, zvířata se unaví, nasytí a do večera nestačí, aby všecky rozsápala. Jiní ujišťovali, že příliš veliký počet obětí, vystupujících v aréně najednou, rozptyluje pozornost a nedovoluje, aby se člověk kochal pohledem, jak náleží. Dle toho, jak se blížil okamžik otevření chodeb, vedoucích do vnitřku, zvaných vomitoria, lid oživoval, rozveseloval se a vedl hádky o různých věcech, jež se týkaly podívané. Začaly se tvořiti strany, zdůrazňující větší obratnost lvů nebo tygrů při rozsápání lidí. Tu i tam byly činěny sázky. Jiní však hovořili o gladiátorech, kteří měli v aréně vystoupiti dříve nežli křesťané, a opět se tvořily strany brzy Samnitů[481](#footnote-19288-481), brzy Gallů, brzy mirmillonů, tu zase Thráků, tu síťovníků[482](#footnote-19288-482). Za časného rána začaly jejich větší nebo menší oddíly za vedení mistrů, zvaných lanisté, hrnouti se do amfitheatru. Nechtějíce se namáhati předčasně, šli beze zbroje, často úplně nazí, často se zelenými větvemi v rukou nebo ověnčeni kvítím, mladí, krásní, za ranního světla a plni života. Jejich těla, lesknoucí se olejem, mohutná, jako do mramoru tesaná, uváděla v nadšení lid mající zálibu ve tvarech. Mnozí z nich byli osobně známi a přes tu chvíli se ozývaly výkřiky: „Buď vítán, Furnie! Buď vítán, Leone! Buď vítán, Maxime! Buď vítán, Diomede!“ Mladé dívky zvedaly k nim oči plné lásky, oni pak se rozhlíželi, kde která je nejkrásnější, a ozývali se k nim žertovnými slovy, jako by jich netížila žádná starost, posílajíce polibky nebo volajíce: „Obejmi, nežli obejme smrt!“ Potom mizeli ve branách, z nichž mnozí neměli již vyjíti. Ale stále nové příčiny rozptylovaly pozornost davů. Za gladiátory se ubírali mastigoforové, totiž lidé, opatření biči, a těch povinností bylo šlehati do zápasníků a povzbuzovati je. Pak táhli mezci směrem ke „spolariu“ celé řady vozů, na nichž byly naloženy hranice dřevěných rakví. Při pohledu na to lid se radoval, usuzuje z jejich počtu na ohromnost podívané. Potom kráčeli lidé, kteří měli raněné dobíjeti, ustrojení tak, aby se každý podobal Charonovi nebo Merkurovi, pak opět lidé, dohlížející na pořádek v cirku a rozdávající místa na sedadla, potom otroci, kteří měli roznášeti jídla a ochlazující nápoje, konečně praetoriáni, které měl každý caesar v amfitheatru po ruce.
+Proto také v den, v němž měl býti zahájen _ludus matutinus_, čekaly davy lidu od úsvitu na otevření bran, s rozkoší naslouchajíce řevu lvů, chrčivému kňučení pardálů a vytí psů. Zvířatům nebylo dáno žrádlo po dva dny, naproti tomu byly před nimi vystrkovány krvavé kusy masa, aby tím více byla u nich vydrážděna vzteklost a hlad. Chvílemi se také zvedala taková bouře divokých skřeků, že lidé stojící před cirkem nemohli spolu rozprávěti a citlivější bledli strachem. Zároveň však s východem slunce ozvaly se v okruhu cirku mohutné, ale klidné písně, jimž bylo nasloucháno s údivem; lidé si navzájem opakovali: „Křesťané! Křesťané!“ Četné jejich zástupy byly přivedeny do amfitheatru ještě v noci a ne z jednoho jen vězení, jak bylo původně v úmyslu, nýbrž ze všech po částkách. Vědělo se v davu, že podívaná se potáhne po celé týdny a měsíce, ale docházelo k hádkám, budou-li s onou částí křesťanů, která byla určena pro dnešek, hotovi za jeden den. Hlasy mužské, ženské i dětské, zpívající ranní píseň, byly tak četné, že znalci tvrdili, že kdyby třebas i po stu i dvou stech těl bylo vysíláno najednou, zvířata se unaví, nasytí a do večera nestačí, aby všecky rozsápala. Jiní ujišťovali, že příliš veliký počet obětí, vystupujících v aréně najednou, rozptyluje pozornost a nedovoluje, aby se člověk kochal pohledem, jak náleží. Dle toho, jak se blížil okamžik otevření chodeb, vedoucích do vnitřku, zvaných vomitoria, lid oživoval, rozveseloval se a vedl hádky o různých věcech, jež se týkaly podívané. Začaly se tvořiti strany, zdůrazňující větší obratnost lvů nebo tygrů při rozsápání lidí. Tu i tam byly činěny sázky. Jiní však hovořili o gladiátorech, kteří měli v aréně vystoupiti dříve nežli křesťané, a opět se tvořily strany brzy Samnitů[^481], brzy Gallů, brzy mirmillonů, tu zase Thráků, tu síťovníků[^482]. Za časného rána začaly jejich větší nebo menší oddíly za vedení mistrů, zvaných lanisté, hrnouti se do amfitheatru. Nechtějíce se namáhati předčasně, šli beze zbroje, často úplně nazí, často se zelenými větvemi v rukou nebo ověnčeni kvítím, mladí, krásní, za ranního světla a plni života. Jejich těla, lesknoucí se olejem, mohutná, jako do mramoru tesaná, uváděla v nadšení lid mající zálibu ve tvarech. Mnozí z nich byli osobně známi a přes tu chvíli se ozývaly výkřiky: „Buď vítán, Furnie! Buď vítán, Leone! Buď vítán, Maxime! Buď vítán, Diomede!“ Mladé dívky zvedaly k nim oči plné lásky, oni pak se rozhlíželi, kde která je nejkrásnější, a ozývali se k nim žertovnými slovy, jako by jich netížila žádná starost, posílajíce polibky nebo volajíce: „Obejmi, nežli obejme smrt!“ Potom mizeli ve branách, z nichž mnozí neměli již vyjíti. Ale stále nové příčiny rozptylovaly pozornost davů. Za gladiátory se ubírali mastigoforové, totiž lidé, opatření biči, a těch povinností bylo šlehati do zápasníků a povzbuzovati je. Pak táhli mezci směrem ke „spolariu“ celé řady vozů, na nichž byly naloženy hranice dřevěných rakví. Při pohledu na to lid se radoval, usuzuje z jejich počtu na ohromnost podívané. Potom kráčeli lidé, kteří měli raněné dobíjeti, ustrojení tak, aby se každý podobal Charonovi nebo Merkurovi, pak opět lidé, dohlížející na pořádek v cirku a rozdávající místa na sedadla, potom otroci, kteří měli roznášeti jídla a ochlazující nápoje, konečně praetoriáni, které měl každý caesar v amfitheatru po ruce.
 
 Konečně byla otevřena vomitoria a davy se hrnuly dovnitř. Ale množství těch, kdož se nahromadili, bylo takové, že se stále jen hrnuli a hrnuli po celé hodiny, až bylo s podivením, že amfitheatr může pojmouti tak nespočetný lid. Řev zvířat, větřících lidské výpary, ještě se stupňoval. Lid v cirku hlučel jako vlnobití za bouře, zaujímaje místa.
 
-Nakonec přibyl praefekt města, provázen „vigily“, a za ním začaly se nepřerušeným již řetězem střídati lektiky senátorů, konsulů, praetorů, aedilů[483](#footnote-19288-483), úředníků veřejných i palácových, praetoriánské stařešiny, patriciů a elegantních žen. Před některými lektikami ubírali se liktoři[484](#footnote-19288-484), nesouce sekyrky uprostřed svazku prutů, před ostatními hloučky otroků. Na slunci se třpytilo zlacení lektik, bílá a různobarevná roucha, pera, náušnice, šperky, ocel sekyrek. Z cirku dolétal jásot, jímž lid vítal vynikající hodnostáře. Občas dostavovaly se ještě neveliké oddíly praetoriánů.
+Nakonec přibyl praefekt města, provázen „vigily“, a za ním začaly se nepřerušeným již řetězem střídati lektiky senátorů, konsulů, praetorů, aedilů[^483], úředníků veřejných i palácových, praetoriánské stařešiny, patriciů a elegantních žen. Před některými lektikami ubírali se liktoři[^484], nesouce sekyrky uprostřed svazku prutů, před ostatními hloučky otroků. Na slunci se třpytilo zlacení lektik, bílá a různobarevná roucha, pera, náušnice, šperky, ocel sekyrek. Z cirku dolétal jásot, jímž lid vítal vynikající hodnostáře. Občas dostavovaly se ještě neveliké oddíly praetoriánů.
 
 Nicméně kněží z různých chrámů přibyli o něco později a teprve za nimi byly neseny posvátné panny Vestiny, před nimiž se ubírali liktoři. Se zahájením podívané čekalo se již jen na Caesara, jenž nechtěje lidu rovněž způsobiti příliš dlouhé čekání a snaže se, aby si ho získal spěchem, dostavil se záhy v průvodu Augusty a Augustianů.
 
@@ -32,7 +32,7 @@ Ale pojednou se zastavil, protože se mu zdálo, že nablízku mříží se ozva
 
   
 
-![quo_vadis_%20(12).jpg](../Images/quo_vadis_%20%2812%29_fmt.jpeg)
+![quo_vadis_%20(12).jpg](./resources/quo_vadis_-(12)_fmt.jpeg)
 
 Proud světla padal na hlavu mluvícího…
 
@@ -96,14 +96,14 @@ Konečně se dupot stal podoben rachotu hromu a trval bez ustání. Tehdy praef
 
 Obvyklá podívaná začínala se honbou na divokou zvěř, a v tom vynikali různí barbaři od severu a jihu.
 
-Tentokrát však mělo býti zvířat až příliš mnoho, a proto se začalo andabaty, totiž lidmi opatřenými přílbami bez otvorů na oči, a tudíž zápasících mezi sebou naslepo. Několik jich, vstoupivši pojednou do arény, začalo mávati ve vzduchu meči, mastigofoři pak pomocí dlouhých vidlic postrkovali jedny ke druhým, aby mohlo dojíti ke srážce. Elegantnější diváci hleděli lhostejně a pohrdavě na podobné divadlo, lid však se bavil nemotornými pohyby šermířů. A když se nahodilo, že se zápasníci postavili k sobě zády, propukal ve hlasitý smích, volaje: „Napravo!“ – „Nalevo!“ – „Přímo!“ – často uváděje protivníky úmyslně v omyl. Nicméně několik dvojic se střetlo a boj začínal býti krvavý. Zuřivější zápasníci odhazovali štíty, a podavše si levé ruce, aby se od sebe již neodloučili, pravicemi bojovali na život a na smrt. Kdo padl, zdvíhal palec vzhůru, prose tímto znamením o milost; ale na začátku podívané lid obyčejně se dožadoval smrti raněných, zvláště, šlo-li o andabaty, kteří majíce tváře zakryty, zůstávali mu neznámi. Zvolna se počet bojujících stále menšil, a když konečně zbyli pouze dva, byli poštváni proti sobě, takže střetnuvše se, padli oba na písek a vzájemně se na něm probodli. Tehdy za výkřiků: „Skončeno!“[485](#footnote-19288-485) zřízenci odstranili mrtvoly, jinoši pak zahrabali krvavé stopy v aréně a posypali je lístky šafránu.
+Tentokrát však mělo býti zvířat až příliš mnoho, a proto se začalo andabaty, totiž lidmi opatřenými přílbami bez otvorů na oči, a tudíž zápasících mezi sebou naslepo. Několik jich, vstoupivši pojednou do arény, začalo mávati ve vzduchu meči, mastigofoři pak pomocí dlouhých vidlic postrkovali jedny ke druhým, aby mohlo dojíti ke srážce. Elegantnější diváci hleděli lhostejně a pohrdavě na podobné divadlo, lid však se bavil nemotornými pohyby šermířů. A když se nahodilo, že se zápasníci postavili k sobě zády, propukal ve hlasitý smích, volaje: „Napravo!“ – „Nalevo!“ – „Přímo!“ – často uváděje protivníky úmyslně v omyl. Nicméně několik dvojic se střetlo a boj začínal býti krvavý. Zuřivější zápasníci odhazovali štíty, a podavše si levé ruce, aby se od sebe již neodloučili, pravicemi bojovali na život a na smrt. Kdo padl, zdvíhal palec vzhůru, prose tímto znamením o milost; ale na začátku podívané lid obyčejně se dožadoval smrti raněných, zvláště, šlo-li o andabaty, kteří majíce tváře zakryty, zůstávali mu neznámi. Zvolna se počet bojujících stále menšil, a když konečně zbyli pouze dva, byli poštváni proti sobě, takže střetnuvše se, padli oba na písek a vzájemně se na něm probodli. Tehdy za výkřiků: „Skončeno!“[^485] zřízenci odstranili mrtvoly, jinoši pak zahrabali krvavé stopy v aréně a posypali je lístky šafránu.
 
 Nyní mělo dojíti k vážnějšímu boji, vzbuzujícímu dychtivost nejen u prostého davu, nýbrž i u lidí uhlazených, při kterém mladí patriciové nejednou činili ohromné sázky, obehrávajíce se často do poslední nitky. Hned také začaly kolovati z ruky do ruky tabulky, na něž byla vpisována jména oblíbenců, a současně množství sestercií, jaké každý sázel na svého vyvoleného. „Spectati“, totiž zápasníci, kteří v aréně již vystupovali a dosahovali v ní vítězství, získávali nejvíce přívrženců, nicméně mezi hráči byli i tací, kdož sázeli značné obnosy na gladiátory nové a úplně neznámé, doufajíce, že dosáhnou obrovských výher, dobudou-li ti tam vítězství. Sázky činil sám Caesar i kněží i vestálky i senátoři i rytíři i lid. Lidé prostého původu, nedostávalo-li se jim peněz, často dávali v sázku vlastní svobodu. Proto také se čekalo s tlukoucím srdcem, někdy i s úzkostí, až se šermíři objeví, a nejeden hlasitě činil sliby bohům, aby si zjednal jejich přízně pro svého oblíbence.
 
-A tak, jakmile se ozvaly zvuky trub, nastala v amfitheatru chvíle očekávání. Tisíce očí se obrátilo k velikým železným závorám, k nimž přistoupil člověk přestrojený za Charona a za všeobecného mlčení třikrát zaklepal na ně kladivem, jako by vyvolával na smrt ony, kdož byli za nimi ukryti. Potom se pomalu otevřely obě polovice vrat, ukazujíce černý jícen, ze kterého se začali hrnouti do světlé arény gladiátoři. Kráčeli ve skupinách po dvaceti pěti lidech, odděleně Thrákové, odděleně mirmilloni, Samnité, Gallové, všichni těžce ozbrojení, a konečně „retiarii“[486](#footnote-19288-486), držící v jedné ruce síť, ve druhé trojzubec. Při pohledu na ně strhl se tu a tam po lavicích potlesk, který se záhy změnil v jedinou ohromnou a dlouhotrvající bouři. Odshora dolů bylo viděti rozpálené tváře, tleskající dlaně a otevřená ústa, z nichž se vydíraly výkřiky. Oni pak obešli celou arénu stejným a pružným krokem, blýskajíce oružím a bohatou zbrojí, pak se zastavili před císařským ‚pódiem‘, hrdi, klidni a nádherní. Pronikavý hlas rohu ztišil potlesk a tehdy zápasníci vysoko vztyčili pravice, a zvedajíce oči i hlavy k Caesarovi, začali volati či vlastně zpívati táhlými hlasy:
+A tak, jakmile se ozvaly zvuky trub, nastala v amfitheatru chvíle očekávání. Tisíce očí se obrátilo k velikým železným závorám, k nimž přistoupil člověk přestrojený za Charona a za všeobecného mlčení třikrát zaklepal na ně kladivem, jako by vyvolával na smrt ony, kdož byli za nimi ukryti. Potom se pomalu otevřely obě polovice vrat, ukazujíce černý jícen, ze kterého se začali hrnouti do světlé arény gladiátoři. Kráčeli ve skupinách po dvaceti pěti lidech, odděleně Thrákové, odděleně mirmilloni, Samnité, Gallové, všichni těžce ozbrojení, a konečně „retiarii“[^486], držící v jedné ruce síť, ve druhé trojzubec. Při pohledu na ně strhl se tu a tam po lavicích potlesk, který se záhy změnil v jedinou ohromnou a dlouhotrvající bouři. Odshora dolů bylo viděti rozpálené tváře, tleskající dlaně a otevřená ústa, z nichž se vydíraly výkřiky. Oni pak obešli celou arénu stejným a pružným krokem, blýskajíce oružím a bohatou zbrojí, pak se zastavili před císařským ‚pódiem‘, hrdi, klidni a nádherní. Pronikavý hlas rohu ztišil potlesk a tehdy zápasníci vysoko vztyčili pravice, a zvedajíce oči i hlavy k Caesarovi, začali volati či vlastně zpívati táhlými hlasy:
 
 „Ave, Caesar imperator!  
-Morituri te salutant!“[487](#footnote-19288-487)
+Morituri te salutant!“[^487]
 
 Pak se rychle rozběhli od sebe, zaujímajíce zvláštní místa na obvodu arény. Měli na sebe udeřiti v celých skupinách, ale dříve bylo dovoleno proslulejším šermířům, aby svedli mezi sebou řadu jednotlivých bojů, ve kterých se nejlépe ukazovala síla, obratnost a odvaha protivníků. A tak hned ze středu „Gallů“ vystoupil zápasník, dobře známý milovníkům amfitheatru pode jménem „Řezníka“ (lanio), vítěz při mnohých hrách. Ve veliké přílbě na hlavě a v pancéři, objímajícím vpředu i zezadu jeho statná prsa, vypadal v záři ve žluté aréně jako obrovský, lesknoucí se chrobák. Neméně proslulý retiarius Calendio vystoupil proti němu.
 
@@ -121,7 +121,7 @@ Zatím Gall, došed do středu arény, začal opět ustupovati s napřaženým 
 
 „Nechci tebe, rybu hledám,
 
-Proč mi prcháš, Galle?“[488](#footnote-19288-488)
+Proč mi prcháš, Galle?“[^488]
 
 Ale Gall neprchal, neboť se za chvíli zastavil, a zůstav na místě, začal se obraceti pouze neznačným pohybem tak, aby měl nepřítele vždy vpředu.
 
@@ -143,7 +143,7 @@ Vestálky opakovaly to znamení ihned nato. Tehdy Calendio poklekl Gallovi na pr
 
 Lanio nějakou dobu sebou trhal jako podříznutý býk a nohama kopal do písku, potom se natáhl a zůstal bez hnutí.
 
-Merkur[489](#footnote-19288-489) nepotřeboval se přesvědčovati žhavým železem, žije-li ještě. Byl brzy odstraněn a pak vystoupily jiné dvojice, po jejichž zápase teprve se rozpoutal boj celých skupin. Lid se ho účastnil duší, srdcem, očima; řval, hulákal, hvízdal, tleskal, smál se, povzbuzoval bojovníky, zuřil. Gladiátoři, rozdělení v aréně ve dvě skupiny, zápasili se vzteklostí divokých zvířat; prsa narážela na prsa, těla se splétala ve smrtelném objetí, v kloubech praskaly statné údy, meče se hroužily do prsou a břich, ze zbledlých úst se chrlila krev do písku. Několik nováčků bylo ke konci zachváceno strachem tak děsným, že vytrhnuvše se z víru, dali se na útěk, ale mastigoforové ihned je zahnali do bitvy biči, na jejichž konci bylo olovo. Na písku se tvořily veliké, tmavé skvrny; čím dále tím více nahých a ozbrojených těl leželo podle sebe v řadě jako snopy. Živí bojovali na mrtvolách, naráželi na sebe pancéři, štíty, zkrvavujíce si nohy i zlámané oruží a padali. Lid samou radostí byl všecek bez sebe, opájel se smrtí, dýchal jí, nasycoval zrak pohledem na ni a s rozkoší vdechoval do plic její výpary.
+Merkur[^489] nepotřeboval se přesvědčovati žhavým železem, žije-li ještě. Byl brzy odstraněn a pak vystoupily jiné dvojice, po jejichž zápase teprve se rozpoutal boj celých skupin. Lid se ho účastnil duší, srdcem, očima; řval, hulákal, hvízdal, tleskal, smál se, povzbuzoval bojovníky, zuřil. Gladiátoři, rozdělení v aréně ve dvě skupiny, zápasili se vzteklostí divokých zvířat; prsa narážela na prsa, těla se splétala ve smrtelném objetí, v kloubech praskaly statné údy, meče se hroužily do prsou a břich, ze zbledlých úst se chrlila krev do písku. Několik nováčků bylo ke konci zachváceno strachem tak děsným, že vytrhnuvše se z víru, dali se na útěk, ale mastigoforové ihned je zahnali do bitvy biči, na jejichž konci bylo olovo. Na písku se tvořily veliké, tmavé skvrny; čím dále tím více nahých a ozbrojených těl leželo podle sebe v řadě jako snopy. Živí bojovali na mrtvolách, naráželi na sebe pancéři, štíty, zkrvavujíce si nohy i zlámané oruží a padali. Lid samou radostí byl všecek bez sebe, opájel se smrtí, dýchal jí, nasycoval zrak pohledem na ni a s rozkoší vdechoval do plic její výpary.
 
 Přemožení padli skoro všichni. Sotva jen několik raněných pokleklo uprostřed arény a třesouc se vztahovalo k divákům ruce s prosbou o milost. Vítězům byly rozdány odměny, věnce, olivové ratolesti a nastoupila chvíle odpočinku, která z rozkazu vševládného Caesara změnila se v hostinu. Ve vázách byly zapáleny vonné byliny. Postřikovači skrápěli lid šafránovým a fialovým deštíkem. Byly roznášeny ochlazující nápoje, pečená masitá jídla, sladké pečivo, víno, olivy a ovoce. Lid všecko hltal, rozprávěl a jásal ku poctě Caesarově, aby jej naklonil ke štědrosti tím větší. A vskutku, když byl ukojen hlad a uhašena žízeň, sta otroků vnesla koše plné dárků a z těch pacholata, oblečená za Amorky, vybírala různé předměty a oběma rukama je rozhazovala mezi lavice. Ve chvíli, když byly rozdávány loterní „tessery“, vznikla rvačka: lidé se tlačili, poráželi, šlapali druh po druhu, křičeli o pomoc, přeskakovali řady sedadel a dusili se ve strašlivé tlačenici, neboť komu se dostalo šťastnějšího čísla, mohl vyhráti třebas i dům se zahradou, otroka, nádherný šat nebo zvláštní divoké zvíře, které pak ihned zase prodával do amfitheatru. Povstávaly za tou příčinou takové zmatky, že praetoriáni musili často zaváděti pořádek, po každém rozdávání pak byli z hlediště vynášeni lidé se zlomenýma rukama, nohama, nebo dokonce ušlapaní v tlačenici k smrti.
 
@@ -167,11 +167,11 @@ Ale jiní si tropili smích dále:
 
 „Kdybych do ní chytil tebe, chytil bych zasmrádajícího ťulpasa.“
 
-„A co bude s křesťany?“ ptal se Festus z Ligurie[490](#footnote-19288-490). „Nechtěl by ses státi psem a kousat je?“
+„A co bude s křesťany?“ ptal se Festus z Ligurie[^490]. „Nechtěl by ses státi psem a kousat je?“
 
 „Nerad bych se stal tvým bratrem.“
 
-„Ty maeotský[491](#footnote-19288-491) trubče!“
+„Ty maeotský[^491] trubče!“
 
 „Ty ligurský mezku!“
 
@@ -199,9 +199,9 @@ Po celém amfitheatru ozval se hlasitý šum:
 
 „Křesťané! Křesťané…!“
 
-Zaskřípěla železná vrata; ve tmavých otvorech rozlehly se obvyklé křiky mastigoforů: „Na písek!“ a v jediné chvíli zalidnila se aréna zástupy jakýchsi silvanů[492](#footnote-19288-492), pokrytých kožemi. Všichni běželi poněkud rychle, horečně, a dorazivše do středu kruhu, poklekli se zvednutýma rukama druh u druha. Lid se domníval, že je to prosba o smilování, a rozzuřen takovou zbabělostí, začal dupati, hvízdati, házeti prázdnými nádobami od vína, okousanými kostmi a řváti: „Zvířata! Zvířata…!“ Ale náhle se stalo cosi neočekávaného. Ze středu huňatého zástupu totiž zahlaholily zpívající hlasy a v témž okamžiku zazněla píseň, která po prvé byla slyšena v římském cirku:
+Zaskřípěla železná vrata; ve tmavých otvorech rozlehly se obvyklé křiky mastigoforů: „Na písek!“ a v jediné chvíli zalidnila se aréna zástupy jakýchsi silvanů[^492], pokrytých kožemi. Všichni běželi poněkud rychle, horečně, a dorazivše do středu kruhu, poklekli se zvednutýma rukama druh u druha. Lid se domníval, že je to prosba o smilování, a rozzuřen takovou zbabělostí, začal dupati, hvízdati, házeti prázdnými nádobami od vína, okousanými kostmi a řváti: „Zvířata! Zvířata…!“ Ale náhle se stalo cosi neočekávaného. Ze středu huňatého zástupu totiž zahlaholily zpívající hlasy a v témž okamžiku zazněla píseň, která po prvé byla slyšena v římském cirku:
 
-„Christus regnat…!“[493](#footnote-19288-493)
+„Christus regnat…!“[^493]
 
 Tehdy se lidu zmocnil úžas. Odsouzenci zpívali, majíce oči zdviženy k velariu. Bylo viděti pobledlé, ale téměř nadšené tváře. Všichni porozuměli, že ti lidé neprosí o smilování a že se zdá, jako by neviděli cirku ni senátu, ni Caesara. Christus regnat!
 
@@ -241,7 +241,7 @@ Z nejvyšší řady v amfitheatru díval se na ně apoštol Petr. Nikdo na ně
 
   
 
-![quo_vadis_%20(13).jpg](../Images/quo_vadis_%20%2813%29_fmt.jpeg)
+![quo_vadis_%20(13).jpg](./resources/quo_vadis_-(13)_fmt.jpeg)
 
 Z nejvyšší řady v amfitheatru díval se na ně apoštol Petr.
 
@@ -258,7 +258,7 @@ A vskutku čekala taková, jaké se nikdo nenadál. Caesar totiž, který od n�
 Pak udeřil v struny a začal zpívati:
 
 „Ó, zářný synu bohyně Léty,  
-Tenedu[494](#footnote-19288-494) vládce, Killy[495](#footnote-19288-495) a Chrysy[496](#footnote-19288-496),  
+Tenedu[^494] vládce, Killy[^495] a Chrysy[^496],  
 jak že jsi mohl, v ochraně maje  
 posvátné město, Ilion drahé,  
 vydat je zlobě Achajců krutých,  
@@ -270,7 +270,7 @@ k tobě i matky z hloubi svých srdcí
 zvedaly hlasy hroužené v slzách,  
 bys k jejich dětem soucit měl vřelý!  
 Kámen by spíše nářkem tím hnul se,  
-ty však, Sminthei[497](#footnote-19288-497), méně jsi citliv  
+ty však, Sminthei[^497], méně jsi citliv  
 k lidskému bolu nežli ten kámen…!“
 
 Píseň zvolna přecházela v žalostnou a boluplnou elegii. V cirku nastalo ticho. Za chvíli Caesar, sám vzrušen, začal zpívati dále:
@@ -294,40 +294,40 @@ A apoštol Petr držel svoji bílou, třesoucí se hlavu oběma rukama a volal
 
   
 
-![quo_vadis_%20(14).jpg](../Images/quo_vadis_%20%2814%29_fmt.jpeg)
+![quo_vadis_%20(14).jpg](./resources/quo_vadis_-(14)_fmt.jpeg)
 
 Svištění opeřených šípů splývalo v jedno s řevem zvířat.
 
-[481](#footnote-19288-481-backlink) Větev sabinského kmene (sídlil mezi řekami Narem, Tiberou a Anienem).
+[^481]: Větev sabinského kmene (sídlil mezi řekami Narem, Tiberou a Anienem).
 
-[482](#footnote-19288-482-backlink) Zápasník, opatřený pouze sítí, trojzubcem a krátkým mečem.
+[^482]: Zápasník, opatřený pouze sítí, trojzubcem a krátkým mečem.
 
-[483](#footnote-19288-483-backlink) Pomocný a podřízený úředník římského tribuna (vyšší vojenský či občanský hodnostář).
+[^483]: Pomocný a podřízený úředník římského tribuna (vyšší vojenský či občanský hodnostář).
 
-[484](#footnote-19288-484-backlink) Starořímští úřední zřízenci ve službách vyšších hodnostářů, jimž razili cestu na veřejnosti a před nimiž nosili svazek prutů s vyčnívající sekyrkou jako odznak úřední moci.
+[^484]: Starořímští úřední zřízenci ve službách vyšších hodnostářů, jimž razili cestu na veřejnosti a před nimiž nosili svazek prutů s vyčnívající sekyrkou jako odznak úřední moci.
 
-[485](#footnote-19288-485-backlink) Peractum est.
+[^485]: Peractum est.
 
-[486](#footnote-19288-486-backlink) Síťovníci – zápasníci, opatření pouze sítí, trojzubcem a krátkým mečem.
+[^486]: Síťovníci – zápasníci, opatření pouze sítí, trojzubcem a krátkým mečem.
 
-[487](#footnote-19288-487-backlink) Zdráv buď, Caesare vladaři! Ti, kdo jdou na smrt, tě pozdravují!
+[^487]: Zdráv buď, Caesare vladaři! Ti, kdo jdou na smrt, tě pozdravují!
 
-[488](#footnote-19288-488-backlink) Non te peto, piscem peto. Quid me fugis, Galle?
+[^488]: Non te peto, piscem peto. Quid me fugis, Galle?
 
-[489](#footnote-19288-489-backlink) Zde v přeneseném slyslu zřízenec, který se v cirku přesvědčoval žhavým železem o skutečné smrti padlého.
+[^489]: Zde v přeneseném slyslu zřízenec, který se v cirku přesvědčoval žhavým železem o skutečné smrti padlého.
 
-[490](#footnote-19288-490-backlink) Krajina v severní Itálii.
+[^490]: Krajina v severní Itálii.
 
-[491](#footnote-19288-491-backlink) Maeotové – starověký národ usídlený u Azovského moře.
+[^491]: Maeotové – starověký národ usídlený u Azovského moře.
 
-[492](#footnote-19288-492-backlink) Lesní muži, lesní bůžci.
+[^492]: Lesní muži, lesní bůžci.
 
-[493](#footnote-19288-493-backlink) Kristus panuje.
+[^493]: Kristus panuje.
 
-[494](#footnote-19288-494-backlink) Řecký ostrov u trojského pobřeží.
+[^494]: Řecký ostrov u trojského pobřeží.
 
-[495](#footnote-19288-495-backlink) Starořecké město v severozápaním výběžku Malé Asie.
+[^495]: Starořecké město v severozápaním výběžku Malé Asie.
 
-[496](#footnote-19288-496-backlink) Starořecké město v severozápaním výběžku Malé Asie.
+[^496]: Starořecké město v severozápaním výběžku Malé Asie.
 
-[497](#footnote-19288-497-backlink) „Myší“ – příjmení Apollonovo, myš v kultu tohoto boha znamenala věštecký symbol.
+[^497]: „Myší“ – příjmení Apollonovo, myš v kultu tohoto boha znamenala věštecký symbol.

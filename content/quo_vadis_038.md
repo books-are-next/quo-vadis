@@ -2,7 +2,7 @@
 title: XXXIV
 ---
 
-Chodě po zahrádce, Vinitius vypravoval Lygii krátkými, z hloubi srdce vytrženými slovy to, z čeho se před chvílí vyznal apoštolům: tedy z neklidu své duše, ze změn, jaké se v něm udály, a konečně z toho nesmírného stesku, který mu zahalil život od té doby, co opustil příbytek Miriamin. Přiznal se Lygii, že chtěl na ni zapomenouti, ale nemohl. Myslil na ni celé dny i noci. Připomínal mu ji onen křížek, upletený z haluzek zimostrázu, jak mu jej zanechala, který umístil v larariu a jejž bezděčně uctíval jako cosi božského. A toužil po ní stále horoucněji, neboť láska byla silnější jeho a již uAulů zachvátila všecku jeho duši… Jiným předou nit života Parky[368](#footnote-19288-368), kdežto jemu ji předla láska, stesk a smutek. Zlé byly jeho činy, ale vyvěraly z lásky. Miloval ji u Aulů i na Palatině i když ji viděl na Ostrianu, naslouchající slovům Petrovým, i když šel, aby ji s Krotonem unesl, i když bděla u jeho lože i když jej opustila. Přišel Chilon, který vypátral její příbytek a byl tou radou, aby byla odvlečena, ale on Chilona raději ztrestal a šel k apoštolům prosit o pravdu i o ni… A budiž blahoslavena chvíle, ve které mu taková myšlenka vstoupila do hlavy, neboť, hle, jest u ní, u Lygie, a ona jistě již nebude prchati před ním jako posledně prchla z příbytku Miriamina.
+Chodě po zahrádce, Vinitius vypravoval Lygii krátkými, z hloubi srdce vytrženými slovy to, z čeho se před chvílí vyznal apoštolům: tedy z neklidu své duše, ze změn, jaké se v něm udály, a konečně z toho nesmírného stesku, který mu zahalil život od té doby, co opustil příbytek Miriamin. Přiznal se Lygii, že chtěl na ni zapomenouti, ale nemohl. Myslil na ni celé dny i noci. Připomínal mu ji onen křížek, upletený z haluzek zimostrázu, jak mu jej zanechala, který umístil v larariu a jejž bezděčně uctíval jako cosi božského. A toužil po ní stále horoucněji, neboť láska byla silnější jeho a již uAulů zachvátila všecku jeho duši… Jiným předou nit života Parky[^368], kdežto jemu ji předla láska, stesk a smutek. Zlé byly jeho činy, ale vyvěraly z lásky. Miloval ji u Aulů i na Palatině i když ji viděl na Ostrianu, naslouchající slovům Petrovým, i když šel, aby ji s Krotonem unesl, i když bděla u jeho lože i když jej opustila. Přišel Chilon, který vypátral její příbytek a byl tou radou, aby byla odvlečena, ale on Chilona raději ztrestal a šel k apoštolům prosit o pravdu i o ni… A budiž blahoslavena chvíle, ve které mu taková myšlenka vstoupila do hlavy, neboť, hle, jest u ní, u Lygie, a ona jistě již nebude prchati před ním jako posledně prchla z příbytku Miriamina.
 
 „Neprchla jsem před tebou,“ řekla Lygie.
 
@@ -60,7 +60,7 @@ Ona však, zapálivši se jako růže nebo jako jitřenka, odvětila:
 
 „Zvyk velí jinak…“
 
-„Vím. Přináší je obyčejně _pronuba_[369](#footnote-19288-369) teprve za nevěstou, ale učiň mi to k vůli! Vezmu je s sebou do svého letohrádku v Antiu a tam budou mi tě připomínati.“
+„Vím. Přináší je obyčejně _pronuba_[^369] teprve za nevěstou, ale učiň mi to k vůli! Vezmu je s sebou do svého letohrádku v Antiu a tam budou mi tě připomínati.“
 
 Tu sepjal ruce a jal se opakovati jako dítě, které prosí:
 
@@ -78,6 +78,6 @@ Ten pak odpověděl:
 
 „Vím, jak tomu jest, neboť nikdy jsem nebyl tak šťasten jako mezi vámi!“
 
-[368](#footnote-19288-368-backlink) Bohyně lidského osudu.
+[^368]: Bohyně lidského osudu.
 
-[369](#footnote-19288-369-backlink) Matrona, která provázela nevěstu a poučovala ji o povinnostech manželky.
+[^369]: Matrona, která provázela nevěstu a poučovala ji o povinnostech manželky.

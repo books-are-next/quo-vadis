@@ -50,7 +50,7 @@ Ursus totiž držel v rukou jakéhosi člověka, úplně zvráceného nazad se 
 
   
 
-![quo_vadis_%20(6).jpg](../Images/quo_vadis_%20%286%29_fmt.jpeg)
+![quo_vadis_%20(6).jpg](./resources/quo_vadis_-(6)_fmt.jpeg)
 
 Ursus totiž držel v rukou jakéhosi člověka, úplně zvráceného nazad.
 
@@ -94,7 +94,7 @@ Teprve, když proběhl několika postranními uličkami a zahlédl několik dě
 
 Lidé, jdoucí proti němu, zabočili do jakési vedlejší uličky a jej opět obklopila prázdnota. Město ještě spalo. Zrána nastával ruch časněji v zámožnějších čtvrtích, kde otroci bohatých domů musili brzy vstávati, kdežto v těch, které byly obývány svobodným obyvatelstvem, živeným na útraty pánů, tedy povalečským, probouzeli se lidé dosti pozdě, zvláště v zimě. Chilon, proseděv nějakou dobu na prahu, ucítil citelné chladno, proto vstal, a přesvědčiv se, že neztratil měšce, který dostal od Vinitia, volnějším již krokem zamířil k řece.
 
-„Snad uvidím někde Krotonovo tělo,“ řekl si. „Bohové! Ten Lyg, je-li člověkem, mohl by si za jediný rok vydělat miliony sestercií, neboť zardousil-li Krotona jako štěně, kdo ho přemůže? Za každé vystoupení v aréně dali by mu tolik zlata, co sám váží. Tu dívku hlídá lépe nežli Cerberus[314](#footnote-19288-314) peklo. Ale aby ho to peklo také pohltilo! Nechci s ním nic mít! Jest až příliš silných kostí! Než, co si tu počít? Stala se strašlivá věc. Zpřelámal-li takovému Krotonovi kosti, jistě i duše Vinitiova kvílí tam nad tím prokletým domem, čekajíc na pohřeb. U Kastora, to je přece patricius, přítel Caesarův, příbuzný Petroniův, pán známý po celém Římě a vojenský tribun! Jeho smrt jim tak hladce neprojde…! Což kdybych se na příklad odebral do ležení praetoriánů nebo k vigilům…?“
+„Snad uvidím někde Krotonovo tělo,“ řekl si. „Bohové! Ten Lyg, je-li člověkem, mohl by si za jediný rok vydělat miliony sestercií, neboť zardousil-li Krotona jako štěně, kdo ho přemůže? Za každé vystoupení v aréně dali by mu tolik zlata, co sám váží. Tu dívku hlídá lépe nežli Cerberus[^314] peklo. Ale aby ho to peklo také pohltilo! Nechci s ním nic mít! Jest až příliš silných kostí! Než, co si tu počít? Stala se strašlivá věc. Zpřelámal-li takovému Krotonovi kosti, jistě i duše Vinitiova kvílí tam nad tím prokletým domem, čekajíc na pohřeb. U Kastora, to je přece patricius, přítel Caesarův, příbuzný Petroniův, pán známý po celém Římě a vojenský tribun! Jeho smrt jim tak hladce neprojde…! Což kdybych se na příklad odebral do ležení praetoriánů nebo k vigilům…?“
 
 Tu se odmlčel a začal se rozmýšleti, ale za chvíli řekl:
 
@@ -136,10 +136,10 @@ Ale Ursus, jako by jej bylo již omrzelo otálení, přistoupil ke dveřím cubi
 
 „Chilone Chilonide!“ řekl.
 
-„_Pax tecum, pax, pax!_[315](#footnote-19288-315)“ odpověděl Chilon. „Ó, nejlepší z křesťanů! Ano, jsem Chilon, ale to je omyl… Neznám tě!“
+„_Pax tecum, pax, pax!_[^315]“ odpověděl Chilon. „Ó, nejlepší z křesťanů! Ano, jsem Chilon, ale to je omyl… Neznám tě!“
 
 „Chilone Chilonide!“ opakoval Ursus. „Tvůj pán Vinitius tě vybízí, aby ses k němu odebral společně se mnou!“
 
-[314](#footnote-19288-314-backlink) Bájný tříhlavý pes, který hlídal vchod do podsvětí.
+[^314]: Bájný tříhlavý pes, který hlídal vchod do podsvětí.
 
-[315](#footnote-19288-315-backlink) Pokoj s tebou, pokoj, pokoj!
+[^315]: Pokoj s tebou, pokoj, pokoj!

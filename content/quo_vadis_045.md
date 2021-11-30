@@ -60,7 +60,7 @@ Tu snížil hlas, aby ho Vinitius nemohl slyšeti, a přiblíživ ústa k uchu
 
 A náhle se rozhodl, že vyřídí jednou ranou záležitost synovcovu a zároveň odstraní všeliké nebezpečí, jaké mu mohlo hroziti.
 
-„Je zamilován jako Troilos[412](#footnote-19288-412) do Kressidy[413](#footnote-19288-413),“ řekl. „Dovol mu, pane, aby odjel do Říma, sice mi uschne. Víš-li pak, že ta lygijská žena rukojmí, kterou jsi mu daroval, byla opět nalezena a Vinitius, odjížděje do Antia, svěřil ji péči jakéhosi Lina? Nezmínil jsem se ti o tom, protože jsi skládal svůj hymnus a to je důležitější nežli všecko. Vinitius chtěl z ní míti milenku, ale když se ukázala cudnou jako Lukrecie, zamiloval se do její cudnosti a teď touží po tom, aby se s dívkou oženil. Je to dcera královská, a proto nebude mu to k úhoně, ale on je jako pravý voják: vzdychá, schne, běduje, ale čeká na svolení svého imperátora.“
+„Je zamilován jako Troilos[^412] do Kressidy[^413],“ řekl. „Dovol mu, pane, aby odjel do Říma, sice mi uschne. Víš-li pak, že ta lygijská žena rukojmí, kterou jsi mu daroval, byla opět nalezena a Vinitius, odjížděje do Antia, svěřil ji péči jakéhosi Lina? Nezmínil jsem se ti o tom, protože jsi skládal svůj hymnus a to je důležitější nežli všecko. Vinitius chtěl z ní míti milenku, ale když se ukázala cudnou jako Lukrecie, zamiloval se do její cudnosti a teď touží po tom, aby se s dívkou oženil. Je to dcera královská, a proto nebude mu to k úhoně, ale on je jako pravý voják: vzdychá, schne, běduje, ale čeká na svolení svého imperátora.“
 
 „Imperátor nevybírá vojákům manželek. K čemu potřebuje mého dovolení?“
 
@@ -110,7 +110,7 @@ Zatím Vinitius, vzdav díky za dar, přistoupil k Petroniovi a řekl:
 
 „Čím se ti odvděčím za to, co jsi pro mne dnes učinil?“
 
-„Obětuj Euterpé[414](#footnote-19288-414) párek labutí,“ odpověděl Petronius, „písní oslav Caesara a vysměj se věštbám! Doufám, že od této chvíle nebude řev lvů rušiti spánek ani tobě, ani tvé lygijské lilii.“
+„Obětuj Euterpé[^414] párek labutí,“ odpověděl Petronius, „písní oslav Caesara a vysměj se věštbám! Doufám, že od této chvíle nebude řev lvů rušiti spánek ani tobě, ani tvé lygijské lilii.“
 
 „Nikoli,“ řekl Vinitius, „nyní jsem již úplně kliden.“
 
@@ -136,7 +136,7 @@ Pak se obrátil ke konsulovi:
 
 Nastala chvíle ticha, které přerušil Vinitiův výkřik:
 
-_„Vae misero mihi…!_[415](#footnote-19288-415)_“_
+_„Vae misero mihi…!_[^415]_“_
 
 A mladý člověk, odhodiv tógu, vyběhl z paláce v pouhé tunice.
 
@@ -144,10 +144,10 @@ Nero pak zvedl ruce k nebi a zvolal:
 
 „Běda tobě, svaté město Priamovo…!“
 
-[412](#footnote-19288-412-backlink) Nejmladší syn trojského krále Priama.
+[^412]: Nejmladší syn trojského krále Priama.
 
-[413](#footnote-19288-413-backlink) Dcera trojského kněze Kalchasa.
+[^413]: Dcera trojského kněze Kalchasa.
 
-[414](#footnote-19288-414-backlink) Múza hudby.
+[^414]: Múza hudby.
 
-[415](#footnote-19288-415-backlink) Běda mně ubohému!
+[^415]: Běda mně ubohému!

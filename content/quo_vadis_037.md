@@ -4,7 +4,7 @@ title: XXXIII
 
 Vinitius odebral se přímo do domu, ve kterém bydlila Miriam. Před vchodem potkal Nazaria, který při pohledu na něho přišel do rozpaků, ale on jej přívětivě pozdravil a dal se zavésti do příbytku matčina.
 
-V příbytku kromě Miriam zastal Petra, Glauka, Crispa a mimo to i Pavla z Tarsu, který se byl právě vrátil z Fregell[367](#footnote-19288-367). Při pohledu na mladého tribuna zračilo se překvapení na všech tvářích, on pak řekl:
+V příbytku kromě Miriam zastal Petra, Glauka, Crispa a mimo to i Pavla z Tarsu, který se byl právě vrátil z Fregell[^367]. Při pohledu na mladého tribuna zračilo se překvapení na všech tvářích, on pak řekl:
 
 „Pozdravuji vás jménem Krista, jejž uctíváte!“
 
@@ -48,7 +48,7 @@ Přítomní pak, neméně rozradostněni oním zjevným projevem úcty k boží
 
   
 
-![quo_vadis_%20(11).jpg](../Images/quo_vadis_%20%2811%29_fmt.jpeg)
+![quo_vadis_%20(11).jpg](./resources/quo_vadis_-(11)_fmt.jpeg)
 
 Poppaea v rozhovoru s „rabbim“.
 
@@ -96,4 +96,4 @@ Vinitius však v jediném okamžiku přiklekl k ní, Petr pak vložil ruce na j
 
 „Milujte se v Pánu a ke slávě Jeho, neboť není hříchu v lásce vaší!“
 
-[367](#footnote-19288-367-backlink) Město ve střední Itálii.
+[^367]: Město ve střední Itálii.

@@ -8,11 +8,11 @@ Ta myšlenka přinesla mu velikou úlevu, Linus byl člověk starý, jemuž bylo
 
 Tím více však měl napilno do Ostriana. Najde opět Lygii, najde Lina, Petra a vezme je s sebou někam daleko, na kterýkoli ze svých statků, třebas na Sicílii. Řím hoří a za několik dní zůstane po něm jen hromada sutin! K čemu tedy mají tu zůstati při té pohromě a rozzuřeném obyvatelstvu? Tam budou obklopeni zástupem ukázněných otroků, obestře je ticho venkova a budou žíti pokojně, pod křídly Kristovými, žehnáni Petrem. Jen aby je nyní opět vypátral!
 
-Nebylo to však věcí snadnou. Vinitius si pamatoval, s jakou námahou se dostal z Via Appia na Zatibří a jak musil obcházeti, aby pronikl ke Přístavní cestě, a proto si teď umínil, že obejde město ze strany opačné. Kráčeje Vítěznou cestou, mohl tam proniknouti, postupuje podél řeky až k mostu Aemiliovu, tamodtud pak, nechávaje stranou Pintius, podél Martova pole, vedle zahrad Pompeiových, Lukullových[441](#footnote-19288-441) a Sallustiových[442](#footnote-19288-442) prodrati se na Via Nomentana. Byla to cesta nejkratší, ale i Makrinus i Chilon byli tou radou, dáti se po ní. Oheň sice nezachvátil do těch dob oné části města, ale všecka náměstí i ulice mohly býti úplně zataraseny lidmi a jejich věcmi. Chilon radil, aby se dali po Ager Vaticanus[443](#footnote-19288-443) až k Porta Flaminia, tam aby přešli řeku a postupovali dále vně hradeb, za zahradami Aciliovými[444](#footnote-19288-444) k Porta Salaria[445](#footnote-19288-445). Vinitius po chvíli váhání souhlasil s tou radou.
+Nebylo to však věcí snadnou. Vinitius si pamatoval, s jakou námahou se dostal z Via Appia na Zatibří a jak musil obcházeti, aby pronikl ke Přístavní cestě, a proto si teď umínil, že obejde město ze strany opačné. Kráčeje Vítěznou cestou, mohl tam proniknouti, postupuje podél řeky až k mostu Aemiliovu, tamodtud pak, nechávaje stranou Pintius, podél Martova pole, vedle zahrad Pompeiových, Lukullových[^441] a Sallustiových[^442] prodrati se na Via Nomentana. Byla to cesta nejkratší, ale i Makrinus i Chilon byli tou radou, dáti se po ní. Oheň sice nezachvátil do těch dob oné části města, ale všecka náměstí i ulice mohly býti úplně zataraseny lidmi a jejich věcmi. Chilon radil, aby se dali po Ager Vaticanus[^443] až k Porta Flaminia, tam aby přešli řeku a postupovali dále vně hradeb, za zahradami Aciliovými[^444] k Porta Salaria[^445]. Vinitius po chvíli váhání souhlasil s tou radou.
 
 Makrinus musil zůstati na stráži u domu, ale postaral se o dva mezky, kteří mohli posloužiti i na další cestě za Lygií. Chtěl také dodati otroka, ale Vinitius odmítl, domnívaje se, že jako se to stávalo již dříve, první oddíl praetoriánů, s nímž se setká cestou, podrobí se jeho rozkazům.
 
-A za chvíli oba, Vinitius a Chilon, vyrazili přes Pagus Janiculensis k Vítězné cestě. Na otevřených místech byly i zde tábory, pronikali však skrze ně s menší obtíží, poněvadž většina obyvatelů prchala k moři Přístavní cestou. Za branou Septimiovou[446](#footnote-19288-446) klusali mezi řekou a nádhernými zahradami Domiciinými, jejichž mohutné cypřiše rudě svítily od požáru jako od červánků při západu. Cesta se uvolňovala, jen někdy byli nuceni bojovati s proudem hrnoucích se venkovanů. Vinitius poháněl mezka, pokud mohl, Chilon pak jeda hned za ním, mluvil po celou cestu sám k sobě:
+A za chvíli oba, Vinitius a Chilon, vyrazili přes Pagus Janiculensis k Vítězné cestě. Na otevřených místech byly i zde tábory, pronikali však skrze ně s menší obtíží, poněvadž většina obyvatelů prchala k moři Přístavní cestou. Za branou Septimiovou[^446] klusali mezi řekou a nádhernými zahradami Domiciinými, jejichž mohutné cypřiše rudě svítily od požáru jako od červánků při západu. Cesta se uvolňovala, jen někdy byli nuceni bojovati s proudem hrnoucích se venkovanů. Vinitius poháněl mezka, pokud mohl, Chilon pak jeda hned za ním, mluvil po celou cestu sám k sobě:
 
 „Hle, požár zůstal za námi a teď nás hřeje do zad! Ještě nikdy nebylo na této cestě v noci tak jasno. Ó, Die, nespustíš-li liják na ten požár, bude to znamením, že nemáš Říma rád. Lidská moc neuhasí toho ohně. Takové město, jemuž sloužilo Řecko a celý svět! A teď první Řek, jenž se tady namane, bude si moci pražit bob v jeho popelech! Kdo by se toho byl nadál…! A nebude již Říma ani římských pánů…! A kdo bude mít chuť chodit po spáleništi a hvízdat si, bude hvízdat v bezpečí. Ó, bohové, hvízdat nad takovým světovládným městem! Kdo by se toho z Řeků, nebo dokonce z barbarů byl mohl nadít…? A přece jen lze hvízdat, protože hromada popela, ať už zůstane po ohništi pastuchů, nebo po vyhořelém městě, je jen hromada popela, kterou dříve či později rozmetá vítr.“
 
@@ -44,7 +44,7 @@ Vinitius byl příliš zaujat vlastními myšlenkami, aby vystihl uštěpačnost
 
 „Před požárem?“
 
-„Před požárem, Mithro[447](#footnote-19288-447)!“
+„Před požárem, Mithro[^447]!“
 
 Ale v duši Vinitiově vzklíčila pochybnost, nelže-li Chilon, a proto zastaviv mezka, pohlédl na starého Řeka vyhrůžně a ptal se:
 
@@ -64,7 +64,7 @@ Vinitius ztichl i klusali dále.
 
 „Pane,“ řekl Chilon za chvíli, „nebyl bys našel dívku, nebýt mne. Jestliže však ji opět nalezneme, nezapomeneš na chudého mudrce?“
 
-„Dostaneš dům s vinicí u Amerioly[448](#footnote-19288-448),“ odpověděl Vinitius.
+„Dostaneš dům s vinicí u Amerioly[^448],“ odpověděl Vinitius.
 
 „Díky tobě, Herkule! S vinicí…? Díky tobě! Ó, ano! S vinicí!“
 
@@ -82,7 +82,7 @@ Míjeli nyní pahorky vatikánské, které požárem zářily rudě, ale za naum
 
 „Vždyť jsi říkal, že se Linus odebral do Ostriana!“ zvolal nevrle Vinitius.
 
-„A ty jsi mi slíbil dům s vinicí u Amerioly,“ odpověděl Chilon. „Nuže, chci hledat dívku všude, kde ji doufám najít. Po vypuknutí požáru mohli se vrátit na Zatibří… Mohli obejít město, jako je v této chvíli obcházíme my. Linus má dům, snad tedy chtěl být blíže domu, aby spatřil, nezachvátí-li požár také tuto čtvrt. Vrátíli-li se, pak ti přísahám, pane, u Persefony[449](#footnote-19288-449), že je najdeme při modlitbách v podzemí, a bude-li nejhůř, dopídíme se o nich zpráv.“
+„A ty jsi mi slíbil dům s vinicí u Amerioly,“ odpověděl Chilon. „Nuže, chci hledat dívku všude, kde ji doufám najít. Po vypuknutí požáru mohli se vrátit na Zatibří… Mohli obejít město, jako je v této chvíli obcházíme my. Linus má dům, snad tedy chtěl být blíže domu, aby spatřil, nezachvátí-li požár také tuto čtvrt. Vrátíli-li se, pak ti přísahám, pane, u Persefony[^449], že je najdeme při modlitbách v podzemí, a bude-li nejhůř, dopídíme se o nich zpráv.“
 
 „Máš pravdu – nuže, veď!“ řekl tribun.
 
@@ -130,20 +130,20 @@ Petr vložil mu ruku na hlavu.
 
 „Doufej,“ pravil, „a následuj mne!“
 
-[441](#footnote-19288-441-backlink) Mocný Říman z 1. stl. př. n. l., zakladatel nádherných sadů ve starém Římě.
+[^441]: Mocný Říman z 1. stl. př. n. l., zakladatel nádherných sadů ve starém Římě.
 
-[442](#footnote-19288-442-backlink) Slavný římský dějepisec z 1. st. n. l. Byl v Caesarových službách, zejména jako správce Numidie (provincie v severní Africe).
+[^442]: Slavný římský dějepisec z 1. st. n. l. Byl v Caesarových službách, zejména jako správce Numidie (provincie v severní Africe).
 
-[443](#footnote-19288-443-backlink) Vatikánská pole.
+[^443]: Vatikánská pole.
 
-[444](#footnote-19288-444-backlink) Starořímský vojevůdce z 1. stol. př. n. l.
+[^444]: Starořímský vojevůdce z 1. stol. př. n. l.
 
-[445](#footnote-19288-445-backlink) Solná brána.
+[^445]: Solná brána.
 
-[446](#footnote-19288-446-backlink) Jméno jednoho z předních římských rodů.
+[^446]: Jméno jednoho z předních římských rodů.
 
-[447](#footnote-19288-447-backlink) Perský bůh uctívaný i v Římě.
+[^447]: Perský bůh uctívaný i v Římě.
 
-[448](#footnote-19288-448-backlink) Starořímské městečko ve střední Itálii.
+[^448]: Starořímské městečko ve střední Itálii.
 
-[449](#footnote-19288-449-backlink) Bohyně podsvětí a smrti.
+[^449]: Bohyně podsvětí a smrti.

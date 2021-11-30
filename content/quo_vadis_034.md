@@ -4,7 +4,7 @@ title: XXX
 
 Caesar, vrátiv se do Říma, byl rozezlen, že se vrátil, a za několik dní zahořel již novou touhou po odjezdu do Achaie. Vydal dokonce edikt, v němž prohlásil, že jeho nepřítomnost nepotrvá dlouho a že veřejné záležitosti nebudou tím nikterak vydány jakékoli škodě. A tak ve společnosti Augustianů, mezi nimiž byl i Vinitius, odebral se na Kapitol, aby složil bohům oběti na šťastnou cestu. Leč na druhý den, když navštívil po řadě Vestin chrám, došlo ke příhodě, která způsobila změnu všech úmyslů. Nero nevěřil v bohy, ale bál se jich, zvláště pak tajemná Vesta jej naplňovala takovou bázní, že při pohledu na božství a svatý oheň zježily se mu pojednou vlasy zděšením, sevřely se zuby, otřes proletěl všemi údy a Nero sklesl do náruči Vinitia, který náhodou stál přímo za ním. Byl okamžitě vynesen z chrámu a dopraven na Palatin, kde přesto, že záhy přišel zase k sobě, i přece jen neopustil lože po celý den. Také prohlásil k velikému údivu přítomných, že úmysl odjeti odkládá rozhodně na dobu pozdější, poněvadž prý jej božství tajemně varovalo od spěchu. Za hodinu potom bylo již veřejně ohlašováno po celém Římě, že Caesar, vida zarmoucené tváře obyvatelů, hnut láskou k nim jako otec k dětem, zůstane s nimi, aby se s nimi sdílelo veselí i strasti. Lid rozradostněn rozhodnutím a přitom i jist, že nebudou chyběti hry a rozdávání obilí, houfně se shromáždil před branou palatinskou, jásavě hluče ku poctě božského Caesara. Ten pak přerušil hru v kostky, kterou se bavíval s Augustiany, a řekl:
 
-„Ano, musilo to býti odloženo! Egypt a vláda nad východem nemůže mne minouti podle předpověděti, a proto ani Achaia mi neujde. Dám prokopati korintský Isthmus[357](#footnote-19288-357) a v Egyptě vystavíme takové pomníky, proti nimž se budou pyramidy zdáti dětskou hračkou. Dám vystavěti sfingu, sedmkrát větší té, která se u Memfidy dívá na poušť, ale rozkáži, aby měla moji tvář. Pozdější staletí budou mluviti pouze o tomto pomníku a o mně.“
+„Ano, musilo to býti odloženo! Egypt a vláda nad východem nemůže mne minouti podle předpověděti, a proto ani Achaia mi neujde. Dám prokopati korintský Isthmus[^357] a v Egyptě vystavíme takové pomníky, proti nimž se budou pyramidy zdáti dětskou hračkou. Dám vystavěti sfingu, sedmkrát větší té, která se u Memfidy dívá na poušť, ale rozkáži, aby měla moji tvář. Pozdější staletí budou mluviti pouze o tomto pomníku a o mně.“
 
 „Vystavěl sis pomník již svými básněmi, ne sedmkrát, nýbrž třikrát sedmkrát větší nežli pyramida Cheopsova,“ řekl Petronius.
 
@@ -26,7 +26,7 @@ Caesar, vrátiv se do Říma, byl rozezlen, že se vrátil, a za několik dní 
 
 „A co určíš pro mne?“ ptal se Vatinius.
 
-„Kéž ti požehná Apis[358](#footnote-19288-358)! Uspořádal jsi nám tak skvělé hry v Beneventu, že se ti nemohu odvděčiti zlým: zhotov několik párů bot sfinze, které brní nohy při noční rose, a pak budeš zhotovovati obuv pro kolosy, tvořící alej před chrámy. Každý tam najde přiměřené zaměstnání. Domitius Afer na příklad stane se pokladníkem, jelikož je znám svou poctivostí. Mám rád, Caesare, když blouzníš o Egyptě, a rmoutí mne, že jsi odložil úmysl odjeti.“
+„Kéž ti požehná Apis[^358]! Uspořádal jsi nám tak skvělé hry v Beneventu, že se ti nemohu odvděčiti zlým: zhotov několik párů bot sfinze, které brní nohy při noční rose, a pak budeš zhotovovati obuv pro kolosy, tvořící alej před chrámy. Každý tam najde přiměřené zaměstnání. Domitius Afer na příklad stane se pokladníkem, jelikož je znám svou poctivostí. Mám rád, Caesare, když blouzníš o Egyptě, a rmoutí mne, že jsi odložil úmysl odjeti.“
 
 Nero pak řekl:
 
@@ -56,7 +56,7 @@ Tu se na chvíli zamyslil, načež se tázal:
 
 Nero pohlédl na něho s údivem.
 
-„Silnější nežli Kroto? Žertuješ snad? Kroto byl nejsilnější z lidí a teď je Sifax z Ethiopie[359](#footnote-19288-359).“
+„Silnější nežli Kroto? Žertuješ snad? Kroto byl nejsilnější z lidí a teď je Sifax z Ethiopie[^359].“
 
 „Pravím ti, Caesare, co jsem viděl na vlastní oči.“
 
@@ -110,7 +110,7 @@ To praviv, zamhouřil oči, dávaje tím najevo, že potřebuje odpočinku. Prot
 
 „Divím se jen, že to všecko tě ještě neunavuje!“ odpověděl Vinitius.
 
-„Kdo ti to řekl? Mne to unavuje již odedávna, ale nejsem ve tvých letech. Ostatně, mám jiné záliby, které ti chybějí. Mám rád knihy, jichž ty nemáš rád, mám rád poesii, která tě nudí, mám rád poháry, gemmy a mnoho věcí, na které se ty nedíváš, mám bolesti v kříži, kterých ty nemíváš, a konečně jsem nalezl Eunike, kdežto ty jsi ničeho podobného nenašel… Mně je doma dobře mezi arcidíly, kdežto z tebe nikdy neudělám estéta. Vím, že v životě nenajdu již ničeho více nad to, co jsem nalezl, ty však sám nevíš, že stále ještě doufáš a hledáš. Kdyby na tebe přišla smrt, zemřel bys přes všecku svoji odvahu a všechny smutky údivem, že je nutno již opustiti svět, kdežto já bych ji přijal jako nezbytí, jsa přesvědčen, že není na celém světě jahod, kterých bych nebyl okusil. Nepospíchám, ale nebudu zase otáleti, vynasnažím se jen, aby mně bylo do poslední chvíle veselo. Na světě jsou veselí skeptikové. Stoikové jsou pro mne hlupáky, ale stoicismus přinejmenším otužuje, kdežto tvoji křesťané uvádějí do světa smutek, jenž jest v životě tím, čím déšť v přírodě. Víš, co jsem zvěděl? – Nuže, o slavnostech, které uspořádá Tigellinus, budou na březích rybníků zřízeny lupanary[360](#footnote-19288-360) a v těch budou shromážděny ženy z nejpřednějších domů v Římě. Což by se nenašla aspoň jedna dosti hezká, aby tě mohla potěšiti…? Budou tam i panny, které vstoupí do světa po prvé… jako nymfy. Takové jest naše římské císařství… Je již teplo! Polední vítr zahřeje vody a neobsype nahých těl otoky. Ty pak, Narcise, věz, že se nenajde ani jedna, která by ti odolala, ani jedna – byť byla vestálkou!“
+„Kdo ti to řekl? Mne to unavuje již odedávna, ale nejsem ve tvých letech. Ostatně, mám jiné záliby, které ti chybějí. Mám rád knihy, jichž ty nemáš rád, mám rád poesii, která tě nudí, mám rád poháry, gemmy a mnoho věcí, na které se ty nedíváš, mám bolesti v kříži, kterých ty nemíváš, a konečně jsem nalezl Eunike, kdežto ty jsi ničeho podobného nenašel… Mně je doma dobře mezi arcidíly, kdežto z tebe nikdy neudělám estéta. Vím, že v životě nenajdu již ničeho více nad to, co jsem nalezl, ty však sám nevíš, že stále ještě doufáš a hledáš. Kdyby na tebe přišla smrt, zemřel bys přes všecku svoji odvahu a všechny smutky údivem, že je nutno již opustiti svět, kdežto já bych ji přijal jako nezbytí, jsa přesvědčen, že není na celém světě jahod, kterých bych nebyl okusil. Nepospíchám, ale nebudu zase otáleti, vynasnažím se jen, aby mně bylo do poslední chvíle veselo. Na světě jsou veselí skeptikové. Stoikové jsou pro mne hlupáky, ale stoicismus přinejmenším otužuje, kdežto tvoji křesťané uvádějí do světa smutek, jenž jest v životě tím, čím déšť v přírodě. Víš, co jsem zvěděl? – Nuže, o slavnostech, které uspořádá Tigellinus, budou na březích rybníků zřízeny lupanary[^360] a v těch budou shromážděny ženy z nejpřednějších domů v Římě. Což by se nenašla aspoň jedna dosti hezká, aby tě mohla potěšiti…? Budou tam i panny, které vstoupí do světa po prvé… jako nymfy. Takové jest naše římské císařství… Je již teplo! Polední vítr zahřeje vody a neobsype nahých těl otoky. Ty pak, Narcise, věz, že se nenajde ani jedna, která by ti odolala, ani jedna – byť byla vestálkou!“
 
 Vinitius počal se tlouci dlaní do hlavy jako člověk, jenž věčně je zaujat jedinou myšlenkou.
 
@@ -124,10 +124,10 @@ Vinitius pokrčil rameny.
 
 „Bojím se, aby sis nezkazil život! Nedovedeš-li býti Řeckem, budiž Římem! Vládni a užívej! Naše ztřeštěnosti mají proto jakýsi smysl, že právě v nich vězí taková myšlenka. Rudobradým zhrdám, protože je to šašek-Řek. Kdyby se pokládal za Římana, přiznal bych mu, že je v právu, když si dovoluje ztřeštěnosti. Slib mi, že teď, až se vrátíš domů a zastihneš nějakého křesťana, ukážeš mu jazyk. Bude-li to Glaukos lékař, nebude se tomu ani diviti. Na shledanou na Agrippově rybníku!“
 
-[357](#footnote-19288-357-backlink) Průliv mezi Řeckem a Peloponésem.
+[^357]: Průliv mezi Řeckem a Peloponésem.
 
-[358](#footnote-19288-358-backlink) Posvátný egyptský býk.
+[^358]: Posvátný egyptský býk.
 
-[359](#footnote-19288-359-backlink) Souhrnné starořecké označení zemí s obyvatelstvem tmavé pleti.
+[^359]: Souhrnné starořecké označení zemí s obyvatelstvem tmavé pleti.
 
-[360](#footnote-19288-360-backlink) Nevěstince.
+[^360]: Nevěstince.

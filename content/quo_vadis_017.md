@@ -2,7 +2,7 @@
 title: XIII
 ---
 
-Nazítří, sotva byl Petronius hotov s oblékáním v unctuariu, již dostavil se Vinitius, obeslaný Teiresiem. Věděl již, že od bran nepřišly žádné zprávy, a ta zvěst, místo aby jej potěšila jako důkaz, že Lygie jest v městě, sklíčila jej ještě více, poněvadž se začal domnívati, že Ursus ji mohl vyvésti z města hned po odvlečení, tedy dříve, nežli otroci Petroniovi začali hlídati u bran. Ovšem na podzim, kdy se dni krátily, byly brány zavírány dosti brzy, ale byly také otvírány těm, kdož vyjížděli a jejichž počet býval značný. Za hradby bylo také lze dostati se i jinými způsoby, o nichž na příklad otroci, kteří chtěli prchnouti z města, dobře věděli. Vinitius vyslal sice své lidi také na všecky cesty, vedoucí do provincie[239](#footnote-19288-239), i k vigilům v menších městech se zprávou o uprchlé dvojici otrockých příslušníků a s přesným popisem Ursa i Lygie, jakož i s naznačením odměny za jejich dopadení. Bylo však pochybno, může-li to pronásledování je postihnouti, a kdyby i postihlo, budou-li se místní úřady cítiti oprávněny, aby je zadržely na soukromou žádost Vinitiovu, nepotvrzenou praetorem[240](#footnote-19288-240). Nuže, na takové potvrzení nebylo kdy. SZ své strany hledal Vinitius po celý včerejší den Lygii, jsa přestrojen za otroka, po všech odlehlých uličkách města, nepodařilo se mu však najíti sebemenší stopu ani známku. Viděl sice Aulovy lidi, ale ti také, jak se zdálo, po něčem pátrali, a to jej pouze utvrdilo v domněnce, že dívky neuchvátili Aulové a že ani ti nevědí, co se s ní stalo.
+Nazítří, sotva byl Petronius hotov s oblékáním v unctuariu, již dostavil se Vinitius, obeslaný Teiresiem. Věděl již, že od bran nepřišly žádné zprávy, a ta zvěst, místo aby jej potěšila jako důkaz, že Lygie jest v městě, sklíčila jej ještě více, poněvadž se začal domnívati, že Ursus ji mohl vyvésti z města hned po odvlečení, tedy dříve, nežli otroci Petroniovi začali hlídati u bran. Ovšem na podzim, kdy se dni krátily, byly brány zavírány dosti brzy, ale byly také otvírány těm, kdož vyjížděli a jejichž počet býval značný. Za hradby bylo také lze dostati se i jinými způsoby, o nichž na příklad otroci, kteří chtěli prchnouti z města, dobře věděli. Vinitius vyslal sice své lidi také na všecky cesty, vedoucí do provincie[^239], i k vigilům v menších městech se zprávou o uprchlé dvojici otrockých příslušníků a s přesným popisem Ursa i Lygie, jakož i s naznačením odměny za jejich dopadení. Bylo však pochybno, může-li to pronásledování je postihnouti, a kdyby i postihlo, budou-li se místní úřady cítiti oprávněny, aby je zadržely na soukromou žádost Vinitiovu, nepotvrzenou praetorem[^240]. Nuže, na takové potvrzení nebylo kdy. SZ své strany hledal Vinitius po celý včerejší den Lygii, jsa přestrojen za otroka, po všech odlehlých uličkách města, nepodařilo se mu však najíti sebemenší stopu ani známku. Viděl sice Aulovy lidi, ale ti také, jak se zdálo, po něčem pátrali, a to jej pouze utvrdilo v domněnce, že dívky neuchvátili Aulové a že ani ti nevědí, co se s ní stalo.
 
 Když mu tedy Teiresias prohlásil, že je tu člověk, který se uvolí ji vyhledati, spěchal, seč dech byl, do domu Petroniova, a sotva se s druhem uvítal, začal se dotazovati po onom člověku.
 
@@ -54,9 +54,9 @@ Petronius položil ruku na její zlatou hlavu.
 
 Jí pak pod oním dotykem opředly se v jediné chvíli oči mlhou blaha a ňadra se začala rychle dmouti.
 
-Ale Petronius přešel s Vinitiem do atria, kde na ně čekal Chilon Chilonides, který spatřiv je, hluboce se jim uklonil. Petroniovi při vzpomínce na domněnku, jaká jej napadla včera, že totiž může to býti milenec Eunike, úsměv se vloudil na ústa. Člověk, jenž stál před ním, nemohl býti milencem žádné ženy. V té podivné postavě bylo cosi ošklivého i směšného. Nebyl stár; v jeho nepěstěném plnovousu a kučeravých vlasech prosvítal sotva tu a tam šedivý vlas. Břicho měl vpadlé, záda přihrblá, takže na první dohled činil dojem hrbáče; nad oním hrbem pak zvedala se veliká hlava s tváří opičí a přitom i prohnanou a s pronikavým pohledem. Jeho nažloutlá pleť byla zohyzděna vyrážkou a tou byl pokryt i nos, jenž mohl poukazovati na přílišnou zálibu v láhvi. Zanedbaný šat, skládající se ze tmavé tuniky, utkané z kozí vlny, a takového též děravého pláště, dokazoval buď skutečnou, nebo předstíranou bídu. Petroniovi při pohledu na něho přišel na mysl homérský Thersites[241](#footnote-19288-241), a proto odpověděv kynem ruky na jeho poklonu, řekl:
+Ale Petronius přešel s Vinitiem do atria, kde na ně čekal Chilon Chilonides, který spatřiv je, hluboce se jim uklonil. Petroniovi při vzpomínce na domněnku, jaká jej napadla včera, že totiž může to býti milenec Eunike, úsměv se vloudil na ústa. Člověk, jenž stál před ním, nemohl býti milencem žádné ženy. V té podivné postavě bylo cosi ošklivého i směšného. Nebyl stár; v jeho nepěstěném plnovousu a kučeravých vlasech prosvítal sotva tu a tam šedivý vlas. Břicho měl vpadlé, záda přihrblá, takže na první dohled činil dojem hrbáče; nad oním hrbem pak zvedala se veliká hlava s tváří opičí a přitom i prohnanou a s pronikavým pohledem. Jeho nažloutlá pleť byla zohyzděna vyrážkou a tou byl pokryt i nos, jenž mohl poukazovati na přílišnou zálibu v láhvi. Zanedbaný šat, skládající se ze tmavé tuniky, utkané z kozí vlny, a takového též děravého pláště, dokazoval buď skutečnou, nebo předstíranou bídu. Petroniovi při pohledu na něho přišel na mysl homérský Thersites[^241], a proto odpověděv kynem ruky na jeho poklonu, řekl:
 
-„Buď vítán, božský Thersite! Jak se daří tvým oteklinám, které ti způsobil Ulixes[242](#footnote-19288-242) u Troje, a co dělá on sám na polích elysejských?“
+„Buď vítán, božský Thersite! Jak se daří tvým oteklinám, které ti způsobil Ulixes[^242] u Troje, a co dělá on sám na polích elysejských?“
 
 „Šlechetný pane,“ odpověděl Chilon Chilonides, „nejmoudřejší z nebožtíků Ulixes posílá mým prostřednictvím nejmoudřejšímu z žijících Petroniovi pozdrav a prosbu, aby tyto mé otekliny přikryl novým pláštěm.“
 
@@ -94,7 +94,7 @@ Zatím Vinitius svraštil své srostlé obočí a pravil:
 
 „A vyléčil jsi ji?“
 
-„Udělal jsem více, pane, neboť jsem jí dal amulet, který zajišťuje opětování milostných citů. V Pafu[243](#footnote-19288-243) na Kypru jest chrám, ó, pane, v němž jest chována páska Venušina. Dal jsem jí dvě nitky z té pásky, uzamčené do skořápky mandle.“
+„Udělal jsem více, pane, neboť jsem jí dal amulet, který zajišťuje opětování milostných citů. V Pafu[^243] na Kypru jest chrám, ó, pane, v němž jest chována páska Venušina. Dal jsem jí dvě nitky z té pásky, uzamčené do skořápky mandle.“
 
 „A dal sis dobře zaplatiti?“
 
@@ -102,7 +102,7 @@ Zatím Vinitius svraštil své srostlé obočí a pravil:
 
 „K jaké škole patříš, božský mudrci?“
 
-„Jsem cynik, pane, protože mám děravý plášť; jsem stoik, protože trpělivě snáším bídu, a jsem peripatetik[244](#footnote-19288-244), protože, jsa bez lektiky, chodím pěšky od vinárníka k vinárníkovi a cestou vyučuji ty, kteří slíbí, že zaplatí za korbel.“
+„Jsem cynik, pane, protože mám děravý plášť; jsem stoik, protože trpělivě snáším bídu, a jsem peripatetik[^244], protože, jsa bez lektiky, chodím pěšky od vinárníka k vinárníkovi a cestou vyučuji ty, kteří slíbí, že zaplatí za korbel.“
 
 „U korbele pak se stáváš rétorem?“
 
@@ -110,11 +110,11 @@ Zatím Vinitius svraštil své srostlé obočí a pravil:
 
 „A hlásal, že oheň jest božství, a to božství hoří na tvém nose!“
 
-„A božský Diogenes[245](#footnote-19288-245) z Apollonie[246](#footnote-19288-246) hlásal, že podstatou věcí je vzduch, a čím je vzduch teplejší, tím dokonalejší tvoří bytosti, a z nejteplejšího povstávají duše mudrců, a protože na podzim se dostavují chladna, ergo, pravý mudřec musí si duši zahřívat vínem… Neboť rovněž tak nemůžeš popřít, pane, že korbel, třebas jen s patoky od Capuy[247](#footnote-19288-247) nebo Telesie[248](#footnote-19288-248), nešířil by tepla po všech kostech pomíjejícího lidského těla.“
+„A božský Diogenes[^245] z Apollonie[^246] hlásal, že podstatou věcí je vzduch, a čím je vzduch teplejší, tím dokonalejší tvoří bytosti, a z nejteplejšího povstávají duše mudrců, a protože na podzim se dostavují chladna, ergo, pravý mudřec musí si duši zahřívat vínem… Neboť rovněž tak nemůžeš popřít, pane, že korbel, třebas jen s patoky od Capuy[^247] nebo Telesie[^248], nešířil by tepla po všech kostech pomíjejícího lidského těla.“
 
 „Chilone Chilonide, kde je tvá vlast?“
 
-„Nad Pontem Euxinem[249](#footnote-19288-249). Pocházím z Mesembrie[250](#footnote-19288-250).“
+„Nad Pontem Euxinem[^249]. Pocházím z Mesembrie[^250].“
 
 „Chilone, jsi veliký!“
 
@@ -142,7 +142,7 @@ Nicméně byl Vinitius opět všecek netrpěliv. Vzhledem k naději, jaká se m
 
 „Nesebral-lis dosud ani na celý plášť, tvé zásluhy jistě nejsou vynikající.“
 
-„Skromnost mi brání, abych se jimi chlubil. Uvaž však, pane, že dnes není dobrodinců, jakých bylo dříve plno a jimž bylo příjemností zahrnout zlatem zásluhu, jako spolknout ústřici z Puteolí[251](#footnote-19288-251). Nejsou malé mé zásluhy, ale lidská vděčnost je malá. Někdy, prchne-li znamenitý otrok, kdo jej vypátrá, ne-li jediný syn mého otce? Objeví-li se na zdech nápisy na božskou Poppaeu, kdo zjistí pachatele? Kdo vyšťárá báseň na Caesara u knihkupců? Kdo udá, co se mluví po domech senátorů a rytířů? Kdo nosí listy, jaké nemají býti svěřeny otrokům; kdo naslouchá novinám u dveří lazebníků; před kým nemají tajností vinárníci a pekařští tovaryši; komu důvěřují otroci; kdo umí prohledat každý dům křížem krážem od atria až do zahrady? Kdo zná všecky ulice, zákoutí, tajné skrýše; kdo ví, co se mluví v thermách, v cirku, na trzích, ve školách lanistů, v kůlnách u obchodníků s otroky, ano i v arenariích[252](#footnote-19288-252)?“
+„Skromnost mi brání, abych se jimi chlubil. Uvaž však, pane, že dnes není dobrodinců, jakých bylo dříve plno a jimž bylo příjemností zahrnout zlatem zásluhu, jako spolknout ústřici z Puteolí[^251]. Nejsou malé mé zásluhy, ale lidská vděčnost je malá. Někdy, prchne-li znamenitý otrok, kdo jej vypátrá, ne-li jediný syn mého otce? Objeví-li se na zdech nápisy na božskou Poppaeu, kdo zjistí pachatele? Kdo vyšťárá báseň na Caesara u knihkupců? Kdo udá, co se mluví po domech senátorů a rytířů? Kdo nosí listy, jaké nemají býti svěřeny otrokům; kdo naslouchá novinám u dveří lazebníků; před kým nemají tajností vinárníci a pekařští tovaryši; komu důvěřují otroci; kdo umí prohledat každý dům křížem krážem od atria až do zahrady? Kdo zná všecky ulice, zákoutí, tajné skrýše; kdo ví, co se mluví v thermách, v cirku, na trzích, ve školách lanistů, v kůlnách u obchodníků s otroky, ano i v arenariích[^252]?“
 
 „U bohů! Dosti již, šlechetný mudrci!“ zvolal Petronius. „Utopíme se ve tvých zásluhách, ctnosti, moudrosti a výmluvnosti! Dosti již! Chtěli jsme věděti, kdo jsi, a nyní to víme!“
 
@@ -204,9 +204,9 @@ A ukloniv se opětně, odešel.
 
 „O tom není pochybnosti. Musím s tím stoikem uzavříti bližší známost, ale prozatím dám po něm vykouřiti atrium.“
 
-A Chilon Chilonides, zahaliv se do nového pláště, pohazoval si na dlani pod jeho záhyby měšcem, jejž dostal od Vinitia, a kochal se jeho tíhou právě tak jako cinkotem. Kráčeje zvolna a ohlížeje se, nedívají-li se za ním z domu Petroniova, minul portyk Liviin[253](#footnote-19288-253), a doraziv k nároží Clivus[254](#footnote-19288-254) Virbius, zabočil na Suburu.
+A Chilon Chilonides, zahaliv se do nového pláště, pohazoval si na dlani pod jeho záhyby měšcem, jejž dostal od Vinitia, a kochal se jeho tíhou právě tak jako cinkotem. Kráčeje zvolna a ohlížeje se, nedívají-li se za ním z domu Petroniova, minul portyk Liviin[^253], a doraziv k nároží Clivus[^254] Virbius, zabočil na Suburu.
 
-„Musím zajít ke Sporovi,“ mluvil k sobě, „a ulít trochu vína Štěstěně. Konečně jsem našel, co jsem dávno již hledal. Jest mlád, ohnivý, štědrý jako doly na Kypru a za tu lygijskou třasořitku byl by hotov dát polovinu jmění. Ano, právě takového jsem hledal již dávno! Musím však se k němu mít opatrně, neboť jeho svraštění obočí nevěští nic dobrého. Ach, vlčí štěňata panují dnes nad světem…! Méně bych se bál toho Petronia. Ó, bohové, dnes je kuplířství lépe placeno než ctnost! Hm, nakreslila rybu do písku! Vím-li, co to znamená, ať se udávím kouskem kozího sýra! Ale budu to vědět! Protože však ryby žijí pod vodou a hledání pod vodou jest obtížnější nežli na souši, ergo: zaplatí mi za tu rybu zvlášť. Ještě jeden takový měšec a mohl bych zahodit žebráckou mošnu a koupit si otroka… Ale co bys tomu řekl, Chilone, kdybych ti byl tou radou, aby sis nekupoval otroka, nýbrž otrokyni…? Já tě znám! Vím, že budeš souhlasit…! Kdyby byla hezká, jako na příklad Eunike, sám bys při ní omládl a mimo to bys měl z ní poctivý a zajištěný příjem. Prodal jsem té ubohé Eunike dvě nitky ze svého vlastního starého pláště… Je hloupá, ale kdyby mi ji Petronius daroval, vzal bych ji… Ano, ano, Chilone, synu Chilonův…! Ztratil jsi otce i matku…! Jsi sirotek! Nuže, kup si pro potěšení aspoň otrokyni! Musí přece někde bydlit, a proto jí Vinitius pronajme byt, do kterého i ty se přitulíš; musí se obléci, a proto Vinitius zaplatí za její šat, a musí jíst, a proto ji bude živit. Ach, jak těžký je život! Kde jsou ty časy, kdy za obolus[255](#footnote-19288-255) bylo možno dostat tolik bobu se špekem, kolik bylo lze nabrat si toho do obou rukou, nebo kus kozích střev, nacpaných krví, dlouhý jako ruka dvanáctiletého pacholete…! Však hle, tu je ten zloděj Sporus! Ve vinárně se člověk nejsnáze něčeho doví!“
+„Musím zajít ke Sporovi,“ mluvil k sobě, „a ulít trochu vína Štěstěně. Konečně jsem našel, co jsem dávno již hledal. Jest mlád, ohnivý, štědrý jako doly na Kypru a za tu lygijskou třasořitku byl by hotov dát polovinu jmění. Ano, právě takového jsem hledal již dávno! Musím však se k němu mít opatrně, neboť jeho svraštění obočí nevěští nic dobrého. Ach, vlčí štěňata panují dnes nad světem…! Méně bych se bál toho Petronia. Ó, bohové, dnes je kuplířství lépe placeno než ctnost! Hm, nakreslila rybu do písku! Vím-li, co to znamená, ať se udávím kouskem kozího sýra! Ale budu to vědět! Protože však ryby žijí pod vodou a hledání pod vodou jest obtížnější nežli na souši, ergo: zaplatí mi za tu rybu zvlášť. Ještě jeden takový měšec a mohl bych zahodit žebráckou mošnu a koupit si otroka… Ale co bys tomu řekl, Chilone, kdybych ti byl tou radou, aby sis nekupoval otroka, nýbrž otrokyni…? Já tě znám! Vím, že budeš souhlasit…! Kdyby byla hezká, jako na příklad Eunike, sám bys při ní omládl a mimo to bys měl z ní poctivý a zajištěný příjem. Prodal jsem té ubohé Eunike dvě nitky ze svého vlastního starého pláště… Je hloupá, ale kdyby mi ji Petronius daroval, vzal bych ji… Ano, ano, Chilone, synu Chilonův…! Ztratil jsi otce i matku…! Jsi sirotek! Nuže, kup si pro potěšení aspoň otrokyni! Musí přece někde bydlit, a proto jí Vinitius pronajme byt, do kterého i ty se přitulíš; musí se obléci, a proto Vinitius zaplatí za její šat, a musí jíst, a proto ji bude živit. Ach, jak těžký je život! Kde jsou ty časy, kdy za obolus[^255] bylo možno dostat tolik bobu se špekem, kolik bylo lze nabrat si toho do obou rukou, nebo kus kozích střev, nacpaných krví, dlouhý jako ruka dvanáctiletého pacholete…! Však hle, tu je ten zloděj Sporus! Ve vinárně se člověk nejsnáze něčeho doví!“
 
 Takto mluvě, vešel do vinárny a dal si přinésti korbel „tmavého“, vida však nedůvěřivý pohled domácího pána, vyšťáral zlatý peníz z měšce, a položiv jej na stůl, řekl:
 
@@ -220,36 +220,36 @@ Kulaté oči Sporovy zakulatily se při pohledu na to ještě více a hned se p
 
 „Jsi hloupý, ačkoli doléváš tolik vody do vína, že by se mohla v něm najít i ryba. To je symbol, který v řeči filosofů znamená: úsměv Štěstěny. Kdybys jej byl uhodl, byl bys i ty snad udělal štěstí. Měj v úctě filosofii, povídám ti, jinak si najdu jinou vinárnu, k čemuž mi můj osobní přítel Petronius už dávno radil.“
 
-[239](#footnote-19288-239-backlink) Mimoitalská země, podrobená Římanům a spravovaná římským hodnostářem.
+[^239]: Mimoitalská země, podrobená Římanům a spravovaná římským hodnostářem.
 
-[240](#footnote-19288-240-backlink) Starořímský vyšší úředník se soudní pravomocí, volený z patriciů.
+[^240]: Starořímský vyšší úředník se soudní pravomocí, volený z patriciů.
 
-[241](#footnote-19288-241-backlink) V řeckém bájesloví trojský hrdina, nejošklivější, nejdrzejší a nejžvanivější ze všech Řeků bojujících před Trojou.
+[^241]: V řeckém bájesloví trojský hrdina, nejošklivější, nejdrzejší a nejžvanivější ze všech Řeků bojujících před Trojou.
 
-[242](#footnote-19288-242-backlink) Odysseus.
+[^242]: Odysseus.
 
-[243](#footnote-19288-243-backlink) Město na Kypru se slavným Afroditiným chrámem.
+[^243]: Město na Kypru se slavným Afroditiným chrámem.
 
-[244](#footnote-19288-244-backlink) Stoupenec školy řeckého filozofa Aristotela.
+[^244]: Stoupenec školy řeckého filozofa Aristotela.
 
-[245](#footnote-19288-245-backlink) Slavný starořecký filozof z 5. stol. př. n. l.
+[^245]: Slavný starořecký filozof z 5. stol. př. n. l.
 
-[246](#footnote-19288-246-backlink) Město na severním pobřeží Kréty.
+[^246]: Město na severním pobřeží Kréty.
 
-[247](#footnote-19288-247-backlink) Hlavní město starořímské Campanie.
+[^247]: Hlavní město starořímské Campanie.
 
-[248](#footnote-19288-248-backlink) Starořímské město jižně od Říma.
+[^248]: Starořímské město jižně od Říma.
 
-[249](#footnote-19288-249-backlink) Starořecký název Černého moře.
+[^249]: Starořecký název Černého moře.
 
-[250](#footnote-19288-250-backlink) Starobylé thrácké město u Černého moře.
+[^250]: Starobylé thrácké město u Černého moře.
 
-[251](#footnote-19288-251-backlink) Starořímské město ve střední Itálii u Neapole.
+[^251]: Starořímské město ve střední Itálii u Neapole.
 
-[252](#footnote-19288-252-backlink) Pískové doly.
+[^252]: Pískové doly.
 
-[253](#footnote-19288-253-backlink) Třetí manželka římského císaře Augusta z přelomu starého a nového věku.
+[^253]: Třetí manželka římského císaře Augusta z přelomu starého a nového věku.
 
-[254](#footnote-19288-254-backlink) Cesta, silnice, ulice.
+[^254]: Cesta, silnice, ulice.
 
-[255](#footnote-19288-255-backlink) Starořecká drobná mince.
+[^255]: Starořecká drobná mince.

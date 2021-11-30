@@ -4,7 +4,7 @@ title: XIX
 
 Sotva Vinitius dočetl, vklouzl tiše do knihovny Chilon, neohlášen a nikým nepozorován, poněvadž služebnictvo mělo rozkázáno, aby jej vpustilo ve kteroukoli hodinu, dnem i nocí.
 
-„Kéž božská matka tvého velkodušného předka Aenea,“ řekl, „zachová se k tobě tak milostivě, pane, jako se ke mně zachoval božský syn Maie[287](#footnote-19288-287)!“
+„Kéž božská matka tvého velkodušného předka Aenea,“ řekl, „zachová se k tobě tak milostivě, pane, jako se ke mně zachoval božský syn Maie[^287]!“
 
 „To znamená…?“ tázal se Vinitius, rychle vstávaje od stolu, u něhož seděl.
 
@@ -24,11 +24,11 @@ Mladý patricius byl tak rozčilen, že po delší dobu nemohl pro­mluviti slov
 
 „Do Ostriana? Kde to jest?“ přerušil jej Vinitius, chtěje patrně rozběhnouti se hned na zmíněné místo.
 
-„Staré hypogeum mezi Via Salaria a Nomentana. Onen pontifex maximus[288](#footnote-19288-288) u křesťanů, o němž jsem se ti zmínil, pane, a jenž byl očekáván mnohem později, již přijel a dnes v noci bude křtít a učit na tom hřbitově. Se svým učením se skrývají, neboť přesto, že není dosud žádných ediktů, které by je zakazovaly, obyvatelstvo jich nenávidí, a proto musí býti opatrni. Sám Ursus mi říkal, že všichni do jednoho shromáždí se dnes v Ostrianu, neboť každý chce vidět a slyšet toho, jenž byl prvním učedníkem Kristovým a jejž oni nazývají Seslaným. A jelikož u nich ženy naslouchají nauce stejně jako muži, nebude tam z žen snad jediná Pomponie, poněvadž ta by se nemohla ospravedlnit před Aulem, ctitelem dávných bohů, proč opouští dům za noci, kdežto Lygie, ó, pane, která zůstává pod ochranou Ursa a starších v obci, půjde určitě pohromadě s jinými ženami.“
+„Staré hypogeum mezi Via Salaria a Nomentana. Onen pontifex maximus[^288] u křesťanů, o němž jsem se ti zmínil, pane, a jenž byl očekáván mnohem později, již přijel a dnes v noci bude křtít a učit na tom hřbitově. Se svým učením se skrývají, neboť přesto, že není dosud žádných ediktů, které by je zakazovaly, obyvatelstvo jich nenávidí, a proto musí býti opatrni. Sám Ursus mi říkal, že všichni do jednoho shromáždí se dnes v Ostrianu, neboť každý chce vidět a slyšet toho, jenž byl prvním učedníkem Kristovým a jejž oni nazývají Seslaným. A jelikož u nich ženy naslouchají nauce stejně jako muži, nebude tam z žen snad jediná Pomponie, poněvadž ta by se nemohla ospravedlnit před Aulem, ctitelem dávných bohů, proč opouští dům za noci, kdežto Lygie, ó, pane, která zůstává pod ochranou Ursa a starších v obci, půjde určitě pohromadě s jinými ženami.“
 
 Vinitius, který dosud žil jako v horečce, udržován pouze nadějí, nyní, když ta naděje docházela uskutečnění, jak se zdálo, ucítil pojednou takovou zmalátnělost, jakou pociťuje člověk po cestě, která byla nad jeho síly, když jest u cíle. Chilon to zpozoroval a umínil si, že toho využije.
 
-„Brány jsou sice střeženy tvými lidmi, pane, a křesťané jistě o tom vědí. Ale oni bran nepotřebují. Tiber jich rovněž nepotřebuje, a ačkoliv je do oněch cest od řeky daleko, stojí za to, aby vážili cestu a spatřili ‚velikého apoštola‘. Ostatně, mohou mít tisíceré způsoby, jak se dostat za hradby, a já vím, že je mají. V Ostrianu najdeš, pane, Lygii; a kdyby dokonce, čehož však se nedomnívám, jí tam nebylo, bude tam Ursus, protože ten mi slíbil, že zabije Glauka. Sám mně řekl, že se dostaví a tam že jej zavraždí – slyšíš, ctihodný tribune? Nuže, buďto půjdeš mu v patách a dovíš se, kde se Lygie zdržuje, nebo jej dáš chytit svými lidmi jako vraha, a maje ho v rukou, vynutíš z něho doznání, kam Lygii ukryl. Udělal jsem své! Jiný by ti vypravoval, pane, že vypil s Ursem deset cantharů[289](#footnote-19288-289) nejznamenitějšího vína, nežli z něho vylákal tajemství; jiný by ti řekl, že prohrál u něho tisíc sestercií ve hře _scriptae duodecim_[290](#footnote-19288-290) nebo že odkoupil zprávu za dva tisíce… Vím, že bys mi to vrátil dvojnásob, ale přesto přese vše jednou v životě… totiž chtěl jsem říci: jako vždycky v životě budu poctivcem, neboť doufám, že jakož řekl velkodušný Petronius, všeliká moje vydání i naděje převýší tvá velkomyslnost.“
+„Brány jsou sice střeženy tvými lidmi, pane, a křesťané jistě o tom vědí. Ale oni bran nepotřebují. Tiber jich rovněž nepotřebuje, a ačkoliv je do oněch cest od řeky daleko, stojí za to, aby vážili cestu a spatřili ‚velikého apoštola‘. Ostatně, mohou mít tisíceré způsoby, jak se dostat za hradby, a já vím, že je mají. V Ostrianu najdeš, pane, Lygii; a kdyby dokonce, čehož však se nedomnívám, jí tam nebylo, bude tam Ursus, protože ten mi slíbil, že zabije Glauka. Sám mně řekl, že se dostaví a tam že jej zavraždí – slyšíš, ctihodný tribune? Nuže, buďto půjdeš mu v patách a dovíš se, kde se Lygie zdržuje, nebo jej dáš chytit svými lidmi jako vraha, a maje ho v rukou, vynutíš z něho doznání, kam Lygii ukryl. Udělal jsem své! Jiný by ti vypravoval, pane, že vypil s Ursem deset cantharů[^289] nejznamenitějšího vína, nežli z něho vylákal tajemství; jiný by ti řekl, že prohrál u něho tisíc sestercií ve hře _scriptae duodecim_[^290] nebo že odkoupil zprávu za dva tisíce… Vím, že bys mi to vrátil dvojnásob, ale přesto přese vše jednou v životě… totiž chtěl jsem říci: jako vždycky v životě budu poctivcem, neboť doufám, že jakož řekl velkodušný Petronius, všeliká moje vydání i naděje převýší tvá velkomyslnost.“
 
 Ale Vinitius, který byl voják a obyčejně si nejen věděl rady v každé případnosti, nýbrž i jednal, ihned překonal okamžitou slabost a pravil:
 
@@ -38,7 +38,7 @@ Ale Vinitius, který byl voják a obyčejně si nejen věděl rady v každé p
 
 Vinitius odešel ke schránce, stojící na mramorovém podnoží, zvané ‚arca‘, a vyňav z ní měšec, hodil jej Chilonovi.
 
-„To jsou ‚scrupula‘,“ pravil. „Až bude Lygie mém domě, dostaneš stejný měšec, naplněný aurey.“[291](#footnote-19288-291)
+„To jsou ‚scrupula‘,“ pravil. „Až bude Lygie mém domě, dostaneš stejný měšec, naplněný aurey.“[^291]
 
 „Joviši!!“ zvolal Chilon.
 
@@ -48,7 +48,7 @@ Ale Vinitius svraštil obočí.
 
 Na Řekově tváři se na chvíli zračil strach a rozpaky, načež přece jen se upokojil a řekl:
 
-„Kdo ti, pane, odolá? Přijmi ta slova za šťastnou věštbu, jako přijal podobná slova veliký náš hrdina ve chrámu Ammonově[292](#footnote-19288-292). Co se mne týče, tyto ‚scrupuly‘ (tu potřásl měšcem) převážily ty mé, nemluvě již ani o tvé společnosti, která jest pro mne blahem a rozkoší…“
+„Kdo ti, pane, odolá? Přijmi ta slova za šťastnou věštbu, jako přijal podobná slova veliký náš hrdina ve chrámu Ammonově[^292]. Co se mne týče, tyto ‚scrupuly‘ (tu potřásl měšcem) převážily ty mé, nemluvě již ani o tvé společnosti, která jest pro mne blahem a rozkoší…“
 
 Ale Vinitius jej nevrle přerušil a začal se vyptávati na podrobnosti z rozmluvy s Ursem. Jedno z nich jasně vyplývalo: že totiž buďto bude ještě této noci Lygiin úkryt vypátrán, nebo ji samu že bude možno unésti na zpáteční cestě z Ostriana. A při myšlence na to zmocnila se Vinitia šílená radost. Nyní, když měl téměř jistotu, že Lygie bude zase jeho, zmizel hněv proti ní i pocit nenávisti, jakou k ní choval. Právě za tuto radost odpustil jí všecky viny. Myslil pouze na ni jako na drahou a toužebně očekávanou bytost i bylo mu, jako by se měla vrátiti po dlouhé cestě. Jímala jej touha svolati otroky a rozkázati jim, aby ozdobili dům girlandami. Nechoval v tom okamžiku záští ani k Ursovi. Byl hotov odpustiti všecko všem. Chilon, k němuž dosud přes jeho služby cítil jakýsi odpor, připadal mu po prvé člověkem zábavným a přitom nevšedním. Zjasnilo se v domě Vinitiově, zjasnily se oči Vinitiovy, zjasnila se jeho tvář. Opět začal pociťovati mládí a rozkoš ze života. Dřívější chmurné utrpení neposkytovalo mu dostatečného měřítka na to, jak Lygii miloval. Pochopil to až nyní, kdy doufal, že ji opět má. Budila se v něm touha po ní, jako se na jaře budí země, prohřátá sluncem, ale jeho roztoužení bylo teď jaksi méně slepé a divoké, spíše radostné a tklivé. Také v sobě cítil nesmírnou energii a byl přesvědčen, že až jen spatří Lygii vlastníma očima, neodejmou mu jí ani křesťané celého světa, dokonce ani sám Caesar.
 
@@ -56,13 +56,13 @@ Nicméně Chilon, osmělen jeho radostí, začal mluviti a jal se dávati rady.
 
 Vinitius mu přiznával, že má plně pravdu, a vzpomenuv si zároveň na rady Petroniovy, vydal otrokům rozkaz, aby k němu přivedli Krotona. Chilon, který znal v Římě všecky, značně se upokojil, slyše jméno známého atleta, jehož nadlidské síle se nejednou obdivoval v aréně, i prohlásil, že do Ostriana půjde. Měšec, naplněný velikými aurey, připadal mu snadněji dosažitelný za přispění Krotonova.
 
-Zasedl tedy v dobré mysli ke stolu, k němuž jej po nějaké době vybídl představený atria, a mezi jídlem vypravoval otrokům, jak dodal jejich pánovi zázračnou mast, která stačí, aby se jí natřela kopyta nejchatrnějších koní, a ti pak daleko předstihnou všecky ostatní. Naučil prý jej připravovati tu mast jakýsi křesťan, poněvadž starší křesťané mnohem lépe se znají v kouzlech a zázracích nežli dokonce Thesalové, ačkoliv Thesálie[293](#footnote-19288-293) je proslulá svými kouzelnicemi. Křesťané prý chovají k němu nesmírnou důvěru, a proč ji mají, snadno uhodne každý, kdo ví, co znamená ryba. Takto rozprávěje, pozorně se díval do tváří otroků, doufaje, že snad mezi nimi vypátrá křesťana a zpraví o něm Vinitia. Když nicméně ta naděje ho zklamala, začal jíst a pít neobyčejně důkladně, neskrble pochvalami vůči kuchaři a ujišťuje, že se přičiní, aby jej koupil od Vinitia. Jeho veselost byla kalena jedině myšlenkou, že bude nutno jíti do Ostriana v noci, utěšoval se však, že to bude v přestrojení, potmě a ve společnosti dvou lidí, z nichž jeden jako silák jest modlou celého Říma, druhý patriciem a vysokým vojenským hodnostářem. „I  kdyby Vinitiovi odhalili tvář,“ mluvil k sobě, „neodváží se nikdo vztáhnout na něho ruku; co se pak mne týče, všichni zmoudří, uvidí-li aspoň konec mého nosu.“
+Zasedl tedy v dobré mysli ke stolu, k němuž jej po nějaké době vybídl představený atria, a mezi jídlem vypravoval otrokům, jak dodal jejich pánovi zázračnou mast, která stačí, aby se jí natřela kopyta nejchatrnějších koní, a ti pak daleko předstihnou všecky ostatní. Naučil prý jej připravovati tu mast jakýsi křesťan, poněvadž starší křesťané mnohem lépe se znají v kouzlech a zázracích nežli dokonce Thesalové, ačkoliv Thesálie[^293] je proslulá svými kouzelnicemi. Křesťané prý chovají k němu nesmírnou důvěru, a proč ji mají, snadno uhodne každý, kdo ví, co znamená ryba. Takto rozprávěje, pozorně se díval do tváří otroků, doufaje, že snad mezi nimi vypátrá křesťana a zpraví o něm Vinitia. Když nicméně ta naděje ho zklamala, začal jíst a pít neobyčejně důkladně, neskrble pochvalami vůči kuchaři a ujišťuje, že se přičiní, aby jej koupil od Vinitia. Jeho veselost byla kalena jedině myšlenkou, že bude nutno jíti do Ostriana v noci, utěšoval se však, že to bude v přestrojení, potmě a ve společnosti dvou lidí, z nichž jeden jako silák jest modlou celého Říma, druhý patriciem a vysokým vojenským hodnostářem. „I  kdyby Vinitiovi odhalili tvář,“ mluvil k sobě, „neodváží se nikdo vztáhnout na něho ruku; co se pak mne týče, všichni zmoudří, uvidí-li aspoň konec mého nosu.“
 
 Pak jal se rozpomínati na rozmluvu s chasníkem a ta vzpomínka naplnila jej novou útěchou. Neměl nejmenší pochybnosti, že oním chasníkem byl Ursus. Věděl z vypravování Vinitiova i těch, kteří odváděli Lygii z paláce Caesarova, o neobyčejné síle toho člověka. Nebylo tudíž nic divného, že byl odkázán na Ursa, poněvadž se u Euritia vyptával na lidi výjimečně silné. Mimo to chasníkovy rozpaky a rozčilení při zmínce o Vinitiovi a Lygii nedovolovaly mu, aby pochyboval, že na těch osobách mu valně záleží; chasník také se zmínil o pokání za zabití člověka, Ursus pak zabil Atacina; konečně popis chasníkův úplně souhlasil s tím, co vypravoval Vinitius o Lygovi. Jediné jen jméno mohlo buditi pochybnost, ale Chilon již věděl, že křesťané často přijímají u křtu nová jména.
 
-„Zabije-li Ursus Glauka,“ mluvil k sobě Chilon, „bude ještě lépe; pakli nezabije, bude to rovněž dobré znamení, neboť se ukáže, jak obtížným přichází křesťanům, aby zabíjeli. Vylíčil jsem přece toho Glauka jako vlastního syna Jidášova a zrádce všech křesťanů; byl jsem tak výmluvný, že by se kámen dal pohnout a slíbil by, že padne na hlavu Glaukovu – a přece jen jsem jen tak tak přiměl toho lygijského medvěda, aby mi slíbil, že položí na něho svoji tlapu… Váhal, nechtěl, vypravoval o své lítosti a pokání. Patrně se to u nich neodpouští… Je nutno promíjet hanebnosti, páchané proti nám, za cizí hanebnosti se mstít je zakázáno – ergo, uvaž, Chilone, co ti může hrozit. Glaukos na tobě se pomstít nesmí… Ursus, nezabije-li Glauka za tak velikou vinu, jako je zrada na všech křesťanech, zabije tím méně tebe pro tak malou věc, jakou je zrada jednoho křesťana. Ostatně, jakmile jednou ukáži tomu vilnému hřivnáči hnízdo oné hrdličky, myji si ruce nade vším a přestěhuji se do Neapole zpět. Křesťané mluvívají také o jakémsi umývání rukou – je to dle všeho způsob, kterým lze věc skoncovati, má-li s nimi člověk co jednat. Jací jsou to dobří lidé, ti křesťané, a tak zle se o nich mluví! Ó, bohové, taková je spravedlnost na světě! Nicméně mám rád ono učení proto, že zakazuje zabíjet. Zakazuje-li však zabíjet, pak nedovoluje ani krást, ani podvádět, ani křivě svědčit, a proto bych neřekl, že je snadné. Patrně učí, aby se nejen čestně umíralo, jak tomu učí i stoikové, nýbrž také čestně žilo. Domohu-li se jednou jmění a budu mít takový dům jako tento a mnoho otroků, stanu se snad křesťanem na tak dlouho, dokud mi to půjde k duhu. Neboť boháč si může dovolit všecko, třebas i počestnost… Ano, to je náboženství pro boháče!! A proto nechápu, z jaké příčiny je mezi nimi tolik chuďasů. Co z toho budou mít a proč dovolují poctivosti, aby jim vázala ruce? Musím někdy o tom uvažovat. Zatím budiž ti chvála, Herme, že jsi mi pomohl najít onoho jezevce…! Ale udělal-lis to pro dvě jalovičky, bílé jednoročky s pozlacenými rohy, pak tě nepoznávám. Styď se, Argobijče[294](#footnote-19288-294)! Takový moudrý bůh a ten že by napřed nevěděl, že nic nedostane! Nabízím ti za to svoji vděčnost, a jsou-li ti dvě hovádka milejší nežli má vděčnost, jsi sám tím třetím a v nejlepší případnosti bys měl být pastuchou, a ne bohem. Měj se také na pozoru, abych jako filosof nedokázal lidem, že vůbec neexistuješ, protože pak by ti všichni přestali přinášet oběti. S filosofy je lépe být zadobře.“
+„Zabije-li Ursus Glauka,“ mluvil k sobě Chilon, „bude ještě lépe; pakli nezabije, bude to rovněž dobré znamení, neboť se ukáže, jak obtížným přichází křesťanům, aby zabíjeli. Vylíčil jsem přece toho Glauka jako vlastního syna Jidášova a zrádce všech křesťanů; byl jsem tak výmluvný, že by se kámen dal pohnout a slíbil by, že padne na hlavu Glaukovu – a přece jen jsem jen tak tak přiměl toho lygijského medvěda, aby mi slíbil, že položí na něho svoji tlapu… Váhal, nechtěl, vypravoval o své lítosti a pokání. Patrně se to u nich neodpouští… Je nutno promíjet hanebnosti, páchané proti nám, za cizí hanebnosti se mstít je zakázáno – ergo, uvaž, Chilone, co ti může hrozit. Glaukos na tobě se pomstít nesmí… Ursus, nezabije-li Glauka za tak velikou vinu, jako je zrada na všech křesťanech, zabije tím méně tebe pro tak malou věc, jakou je zrada jednoho křesťana. Ostatně, jakmile jednou ukáži tomu vilnému hřivnáči hnízdo oné hrdličky, myji si ruce nade vším a přestěhuji se do Neapole zpět. Křesťané mluvívají také o jakémsi umývání rukou – je to dle všeho způsob, kterým lze věc skoncovati, má-li s nimi člověk co jednat. Jací jsou to dobří lidé, ti křesťané, a tak zle se o nich mluví! Ó, bohové, taková je spravedlnost na světě! Nicméně mám rád ono učení proto, že zakazuje zabíjet. Zakazuje-li však zabíjet, pak nedovoluje ani krást, ani podvádět, ani křivě svědčit, a proto bych neřekl, že je snadné. Patrně učí, aby se nejen čestně umíralo, jak tomu učí i stoikové, nýbrž také čestně žilo. Domohu-li se jednou jmění a budu mít takový dům jako tento a mnoho otroků, stanu se snad křesťanem na tak dlouho, dokud mi to půjde k duhu. Neboť boháč si může dovolit všecko, třebas i počestnost… Ano, to je náboženství pro boháče!! A proto nechápu, z jaké příčiny je mezi nimi tolik chuďasů. Co z toho budou mít a proč dovolují poctivosti, aby jim vázala ruce? Musím někdy o tom uvažovat. Zatím budiž ti chvála, Herme, že jsi mi pomohl najít onoho jezevce…! Ale udělal-lis to pro dvě jalovičky, bílé jednoročky s pozlacenými rohy, pak tě nepoznávám. Styď se, Argobijče[^294]! Takový moudrý bůh a ten že by napřed nevěděl, že nic nedostane! Nabízím ti za to svoji vděčnost, a jsou-li ti dvě hovádka milejší nežli má vděčnost, jsi sám tím třetím a v nejlepší případnosti bys měl být pastuchou, a ne bohem. Měj se také na pozoru, abych jako filosof nedokázal lidem, že vůbec neexistuješ, protože pak by ti všichni přestali přinášet oběti. S filosofy je lépe být zadobře.“
 
-Takto rozmlouvaje sám s sebou a s Hermem[295](#footnote-19288-295), natáhl se na lavici, podložil si pod hlavu plášť, a když otroci odklidili příbory, usnul. Probudil se teprve či vlastně byl probuzen, když přišel Kroto.
+Takto rozmlouvaje sám s sebou a s Hermem[^295], natáhl se na lavici, podložil si pod hlavu plášť, a když otroci odklidili příbory, usnul. Probudil se teprve či vlastně byl probuzen, když přišel Kroto.
 
 Tehdy se odebral do atria a s potěšením začal si prohlížeti statnou postavu lanisty, ex-gladiátora, která svou mohutností vyplňovala, jak se zdálo, celé atrium. Kroto byl se již dohodl o ceně za výpravu a právě řekl Vinitiovi:
 
@@ -70,7 +70,7 @@ Tehdy se odebral do atria a s potěšením začal si prohlížeti statnou post
 
 „U Polluxe!“ odpověděl Vinitius. „Jsem jist, že tak učiníš, Krotone!“
 
-„A znamenitě to provedeš!“ dodal Chilon. „Ano…! Roztříšti mu kromě toho dáseň! To je dobrý nápad a čin tebe důstojný! Jsem hotov se založit, že mu roztříštíš dáseň. Nicméně si zatím natři údy olejem, milý Herkule, a přepásej se, neboť věz, že můžeš mít co dělat s pravým Kakem[296](#footnote-19288-296). Člověk, jenž hlídá onu dívku, o niž běží ctihodnému Vinitiovi, honosí se výjimečnou silou.“
+„A znamenitě to provedeš!“ dodal Chilon. „Ano…! Roztříšti mu kromě toho dáseň! To je dobrý nápad a čin tebe důstojný! Jsem hotov se založit, že mu roztříštíš dáseň. Nicméně si zatím natři údy olejem, milý Herkule, a přepásej se, neboť věz, že můžeš mít co dělat s pravým Kakem[^296]. Člověk, jenž hlídá onu dívku, o niž běží ctihodnému Vinitiovi, honosí se výjimečnou silou.“
 
 Chilon takto mluvil jen proto, aby podnítil ctižádost Krotonovu, ale Vinitius řekl:
 
@@ -98,7 +98,7 @@ A odloživ třtinu, začal se procházeti rychlým krokem, poněvadž kromě ra
 
 Ale příchod Chilonův přerušil mu běh těch blažených myšlenek.
 
-„Pane,“ pravil Řek, „co mne ještě napadlo! Křesťané mají nějaké odznaky, jakési ‚tessery‘[297](#footnote-19288-297), bez kterých nebude nikdo vpuštěn do Ostriana. Vím, že v modlitebnách tak bývá a že jsem takovou tesse­ru dostal od Euritia; dovol mi tedy, pane, abych k němu došel a důkladně se ho vyptal a opatřil ony odznaky, bude-li jich nezbytně třeba.“
+„Pane,“ pravil Řek, „co mne ještě napadlo! Křesťané mají nějaké odznaky, jakési ‚tessery‘[^297], bez kterých nebude nikdo vpuštěn do Ostriana. Vím, že v modlitebnách tak bývá a že jsem takovou tesse­ru dostal od Euritia; dovol mi tedy, pane, abych k němu došel a důkladně se ho vyptal a opatřil ony odznaky, bude-li jich nezbytně třeba.“
 
 „Dobrá, šlechetný mudrče!“ vesele odpověděl Vinitius. „Mluvíš jako prozíravý člověk a náleží ti za to chvála. Nuže, zajdeš k Euritiovi nebo kam ti libo, ale pro všechnu jistotu necháš zde na stole měšec, jejž jsi dostal!“
 
@@ -112,24 +112,24 @@ Chilon, který se vždycky nerad loučil s penězi, ušklíbl se, nicméně vyh
 
 Vskutku také zanedlouho začali se chystati, poněvadž venku se stmívalo. Vzali si gallské pláště s kápěmi, vzali i lucerničky; Vinitius kromě toho vyzbrojil sebe i své společníky krátkými zakřivenými noži. Chilon pak si nasadil paruku, kterou si opatřil na cestě k Euritiovi, a pak odešli, pospíchajíce, aby k odlehlé bráně nomentské dorazili ještě před jejím uzavřením.
 
-[287](#footnote-19288-287-backlink) Bájná řecká Plejáda, která Diovi porodila syna Herma.
+[^287]: Bájná řecká Plejáda, která Diovi porodila syna Herma.
 
-[288](#footnote-19288-288-backlink) Nejvyšší starořímský kněz.
+[^288]: Nejvyšší starořímský kněz.
 
-[289](#footnote-19288-289-backlink) Konvice se dvěma dlouhými obloukovitými uchy, z níž se nalévalo víno do menších pohárů.
+[^289]: Konvice se dvěma dlouhými obloukovitými uchy, z níž se nalévalo víno do menších pohárů.
 
-[290](#footnote-19288-290-backlink) Hra s 15 bílými a 15 černými kaménky na 24 polích.
+[^290]: Hra s 15 bílými a 15 černými kaménky na 24 polích.
 
-[291](#footnote-19288-291-backlink) Scipulum neboli scrupulum, malá zlatá mince, rovnající se třetině zlatého denáru neboli aurea.
+[^291]: Scipulum neboli scrupulum, malá zlatá mince, rovnající se třetině zlatého denáru neboli aurea.
 
-[292](#footnote-19288-292-backlink) Staroegyptský bůh pastýřů.
+[^292]: Staroegyptský bůh pastýřů.
 
-[293](#footnote-19288-293-backlink) Východní část Řecka.
+[^293]: Východní část Řecka.
 
-[294](#footnote-19288-294-backlink) Přívlastek boha Herma. Argus byl bájný obr, netvor s jedním nebo dvěma nebo i s velikým počtem očí, jimiž prý bylo poseto celé tělo.
+[^294]: Přívlastek boha Herma. Argus byl bájný obr, netvor s jedním nebo dvěma nebo i s velikým počtem očí, jimiž prý bylo poseto celé tělo.
 
-[295](#footnote-19288-295-backlink) Starořecký bůh větrů, posel a hlasatel ostatních bohů, ochránce kupců a stád, ve starořímském bájesloví „Merkur“.
+[^295]: Starořecký bůh větrů, posel a hlasatel ostatních bohů, ochránce kupců a stád, ve starořímském bájesloví „Merkur“.
 
-[296](#footnote-19288-296-backlink) Kakus – syn boha Vulkána, loupežný rytíř, kterého zabil Herkules.
+[^296]: Kakus – syn boha Vulkána, loupežný rytíř, kterého zabil Herkules.
 
-[297](#footnote-19288-297-backlink) Destičky, které byly odznakem nebo vstupenkou do starořímského di­vadla.
+[^297]: Destičky, které byly odznakem nebo vstupenkou do starořímského di­vadla.

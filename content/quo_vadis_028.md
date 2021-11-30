@@ -76,7 +76,7 @@ Ursus si vzdychl po druhé.
 
 Řek však se nemohl ubrániti obdivu nad nadlidskou silou barbarovou.
 
-„Aby do tebe Pluto[318](#footnote-19288-318)…! Totiž chtěl jsem říci: kéž ti Kristus odpustí!“
+„Aby do tebe Pluto[^318]…! Totiž chtěl jsem říci: kéž ti Kristus odpustí!“
 
 Šli spolu nějakou dobu mlčky, načež Chilon řekl:
 
@@ -122,7 +122,7 @@ Tu si však vzpomněl, že se cestou před Ursem tvářil jako křes­ťan – 
 
 Vinitius řekl:
 
-„Kdyby nebylo ‚siky‘[319](#footnote-19288-319), kterou jsem měl u sebe, byl by mne zabil.“
+„Kdyby nebylo ‚siky‘[^319], kterou jsem měl u sebe, byl by mne zabil.“
 
 „Blahořečím chvíli, ve které jsem ti radil, abys vzal s sebou aspoň nůž.“
 
@@ -142,7 +142,7 @@ Tu opakoval s důrazem:
 
 „Odjel jsem do Beneventa – rozumíš!“
 
-„Odjel jsi, pane! Vždyť jsem se s tebou ráno loučil u porta Capena – a od chvíle tvého odjezdu mne zachvacuje takový stesk, že neztiší-li ho tvá velkomyslnost, rozpláči se až k smrti jako nešťastná choť Zethova[320](#footnote-19288-320) ze žalu nad Itylem.“[321](#footnote-19288-321) Vinitius, ač byl nemocen a zvykl úhořovitosti Řekově, nemohl se přece jen zdržeti úsměvu. Byl mimo to rád, že Chilon mu okamžitě rozuměl, a proto řekl:
+„Odjel jsi, pane! Vždyť jsem se s tebou ráno loučil u porta Capena – a od chvíle tvého odjezdu mne zachvacuje takový stesk, že neztiší-li ho tvá velkomyslnost, rozpláči se až k smrti jako nešťastná choť Zethova[^320] ze žalu nad Itylem.“[^321] Vinitius, ač byl nemocen a zvykl úhořovitosti Řekově, nemohl se přece jen zdržeti úsměvu. Byl mimo to rád, že Chilon mu okamžitě rozuměl, a proto řekl:
 
 „Pročež připojím, aby ti byly setřeny slzy. Dej mi sem kahanec!“
 
@@ -230,10 +230,10 @@ Ale ušed něco přes deset kroků, zastavil se a řekl:
 
 A přesto, že již s Euritiem rozmlouval o křesťanském učení, přesto, že mluvil u řeky s Urbanem, přesto přese vše, co slyšel na Ostrianu, neuměl najíti odpověď na tuto otázku.
 
-[318](#footnote-19288-318-backlink) Bůh podsvětí.
+[^318]: Bůh podsvětí.
 
-[319](#footnote-19288-319-backlink) Dýka.
+[^319]: Dýka.
 
-[320](#footnote-19288-320-backlink) Thébský král.
+[^320]: Thébský král.
 
-[321](#footnote-19288-321-backlink) Myšlena Aedon, která omylem zavraždila svého jediného syna.
+[^321]: Myšlena Aedon, která omylem zavraždila svého jediného syna.

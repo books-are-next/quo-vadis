@@ -8,7 +8,7 @@ Zatím šlo mu jen o výběr lidí a právě k nim se nesl jeho úmysl, o n�
 
 Za tím účelem zašel na večer k Euritiovi, o němž věděl, že jest mu oddán z té duše a že učiní všecko, aby mu pomohl. Jsa však povahou opatrný, neměl zdaleka v úmyslu svěřiti se mu se svými pravými záměry, které ostatně byly by ve zjevném rozporu s věrou starcovou v jeho šlechetnost a bohabojnost. Chtěl míti lidi ke všemu odhodlané a teprve s nimi se dohodnouti o věci tím způsobem, aby z ohledu na sebe uchovali ji ve věčné tajnosti.
 
-Stařec Euritius, vykoupiv syna, pronajal si jeden z malých krámečků, jimiž se to jen hemžilo u Cirku Maximu[274](#footnote-19288-274), aby divákům, dostavujícím se na dostihy, prodával v něm olivy, bob, nekvašené těsto a vodu, medem slazenou. Chilon zastal jej doma, kterak si zařizuje krámeček, a uvítav se s ním jménem Kristovým, začal rozprávěti o věci, která jej k němu přivedla. Prokázav jim službu, spoléhal prý, že mu bude splaceno vděkem. Potřebuje dvou nebo tří lidí, silných a odvážných, aby odvrátil nebezpečí, hrozící nejen jemu, nýbrž i všem křesťanům. Je sice chud, neboť všecko, co měl, dal Euritiovi, nicméně takovým lidem by zaplatil za jejich služby, s podmínkou, že mu budou důvěřovati a věrně vykonají, co jim vykonati rozkáže.
+Stařec Euritius, vykoupiv syna, pronajal si jeden z malých krámečků, jimiž se to jen hemžilo u Cirku Maximu[^274], aby divákům, dostavujícím se na dostihy, prodával v něm olivy, bob, nekvašené těsto a vodu, medem slazenou. Chilon zastal jej doma, kterak si zařizuje krámeček, a uvítav se s ním jménem Kristovým, začal rozprávěti o věci, která jej k němu přivedla. Prokázav jim službu, spoléhal prý, že mu bude splaceno vděkem. Potřebuje dvou nebo tří lidí, silných a odvážných, aby odvrátil nebezpečí, hrozící nejen jemu, nýbrž i všem křesťanům. Je sice chud, neboť všecko, co měl, dal Euritiovi, nicméně takovým lidem by zaplatil za jejich služby, s podmínkou, že mu budou důvěřovati a věrně vykonají, co jim vykonati rozkáže.
 
 Euritius a jeho syn Quartus naslouchali mu jako svému dobrodinci téměř na kolenou. Oba také prohlásili, že sami jsou odhodláni vykonati vše, čeho si od nich vyžádá, věříce, že muž tak svatý nemůže žádati činů, které by nebyly ve shodě s učením Kristovým.
 
@@ -20,9 +20,9 @@ Naléhali nějakou dobu, ale když rozhodně odmítl, podrobili se. Tehdy řekl 
 
 „Je-li člověk bohabojný a schopen obětovati se za bratry, seznam mne s ním.“
 
-„Jest křesťan, pane,“ odpověděl Quartus, „poněvadž u Demasa pracují většinou křesťané. Jsou tam dělníci noční i denní, ten pak náleží k nočním. Kdybychom tam šli nyní, zastihli bychom je právě u večeře a mohl by ses s ním dáti volně do hovoru. Demas bydlí u Emporia[275](#footnote-19288-275).“
+„Jest křesťan, pane,“ odpověděl Quartus, „poněvadž u Demasa pracují většinou křesťané. Jsou tam dělníci noční i denní, ten pak náleží k nočním. Kdybychom tam šli nyní, zastihli bychom je právě u večeře a mohl by ses s ním dáti volně do hovoru. Demas bydlí u Emporia[^275].“
 
-Chilon souhlasil co nejochotněji. Emporium leželo na úpatí aventinského návrší, a tudíž nepříliš daleko od Velikého cirku[276](#footnote-19288-276). Bylo by možno dostati se tam podél řeky skrze Porticus Aemiliův[277](#footnote-19288-277), aniž bylo nutno obejíti návrší, což ještě podstatně zkracovalo cestu.
+Chilon souhlasil co nejochotněji. Emporium leželo na úpatí aventinského návrší, a tudíž nepříliš daleko od Velikého cirku[^276]. Bylo by možno dostati se tam podél řeky skrze Porticus Aemiliův[^277], aniž bylo nutno obejíti návrší, což ještě podstatně zkracovalo cestu.
 
 „Jsem stár,“ pravil Chilon, když vešli pod sloupoví, „a někdy se mi kalí paměť. Ano, vždyť i náš Kristus byl vydán jedním ze svých učedníků! Ale na jméno zrádcovo se nemohu v tomto okamžiku rozpomenout…“
 
@@ -118,7 +118,7 @@ Chilon rovněž vstal, chvíli se díval na tvář chasníkovu, osvětlenou měs
 
 „V Ostrianu?“ ptal se Chilon. „Vždyť je to za branami města. Bratři a všecky sestry? V noci? Za branami v Ostrianu?“
 
-„Ano, otče. To je náš hřbitov, mezi Via Salaria[278](#footnote-19288-278) a Nomentana[279](#footnote-19288-279). Což ti není známo, že tam bude učit velký apoštol?“
+„Ano, otče. To je náš hřbitov, mezi Via Salaria[^278] a Nomentana[^279]. Což ti není známo, že tam bude učit velký apoštol?“
 
 „Nebyl jsem dva dni doma, a proto jsem nedostal jeho listu, aniž jsem věděl, kde jest Ostrianum, protože jsem nedávno přibyl sem z Korinta, kde zařizuji křesťanskou obec… Ale je tomu tak! A když ti Kristus dal takové vnuknutí, půjdeš v noci, milý synu, do Ostriana, tam vynajdeš mezi bratry Glauka a zabiješ jej na zpáteční cestě do města, za což ti budou odpuštěny všecky hříchy. A teď pokoj budiž s tebou…!“
 
@@ -156,14 +156,14 @@ Nakonec však vrozená jemu opatrnost zvítězila. Zhluboka si oddychl jednou, d
 
 „Budiž tedy pokoj s tebou, Urbane!“
 
-[274](#footnote-19288-274-backlink) Obrovské závodiště ve starém Římě pro 150 000 diváků, obklopené po obvodu malými krámky.
+[^274]: Obrovské závodiště ve starém Římě pro 150 000 diváků, obklopené po obvodu malými krámky.
 
-[275](#footnote-19288-275-backlink) Tržiště.
+[^275]: Tržiště.
 
-[276](#footnote-19288-276-backlink) Circus Maximus, obrovské závodiště v Římě.
+[^276]: Circus Maximus, obrovské závodiště v Římě.
 
-[277](#footnote-19288-277-backlink) Aemilius – jméno starobylého a slavného patricijského rodu v Římě.
+[^277]: Aemilius – jméno starobylého a slavného patricijského rodu v Římě.
 
-[278](#footnote-19288-278-backlink) Solní silnice, starověká obchodní cesta, počínající od Říma přes sabinské území (hory nedaleko Říma) až po apeninské hory, po níž byla dopravována sůl.
+[^278]: Solní silnice, starověká obchodní cesta, počínající od Říma přes sabinské území (hory nedaleko Říma) až po apeninské hory, po níž byla dopravována sůl.
 
-[279](#footnote-19288-279-backlink) Město na severovýchod od Říma.
+[^279]: Město na severovýchod od Říma.

@@ -2,9 +2,9 @@
 title: XXVI
 ---
 
-Nazítří ráno procitl zesláblý, ale s hlavou chladnou a bez horečky. Zdálo se mu, že jej probudil šepot rozmluvy, ale když otevřel oči, Lygie u něho nebyla; jen Ursus rozhrabával šedý popel, shýbnut ke krbu, a hledal na něm řeřavinu; našed pak ji, začal rozdmychovati doutnající kusy, jako by to dělal nikoli ústy, nýbrž kovářským měchem. Vinitius, připomenuv si, že ten člověk včera přemohl Krotona, díval se na něho se zájmem, hodným milovníka arény, na jeho obrovská záda, podobající se zádům Kyklopovým[323](#footnote-19288-323), a na stehna, mohutná jako sloupy.
+Nazítří ráno procitl zesláblý, ale s hlavou chladnou a bez horečky. Zdálo se mu, že jej probudil šepot rozmluvy, ale když otevřel oči, Lygie u něho nebyla; jen Ursus rozhrabával šedý popel, shýbnut ke krbu, a hledal na něm řeřavinu; našed pak ji, začal rozdmychovati doutnající kusy, jako by to dělal nikoli ústy, nýbrž kovářským měchem. Vinitius, připomenuv si, že ten člověk včera přemohl Krotona, díval se na něho se zájmem, hodným milovníka arény, na jeho obrovská záda, podobající se zádům Kyklopovým[^323], a na stehna, mohutná jako sloupy.
 
-„Díky Merkurovi, že mi nezakroutil krk!“ napadlo jej v duchu. „U Polluxe, jsou-li ostatní Lygové jemu podobni, danubijské[324](#footnote-19288-324) legie mohou s nimi jednou míti pernou práci!“
+„Díky Merkurovi, že mi nezakroutil krk!“ napadlo jej v duchu. „U Polluxe, jsou-li ostatní Lygové jemu podobni, danubijské[^324] legie mohou s nimi jednou míti pernou práci!“
 
 Nahlas pak se ozval:
 
@@ -54,11 +54,11 @@ Potom postavil na žároviště hrnek, a posadiv se před krb, maje nohy pod se
 
 Ve Vinitiovi vzkypěla v prvním okamžiku hrdost, že prostý člověk a barbar opovažuje se nejen hovořiti s ním tak důvěrně, ale ještě mu činiti výtky. K těm neobyčejným a pravděnepodobným věcem, které jej potkaly od onehdejší noci, přibyla ještě jedna. Jsa však sláb, a nemaje po ruce svých otroků, opanoval se, zvláště, když zvítězila touha, aby se dověděl nějakých podrobností ze života Lygiina.
 
-Upokojiv se tudíž, začal se dotazovati na válku Lygů proti Vanniovi a Suevům. Ursus rád vypravoval, ale nemohl připojiti mnoho nového k tomu, co Vinitiovi svého času vyprávěl Aulus Plautius. Ursus v bitvě nebyl, poněvadž provázel ženy rukojmí do ležení Atelia Histra. Věděl jen, že Lygové porazili Suevy a Jazygy, ale jejich vůdce a král padl šípem Jazygovým. Hned potom dostalo se jim zpráv, že Semnonové[325](#footnote-19288-325) zapálili lesy na jejich hranicích, i vrátili se o překot, aby pomstili zločin, a ženy rukojmí zůstaly u Atelia, který z počátku nařídil, aby jim byly prokazovány pocty královské. Později Lygiina matka zemřela. Římský vůdce nevěděl, co dělati s dítětem. Ursus chtěl se s ním vrátiti do vlasti, ale byla to nebezpečná cesta vzhledem ke zvěři a divokým kmenům; když tedy došla zpráva, že nějaké poselstvo Lygů mešká u Pomponia, nabízejíc mu pomoc proti Markomanům[326](#footnote-19288-326), Hister je poslal k Pomponiovi. Přibyvše k němu, zvěděli však, že žádní poslové tam nebyli – a tím způsobem zůstali v ležení, odkud je Pomponius přivezl do Říma, a když bylo po triumfu, odevzdal královské dítě Pomponii Grecině.
+Upokojiv se tudíž, začal se dotazovati na válku Lygů proti Vanniovi a Suevům. Ursus rád vypravoval, ale nemohl připojiti mnoho nového k tomu, co Vinitiovi svého času vyprávěl Aulus Plautius. Ursus v bitvě nebyl, poněvadž provázel ženy rukojmí do ležení Atelia Histra. Věděl jen, že Lygové porazili Suevy a Jazygy, ale jejich vůdce a král padl šípem Jazygovým. Hned potom dostalo se jim zpráv, že Semnonové[^325] zapálili lesy na jejich hranicích, i vrátili se o překot, aby pomstili zločin, a ženy rukojmí zůstaly u Atelia, který z počátku nařídil, aby jim byly prokazovány pocty královské. Později Lygiina matka zemřela. Římský vůdce nevěděl, co dělati s dítětem. Ursus chtěl se s ním vrátiti do vlasti, ale byla to nebezpečná cesta vzhledem ke zvěři a divokým kmenům; když tedy došla zpráva, že nějaké poselstvo Lygů mešká u Pomponia, nabízejíc mu pomoc proti Markomanům[^326], Hister je poslal k Pomponiovi. Přibyvše k němu, zvěděli však, že žádní poslové tam nebyli – a tím způsobem zůstali v ležení, odkud je Pomponius přivezl do Říma, a když bylo po triumfu, odevzdal královské dítě Pomponii Grecině.
 
 Vinitius, jakkoliv z toho vypravování byly mu neznámy pouze menší podrobnosti, naslouchal s potěšením, poněvadž jeho nesmírné pýše rodové příjemně lahodilo to, že očitý svědek potvrzoval královský původ Lygiin. Jako královská dcera mohla Lygie u dvora Caesarova zaujmouti postavení, přiměřené dcerám nejpřednějších rodů, a to tím spíše, že národ, jehož vladařem byl její otec, dosud nikdy neválčil proti Římu, a jakkoliv byl barbarský, mohl se ukázati hrozným, poněvadž podle svědectví samého Atelia Histra honosil se „nespočetným množstvím“ bojovníků.
 
-Ursus ostatně plně potvrdil ono svědectví, neboť na otázku Vinitiovu ohledně Lygů odvětil: „Jsme usazeni v lesích, ale půdy jest u nás tolik, že nikdo neví, kde je konec pralesa, a lidu je v něm mnoho. V pralese jsou i dřevěná města, v nichž je veliký blahobyt, protože to, co Semnonové, Markomani, Vandalové[327](#footnote-19288-327) a Kvádové[328](#footnote-19288-328) po světě naloupí, my jim zase vezmeme. Oni pak se neodvažují přijíti k nám, a jen když vítr táhne od nich, zapalují nám lesy. Nebojíme se ani jich, ani římského Caesara.“
+Ursus ostatně plně potvrdil ono svědectví, neboť na otázku Vinitiovu ohledně Lygů odvětil: „Jsme usazeni v lesích, ale půdy jest u nás tolik, že nikdo neví, kde je konec pralesa, a lidu je v něm mnoho. V pralese jsou i dřevěná města, v nichž je veliký blahobyt, protože to, co Semnonové, Markomani, Vandalové[^327] a Kvádové[^328] po světě naloupí, my jim zase vezmeme. Oni pak se neodvažují přijíti k nám, a jen když vítr táhne od nich, zapalují nám lesy. Nebojíme se ani jich, ani římského Caesara.“
 
 „Bohové dopřáli Římanům vlády nad zemí,“ řekl přísně Vinitius.
 
@@ -78,7 +78,7 @@ Nicméně Ursus ukázal se býti chůvou stejně neobratnou jako starostlivou. K
 
 „Ej, snáze by mně bylo vyvést zubra ze hvozdu…“
 
-Vinitia bavily rozpaky Lygovy, ale nicméně jej zaujala jeho poznámka. Vídával v cirku hrozné ‚ury‘, kteří byli tam dopraveni ze severních pralesů a na které ti nejstatečnější _bestiarii_[329](#footnote-19288-329) pořádali hony se strachem a kteří jen slonům se nevyrovnali velikostí a silou.
+Vinitia bavily rozpaky Lygovy, ale nicméně jej zaujala jeho poznámka. Vídával v cirku hrozné ‚ury‘, kteří byli tam dopraveni ze severních pralesů a na které ti nejstatečnější _bestiarii_[^329] pořádali hony se strachem a kteří jen slonům se nevyrovnali velikostí a silou.
 
 „Pokusil ses popadnouti takovou bestii za rohy?“ ptal se s obdivem.
 
@@ -164,16 +164,16 @@ V této chvíli vnitřní rozervanosti zastihl ji Glaukos, který přišel oše
 
 Konečně odešla, plna vnitřního strádání a nepokoje. Kdysi při modlitbě obětovala Kristu klidné a opravdu jako slza čisté srdce. Nyní ten klid byl porušen. Do květu vnikl jedovatý hmyz a začal v něm bzučeti. Ani spánek jí nepřinesl zkonejšení přesto, že probděla dvě noci. Zdálo se jí ve snách, že na Ostrianu v čele průvodu Augustianů, bakchantek, korybantů a gladiátorů drtí Nero zástupy křesťanů vozem, ověnčeným růžemi, Vinitius pak že jímá ji v náruč, vtahuje na kvadrigu a tiskna ji na prsa, šeptá: „Pojď s námi!“
 
-[323](#footnote-19288-323-backlink) Obr s jedním okem uprostřed čela, podle řeckého bájesloví byli pomocníky boha Vulkána a kuli v sopce Etně blesky pro boha Joviše.
+[^323]: Obr s jedním okem uprostřed čela, podle řeckého bájesloví byli pomocníky boha Vulkána a kuli v sopce Etně blesky pro boha Joviše.
 
-[324](#footnote-19288-324-backlink) Dunajské.
+[^324]: Dunajské.
 
-[325](#footnote-19288-325-backlink) Starověký germánský kmen, usazený v povodí Sprévy.
+[^325]: Starověký germánský kmen, usazený v povodí Sprévy.
 
-[326](#footnote-19288-326-backlink) Starobylý germánský kmen obývající kdysi dnešní Čechy.
+[^326]: Starobylý germánský kmen obývající kdysi dnešní Čechy.
 
-[327](#footnote-19288-327-backlink) Starogermánský kmen usazený kdysi mezi řekami Vislou a Odrou, pověstný surovými mravy, loupeživostí a ničením uměleckých výtvorů.
+[^327]: Starogermánský kmen usazený kdysi mezi řekami Vislou a Odrou, pověstný surovými mravy, loupeživostí a ničením uměleckých výtvorů.
 
-[328](#footnote-19288-328-backlink) Starověký kmen, usídlený svého času v dnešní východní a jižní Moravě.
+[^328]: Starověký kmen, usídlený svého času v dnešní východní a jižní Moravě.
 
-[329](#footnote-19288-329-backlink) Zápasníci s divokými zvířaty při veřejných hrách.
+[^329]: Zápasníci s divokými zvířaty při veřejných hrách.

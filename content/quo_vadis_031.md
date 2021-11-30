@@ -12,7 +12,7 @@ Pouze Nazaria nemohl snésti, neboť se mu zdálo, že se mladý hoch opovažuje
 
 „Nevím, jak je nazývají Řekové,“ odpověděla, „ale vím, že Nazarius je křesťan a můj bratr.“
 
-To pravivši, pohlédla na něho překvapena a s lítostí, protože byla již odvyklá podobným jeho výbuchům, on pak zaťal zuby, aby jí neřekl, že takového jejího bratra dal by zmrskati na smrt nebo poslal jej na venkov, aby jako _compeditus_[330](#footnote-19288-330) ryl půdu na jeho vinicích… Nicméně se opanoval, potlačil v sobě hněv a teprve za chvíli řekl:
+To pravivši, pohlédla na něho překvapena a s lítostí, protože byla již odvyklá podobným jeho výbuchům, on pak zaťal zuby, aby jí neřekl, že takového jejího bratra dal by zmrskati na smrt nebo poslal jej na venkov, aby jako _compeditus_[^330] ryl půdu na jeho vinicích… Nicméně se opanoval, potlačil v sobě hněv a teprve za chvíli řekl:
 
 „Odpusť mi, Lygie! Jsi pro mne dcerou královskou a adoptovaným dítětem Plautiů.“
 
@@ -84,4 +84,4 @@ Nato Pavel z Tarsu, který dosud mlčel, vložil prsty na svá prsa, a ukazuje
 
 I povstal – Crispovi pak ten malý, nahrblý člověk připadal v tom okamžiku tím, čím opravdu byl, totiž obrem, který vyvrátí svět ze základů a obsáhne národy i země.
 
-[330](#footnote-19288-330-backlink) Člověk, jenž pracoval s okovy na nohou.
+[^330]: Člověk, jenž pracoval s okovy na nohou.

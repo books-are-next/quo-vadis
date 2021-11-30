@@ -30,7 +30,7 @@ Ale z rukou Petrových vypadla k zemi poutnická hůl, oči nehnutě zíraly p
 
 A hlavou přilnul k zemi, jako by líbal čísi stopy. Dlouho trvalo mlčení, načež se v tichu ozvala starcova slova, přerušovaná vzlykotem:
 
-_„Quo vadis, Domine…?“_[514](#footnote-19288-514)
+_„Quo vadis, Domine…?“_[^514]
 
 Ale Nazarius neslyšel odpovědi, ke sluchu Petrovu však zalétl smutný a sladký hlas, jenž pravil: „Ježto opouštíš lid můj, jdu do Říma, abych byl ukřižován po druhé!“
 
@@ -60,8 +60,8 @@ A Petr pochopil, že ani Caesar, ani všecky jeho legie nepřemohou živé prav
 
   
 
-![quo_vadis_%20(19).jpg](../Images/quo_vadis_%20%2819%29_fmt.jpeg)
+![quo_vadis_%20(19).jpg](./resources/quo_vadis_-(19)_fmt.jpeg)
 
 Apoštol ležel na zemi s obličejem v prachu, bez hnutí…
 
-[514](#footnote-19288-514-backlink) Kam kráčíš, pane?
+[^514]: Kam kráčíš, pane?

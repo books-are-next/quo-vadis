@@ -88,7 +88,7 @@ Vinitius měl v první chvíli chuť dáti jej vyhodit ze dveří. Ale napadlo 
 
 „To jsi ty?“ ptal se.
 
-„Je zle, synu Jovišův!“ odpověděl Chilon. „Pravá ctnost je zboží, po němž se dnes nikdo neptá, pravý mudřec musí být rád i tím, má-li v pěti dnech jednou, za co by si koupil u řezníka beraní hlavu, kterou okusuje v podstřeší, zapíjeje ji slzami. Ach, pane! Všecko, co jsi mi dal, vydal jsem na knihy u Atracta[363](#footnote-19288-363) a pak jsem byl okraden a zničen; otrokyně, která měla sestavit moji nauku, utekla, vzavši s sebou zbytek toho, čím tvá velkomyslnost mne obdařila. Jsem ubožák, ale pomyslil jsem si: Ke komu se mám uchýlit, ne-li k tobě, Serapide, kterého miluji, zbožňuji a za nějž jsem vydával v nebezpečí svůj život!“
+„Je zle, synu Jovišův!“ odpověděl Chilon. „Pravá ctnost je zboží, po němž se dnes nikdo neptá, pravý mudřec musí být rád i tím, má-li v pěti dnech jednou, za co by si koupil u řezníka beraní hlavu, kterou okusuje v podstřeší, zapíjeje ji slzami. Ach, pane! Všecko, co jsi mi dal, vydal jsem na knihy u Atracta[^363] a pak jsem byl okraden a zničen; otrokyně, která měla sestavit moji nauku, utekla, vzavši s sebou zbytek toho, čím tvá velkomyslnost mne obdařila. Jsem ubožák, ale pomyslil jsem si: Ke komu se mám uchýlit, ne-li k tobě, Serapide, kterého miluji, zbožňuji a za nějž jsem vydával v nebezpečí svůj život!“
 
 „Proč jsi přišel a co přinášíš?“
 
@@ -102,11 +102,11 @@ Vinitius potlačil rozechvění, jakým jej naplnila ta zpráva, a řekl:
 
 „Kde jest?“
 
-„U Lina, starého kněze křesťanů. Je tam spolu s Ursem a ten dochází jako dříve ke mlynáři, který se jmenuje jako tvůj dispensator[364](#footnote-19288-364), pane: Demas… Ano! Demas…! Ursus pracuje v noci, a proto bude-li dům v noci obklíčen, nebude již tam… Linus je stár… a v domě jsou mimo něj ještě jen dvě starší ženy.“
+„U Lina, starého kněze křesťanů. Je tam spolu s Ursem a ten dochází jako dříve ke mlynáři, který se jmenuje jako tvůj dispensator[^364], pane: Demas… Ano! Demas…! Ursus pracuje v noci, a proto bude-li dům v noci obklíčen, nebude již tam… Linus je stár… a v domě jsou mimo něj ještě jen dvě starší ženy.“
 
 „Odkud to všecko víš?“
 
-„Pamatuješ se, pane, že mne křesťané měli ve svých rukou a ušetřili mne. Glaukos arci se mýlí, domnívaje se, že jsem já příčinou jeho neštěstí, ale uvěřil tomu, chudák, a věří dosud – a přece jen mne ušetřili! Nediv se proto, pane, že mé srdce je naplněno vděčností. Jsem člověk ze starých, lepších časů. A tak jsem si myslil: Mám opustit své přátele a dobrodince? Nebylo by zatvrzelostí nezeptat se na ně, nevypátrat, co se s nimi děje, jak jim slouží zdraví a kde se zdržují? U pessinuntské[365](#footnote-19288-365) Kybely, toho jsem neschopen! Z počátku mne zdržovala obava, aby špatně nerozuměli mým úmyslům. Než láska, jakou jsem k nim choval, ukázala se větší nežli strach a zvláště dodala mi naděje ta lehkost, s jakou oni odpouštějí jakékoli křivdy. Především jsem však myslil na tebe, pane! Naše poslední výprava se skončila nezdarem, ale což se může syn Štěstěny spřátelit s takovou myšlenkou? Nuže, připravil jsem ti vítězství! Dům stojí stranou. Můžeš rozkázat otrokům, aby jej obklíčili tak, že ani myš neproklouzne. Ó, pane, pane, jen na tobě záleží, aby ještě dnešní noci octla se ta velkodušná královna ve tvém domě! Stane-li se to však, měj na mysli, že se o to přičinil velice chudý a vyhladovělý syn mého otce!“
+„Pamatuješ se, pane, že mne křesťané měli ve svých rukou a ušetřili mne. Glaukos arci se mýlí, domnívaje se, že jsem já příčinou jeho neštěstí, ale uvěřil tomu, chudák, a věří dosud – a přece jen mne ušetřili! Nediv se proto, pane, že mé srdce je naplněno vděčností. Jsem člověk ze starých, lepších časů. A tak jsem si myslil: Mám opustit své přátele a dobrodince? Nebylo by zatvrzelostí nezeptat se na ně, nevypátrat, co se s nimi děje, jak jim slouží zdraví a kde se zdržují? U pessinuntské[^365] Kybely, toho jsem neschopen! Z počátku mne zdržovala obava, aby špatně nerozuměli mým úmyslům. Než láska, jakou jsem k nim choval, ukázala se větší nežli strach a zvláště dodala mi naděje ta lehkost, s jakou oni odpouštějí jakékoli křivdy. Především jsem však myslil na tebe, pane! Naše poslední výprava se skončila nezdarem, ale což se může syn Štěstěny spřátelit s takovou myšlenkou? Nuže, připravil jsem ti vítězství! Dům stojí stranou. Můžeš rozkázat otrokům, aby jej obklíčili tak, že ani myš neproklouzne. Ó, pane, pane, jen na tobě záleží, aby ještě dnešní noci octla se ta velkodušná královna ve tvém domě! Stane-li se to však, měj na mysli, že se o to přičinil velice chudý a vyhladovělý syn mého otce!“
 
 Vinitiovi se vehnala krev do hlavy. Ještě jednou otřáslo pokušení veškerou jeho bytostí. Tak jest, to byl prostředek a tentokrát prostředek spolehlivý! Až jednou bude míti Lygii u sebe, kdo bude s to, aby mu ji odňal? Až jednou učiní Lygii svou milenkou, co jí zbude jiného, nežli zůstati jí navždy? A ať ďas vezme všeliké nauky! Co budou potom pro něho znamenati všichni křesťané i s jejich milosrdenstvím a chmurnou věrou? Není-li čas, aby střásl se sebe to všecko? Není-liž čas, aby započal život, jakým žijí všichni? Co potom udělá Lygie, jak uvede svůj osud v soulad s naukou, kterou vyznává, je rovněž vedlejší! To jsou věci bez významu! Především bude jeho, a to ještě dnes! A i otázka, obstojí-li v její duši ta nauka proti tomu světu, jí novému, proti rozkoši a slastem, jimž se musí poddati. A to se může státi ještě dnes. Stačí, aby Chilon byl zadržen a vydán rozkaz za soumraku. A pak bude radost bez konce! „Čím byl můj život?“ uvažoval Vinitius. „Utrpením, nezkojenou vášní a stálým dotazováním bez odpovědi.“ Tím způsobem se rozhodne a skončí vše! Připomenul si arci, že jí slíbil, že na ni nevztáhne ruky. Ale při kom přísahal? Ne při bozích, protože v ně již nevěřil, ne při Kristovi, protože v Něho ještě nevěřil. Ostatně, bude-li míti za to, že jí bylo ublíženo, pojme ji za choť a tím způsobem odčiní bezpráví na ní spáchané. Ano, k tomu se cítí zavázán, vždyť jest jí vděčen za život! Tu se rozpomenul na onen den, kdy s Krotonem vpadl do jejího útulku; rozpomenul se na Ursovu pěst, nad ním vztyčenou, a pak na vše, co následovalo potom. Pak ji opět spatřil, jak se sklání nad jeho ložem, oblečena v roucho otrokyně, krásná jako božství, dobročinná a zbožňovaná. Jeho oči bezděky se přenesly na lararium i na onen křížek, jejž mu zanechala, odcházejíc. A za to všecko jí zaplatí novým útokem? Přivleče ji do cubicula za vlasy jako otrokyni? A kterak se mu podaří tak učiniti, když nejen po ní touží, nýbrž ji i miluje, a miluje právě proto, že je taková, jaká jest? A pojednou ucítil, že není dosti pro něho, aby ji u sebe měl, není dosti, aby ji sevřel v objetí, nýbrž že jeho láska chce již něco více, totiž: její souhlas, její milování a její duši. Blahoslavená střecha, vejde-li dívka pod ní dobrovolně, blahoslavená chvíle, blahoslavený den, blahoslavený život! Tehdy štěstí obou bude nevyčerpatelné jako moře, jako slunce. Ale odvléci ji násilím bylo by zabíti na věky takové štěstí a přitom i zničiti, zohyzditi a zohaviti to, co jest nejdražší a jediné milované v životě!
 
@@ -170,14 +170,14 @@ Chilon se uklonil a řekl:
 
 Sotva však Vinitius zmizel na zatáčce uličky, napřáhl za ním ruce a hroze pěstmi, zvolal:
 
-„U Até[366](#footnote-19288-366) a Furií, nezapomenu!“
+„U Até[^366] a Furií, nezapomenu!“
 
 Pak opět klesl v bezvědomí.
 
-[363](#footnote-19288-363-backlink) Knihkupec ve starém Římě.
+[^363]: Knihkupec ve starém Římě.
 
-[364](#footnote-19288-364-backlink) Správce pokladny.
+[^364]: Správce pokladny.
 
-[365](#footnote-19288-365-backlink) Pessinuntum – město v Malé Asii, hlavní sídlo uctívání bohyně Kybely.
+[^365]: Pessinuntum – město v Malé Asii, hlavní sídlo uctívání bohyně Kybely.
 
-[366](#footnote-19288-366-backlink) Bohyně zaslepenosti a zločinů.
+[^366]: Bohyně zaslepenosti a zločinů.

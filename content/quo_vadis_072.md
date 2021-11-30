@@ -26,7 +26,7 @@ Vinitius na to se usmál a odvětil:
 
 „Byla na rozích divokého tura, a Kristus ji přece jen zachránil!“
 
-„Nuže, ucti jej obětí sto býků!“ odpověděl s nádechem rozmrzelosti Petronius. „Ale neulož Mu, aby ji zachránil po druhé…! Pamatuješ se, jak Aeolus[513](#footnote-19288-513) uvítal Odysea, když ten se vrátil, aby ho pěkně požádal o příznivý směr větrů? Božstva se nerada opakují.“
+„Nuže, ucti jej obětí sto býků!“ odpověděl s nádechem rozmrzelosti Petronius. „Ale neulož Mu, aby ji zachránil po druhé…! Pamatuješ se, jak Aeolus[^513] uvítal Odysea, když ten se vrátil, aby ho pěkně požádal o příznivý směr větrů? Božstva se nerada opakují.“
 
 „Až se jí vrátí zdraví,“ odvětil Vinitius, „odvezu ji k Pomponii Grecině.“
 
@@ -40,8 +40,8 @@ Jednou o západu slunce zaslechli ze vzdálených vivarií přicházející ře
 
   
 
-![quo_vadis_%20(18).jpg](../Images/quo_vadis_%20%2818%29_fmt.jpeg)
+![quo_vadis_%20(18).jpg](./resources/quo_vadis_-(18)_fmt.jpeg)
 
 Nejednou, skryti ve stínu rozrostlých stromů, hovořili spolu…
 
-[513](#footnote-19288-513-backlink) Bůh větrů.
+[^513]: Bůh větrů.

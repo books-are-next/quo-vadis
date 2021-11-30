@@ -20,7 +20,7 @@ Voják se na něho podíval se soucitem a odvětil:
 
 „V poledne se stráže střídají.“
 
-Vinitius se odmlčel a obnažil hlavu, poněvadž se mu zdálo, že „pileolus“[477](#footnote-19288-477), který měl na ní, jez olova. Vtom přistoupil voják blíže a řekl ztišeným hlasem:
+Vinitius se odmlčel a obnažil hlavu, poněvadž se mu zdálo, že „pileolus“[^477], který měl na ní, jez olova. Vtom přistoupil voják blíže a řekl ztišeným hlasem:
 
 „Upokoj se, pane! Stráže i Ursus nad ní bdí.“
 
@@ -112,7 +112,7 @@ Ale Vinitius, uchopiv okraj lektiky, naklonil se k němu, a dívaje se mu př�
 
 „Ty jsi vydal Lygii…?“
 
-„Kolose Memnonův![478](#footnote-19288-478)“ zvolal se strachem Chilon.
+„Kolose Memnonův![^478]“ zvolal se strachem Chilon.
 
 V očích Vinitiových hrozby však nebylo, a proto strach přešel Řeka brzy. Napadlo jej, že jest pod ochranou Tigellina a samého Caesara, tedy velikánů, před nimiž se všecko třese, a že jest obklopen statnými otroky, kdežto Vinitius že stojí před ním bezbranný, se zuboženou tváří a postavou, jež se hroutila bolestí.
 
@@ -132,6 +132,6 @@ A kynul rukou, na to znamení pak Egypťané lektiku vyzvedli, kdežto otroci, 
 
 „Místo pro lektiku šlechetného Chilona Chilonida! Místo, mí­sto…!“
 
-[477](#footnote-19288-477-backlink) Plstěná pokrývka hlavy.
+[^477]: Plstěná pokrývka hlavy.
 
-[478](#footnote-19288-478-backlink) Obrovská starověká kamenná socha ethiopského krále Memnona u Théb v Egyptě, která při západu slunce zvučela.
+[^478]: Obrovská starověká kamenná socha ethiopského krále Memnona u Théb v Egyptě, která při západu slunce zvučela.

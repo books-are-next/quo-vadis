@@ -6,7 +6,7 @@ title: LIX
 
 A ustal, protože se mu dolejší ret začal třásti tak silně, že jeho slova přešla v nesrozumitelné zvuky.
 
-„Odjedeme po skončených hrách,“ odvětil Nero. „Vím, že beztak již někteří nazývají křesťany ‚innoxia corpora‘[507](#footnote-19288-507). Kdybych odjel, začali by to opakovati všichni. Čeho se bojíš, ty shnilá muchomůrko?“
+„Odjedeme po skončených hrách,“ odvětil Nero. „Vím, že beztak již někteří nazývají křesťany ‚innoxia corpora‘[^507]. Kdybych odjel, začali by to opakovati všichni. Čeho se bojíš, ty shnilá muchomůrko?“
 
 To řka, svraštil obočí, ale začal se dívati tázavým zrakem na Chilona, jako by od něho čekal vysvětlení, nebo se jen tak tvářil chladnokrevným. Při posledním představení sám se zalekl slov Crispových, a vrátiv se domů, nemohl usnouti vztekem a hanbou, ale přitom i strachem. Vtom pověrčivý Vestinus, který mlčky naslouchal jejich hovoru, ohlédl se kolem a řekl tajemným hla­sem:
 
@@ -54,7 +54,7 @@ Ten pak odpověděl:
 
 „Rád bych se zpil…“
 
-A natáhl třesoucí se ruku po crateru[508](#footnote-19288-508) s vínem, ale nemohl ho pozvednouti až k ústům; což vida Vestinus, vzal mu číši a potom, přisunuv se blízko, tázal se s tváří zvědavou a polekanou:
+A natáhl třesoucí se ruku po crateru[^508] s vínem, ale nemohl ho pozvednouti až k ústům; což vida Vestinus, vzal mu číši a potom, přisunuv se blízko, tázal se s tváří zvědavou a polekanou:
 
 „Což tě pronásledují Furie? Co…?“
 
@@ -132,7 +132,7 @@ Nato se ozval Petronius:
 
 „Jaké to žvasty!“ zvolal Tigellinus.
 
-_„Hic abdera!“_[509](#footnote-19288-509) odpověděl Petronius.
+_„Hic abdera!“_[^509] odpověděl Petronius.
 
 Ostatní však překvapeni trefností jeho poznámky, začali se dívati na sebe v údivu a opakovati:
 
@@ -150,8 +150,8 @@ A Řek vyplil víno na tuniku a odvětil:
 
 A začal se třásti tak, že hosté sedící blíže propukli v smích.
 
-[507](#footnote-19288-507-backlink) Nevinná těla.
+[^507]: Nevinná těla.
 
-[508](#footnote-19288-508-backlink) Pohár, případně nádoba, ve které se mísilo víno s vodou.
+[^508]: Pohár, případně nádoba, ve které se mísilo víno s vodou.
 
-[509](#footnote-19288-509-backlink) Příslovečná slova, znamenající: Hle, nejhloupější z hloupých!
+[^509]: Příslovečná slova, znamenající: Hle, nejhloupější z hloupých!

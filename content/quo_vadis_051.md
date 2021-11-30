@@ -2,13 +2,13 @@
 title: XLVII
 ---
 
-Oheň tou dobou dospěl až k Via Nomentana a od ní spolu se změnou větru obrátil se k Via Lata[450](#footnote-19288-450) a k Tibru, obešel Kapitol, rozlil se po Forum Boarium, a niče všecko, čemu se v prvním rozmachu vyhnul, blížil se opět k Palatinu. Tigellinus, shromáždiv všecky síly praetoriánů, posílal rychlé posly jednoho za druhým k blížícímu se Caesarovi, oznamuje, že z nádhery podívané ničeho neztratí, jelikož požár se ještě vzmohl. Ale Nero chtěl doraziti v noci, aby tím lépe se pokochal obrazem hynoucího města. Za tím účelem zdržel se v okolních vesnicích Aqua Albana, a obeslav si do stanu tragika Alitura, cvičil se za jeho přispění v postavě, tváři, vzezření a učil se přiměřeným pohybům, prudce se s ním hádaje, má-li při slovech: „Ó, město svaté, jež ses zdálo trvalejším Idy[451](#footnote-19288-451)“ vysoko zvednouti obě ruce, nebo má-li svěsiti jednu ruku, drže v ní formingu, podél těla a zvednouti jen druhou. A ta otázka mu připadala v té chvíli důležitější nežli všecky ostatní. Vyraziv konečně za soumraku, vyžádal si ještě rady Petroniovy, neměl-li by do básně, věnované pohromě, vložiti několik skvělých rouhavých narážek proti bohům a zdali by se taková slova, je-li věc posuzována ze stanoviska umění, nevydrala sama sebou v takové situaci z úst člověka, jenž ztrácí vlast.
+Oheň tou dobou dospěl až k Via Nomentana a od ní spolu se změnou větru obrátil se k Via Lata[^450] a k Tibru, obešel Kapitol, rozlil se po Forum Boarium, a niče všecko, čemu se v prvním rozmachu vyhnul, blížil se opět k Palatinu. Tigellinus, shromáždiv všecky síly praetoriánů, posílal rychlé posly jednoho za druhým k blížícímu se Caesarovi, oznamuje, že z nádhery podívané ničeho neztratí, jelikož požár se ještě vzmohl. Ale Nero chtěl doraziti v noci, aby tím lépe se pokochal obrazem hynoucího města. Za tím účelem zdržel se v okolních vesnicích Aqua Albana, a obeslav si do stanu tragika Alitura, cvičil se za jeho přispění v postavě, tváři, vzezření a učil se přiměřeným pohybům, prudce se s ním hádaje, má-li při slovech: „Ó, město svaté, jež ses zdálo trvalejším Idy[^451]“ vysoko zvednouti obě ruce, nebo má-li svěsiti jednu ruku, drže v ní formingu, podél těla a zvednouti jen druhou. A ta otázka mu připadala v té chvíli důležitější nežli všecky ostatní. Vyraziv konečně za soumraku, vyžádal si ještě rady Petroniovy, neměl-li by do básně, věnované pohromě, vložiti několik skvělých rouhavých narážek proti bohům a zdali by se taková slova, je-li věc posuzována ze stanoviska umění, nevydrala sama sebou v takové situaci z úst člověka, jenž ztrácí vlast.
 
 Kolem půlnoci konečně se přiblížil ke hradbám i se svým přečetným dvorem, skládajícím se z celých zástupů dvořanů, senátorů, rytířů, osvobozenců, otroků, žen i dětí. Šestnáct tisíc praetoriánů, sestavených cestou do bojovného šiku, bdělo nad klidem a bezpečím jeho vjezdu, udržujíc zároveň v přiměřené vzdálenosti vzbouřený lid. Lid sice klel, křičel a hvízdal, dívaje se na průvod, ale neodvažoval se udeřiti na něj. Na mnohých místech však se ozval i potlesk, opatřený luzou, která ničeho nemajíc, při požáru o nic nepřišla a doufala v hojnější rozdávání obilí, oleje, šatstva a peněz nežli jindy. Konečně byly výkřiky a hvízdání právě tak jako potlesk přehlušeny hlaholem polnic a rohů, do kterých dal zadouti Tigellinus. Nero, projev branou Ostijskou, zastavil se na chvíli a řekl: „Já, domova zbavený vladař lidu, domova zbaveného, kam složím na noc svoji nešťastnou hlavu!“ – načež projev skrze Clivus Dalphini, vystoupil po schodech, pro něho připravených, na vodovod Appiův a za ním Augustiani i sbor zpěváků, nesoucích kytary, loutny a jiné hudební nástroje.
 
 A všichni zatajili dech v prsou, čekajíce, nepromluví-li nějakých velikých slov, která bylo záhodno zapamatovati si pro vlastní bezpečnost. Ale on stál velebný, něm, oděn v purpurový plášť a maje věnec ze zlatého vavřínu, a díval se do rozzuřeného běsnění plamenů. Když mu Terpnos podal zlatou loutnu, zvedl oči k nebi, zalitému požárovou září, jako by čekal vnuknutí.
 
-Lid si z dálky ukazoval na něho, zalitého krvavým jasem. V dáli syčeli hadi plamenů a hořely odvěké, nejposvátnější památky: hořel chrám Herkulův, který vystavěl Evander, i chrám Joviše Statora i chrám Luny, zbudovaný ještě za Servia Tullia, i dům Numy Pompilia i svatostánek Vestin s penáty[452](#footnote-19288-452) římského lidu; ve hřívách plamenů ukázal se občas Kapitol, hořela minulost i duše Říma – a on, Caesar, stál s loutnou v rukou, s tváří tragického herce a s myslí nikoli na hynoucí vlast, nýbrž na postavu a pathetická slova, jimiž by nejlépe mohl vylíčiti velikost pohromy, vzbuditi největší obdiv a docíliti nejnadšenějšího potlesku.
+Lid si z dálky ukazoval na něho, zalitého krvavým jasem. V dáli syčeli hadi plamenů a hořely odvěké, nejposvátnější památky: hořel chrám Herkulův, který vystavěl Evander, i chrám Joviše Statora i chrám Luny, zbudovaný ještě za Servia Tullia, i dům Numy Pompilia i svatostánek Vestin s penáty[^452] římského lidu; ve hřívách plamenů ukázal se občas Kapitol, hořela minulost i duše Říma – a on, Caesar, stál s loutnou v rukou, s tváří tragického herce a s myslí nikoli na hynoucí vlast, nýbrž na postavu a pathetická slova, jimiž by nejlépe mohl vylíčiti velikost pohromy, vzbuditi největší obdiv a docíliti nejnadšenějšího potlesku.
 
 Nenáviděl toho města, nenáviděl jeho obyvatelů, miloval jen své písně a verše, a proto se radoval v srdci, že konečně spatřil tragédii, podobnou oné, kterou popisoval. Veršotepec se cítil šťasten, přednašeč cítil se nadšen, vyhledavač silných dojmů opojoval se hrůzným pohledem a s rozkoší myslil na to, že ani zkáza Troje nebyla ničím proti zkáze tohoto ohromného starobylého města. Čeho si mohl ještě přáti? Hle, hoří Řím, Řím světovládný, a on stojí na obloucích vodovodu, se zlatou loutnou v rukou, viděn, pln nachu, obdivován, velkolepý a poetický! Kdesi tam níže, v soumraku, reptá a bouří se lid! Ale ať si jen reptá! Věky uplynou, tisíciletí přejdou a lidé budou vzpomínati a oslavovati básníka, jenž za takové noci opěval pád a požár Troje. Čím je proti němu Homér? Čím je sám Apollo se svou dutou formingou?
 
@@ -16,13 +16,13 @@ Tu zdvihl ruce, a udeřiv ve struny, ozval se slovy Priamovými:
 
 „Ó, hnízdo otců mých, ó, kolébko drahá…“
 
-Jeho hlas na volném vzduchu za hučení požáru a při vzdálené vřavě tisícerých davů vypadal ku podivu mizivý, třesoucí se a slabý, zpěv sboru pak zněl jako bzučení mouchy. Ale senátoři, úředníci a Augustiani, shromáždění na vodovodu, svěsili hlavy, naslouchajíce v zamlklém nadšení. On pak zpíval dlouho a vyvolával u sebe náladu stále žalostnější. V okamžicích, kdy ustával, aby nabral dech, sbor zpěváků opakoval poslední verše, načež Nero opět pohybem, jemuž se naučil od Alitura, shazoval s ramene „sirmu“[453](#footnote-19288-453), přejížděl po strunách a pokračoval ve zpěvu. Konečně skončiv píseň, dříve již složenou, začal improvisovati, hledaje velké srovnání s obrazem, jaký se před ním rozvíjel. A tvář se mu začala měniti. Nebyl arci hluboce dojat zkázou otcovského města, ale byl opojen a hluboce dojat pathosem vlastních slov do té míry, že pojednou loutnu hřmotně upustil k nohám, a zahaliv se do „sirmy“, zůstal jako zkamenělý, podobaje se jedné z oněch soch Niobovců, které zdobily nádvoří Palatina.
+Jeho hlas na volném vzduchu za hučení požáru a při vzdálené vřavě tisícerých davů vypadal ku podivu mizivý, třesoucí se a slabý, zpěv sboru pak zněl jako bzučení mouchy. Ale senátoři, úředníci a Augustiani, shromáždění na vodovodu, svěsili hlavy, naslouchajíce v zamlklém nadšení. On pak zpíval dlouho a vyvolával u sebe náladu stále žalostnější. V okamžicích, kdy ustával, aby nabral dech, sbor zpěváků opakoval poslední verše, načež Nero opět pohybem, jemuž se naučil od Alitura, shazoval s ramene „sirmu“[^453], přejížděl po strunách a pokračoval ve zpěvu. Konečně skončiv píseň, dříve již složenou, začal improvisovati, hledaje velké srovnání s obrazem, jaký se před ním rozvíjel. A tvář se mu začala měniti. Nebyl arci hluboce dojat zkázou otcovského města, ale byl opojen a hluboce dojat pathosem vlastních slov do té míry, že pojednou loutnu hřmotně upustil k nohám, a zahaliv se do „sirmy“, zůstal jako zkamenělý, podobaje se jedné z oněch soch Niobovců, které zdobily nádvoří Palatina.
 
 Po krátké chvíli odmlčení zaburácela bouře potlesku. Ale z dálky odpověděl mu řev davů. Nyní již nikdo nepochyboval, že Caesar nařídil, aby to město bylo spáleno, aby si vystrojil podívanou a zpíval při ní písně. Nero uslyšev tu vřavu statisíců hlasů, obrátil se k Augustianům se smutným, resignace plným úsměvem člověka, jemuž se děje křivda, a řekl:
 
   
 
-![quo_vadis_%20(10).jpg](../Images/quo_vadis_%20%2810%29_fmt.jpeg)
+![quo_vadis_%20(10).jpg](./resources/quo_vadis_-(10)_fmt.jpeg)
 
 Ozval se slovy Priamovými: „Ó, hnízdo otců mých, ó, kolébko drahá!“
 
@@ -40,7 +40,7 @@ Ale Petronius pokrčil rameny.
 
 „Na jejich věrnost ano, ne však na jejich počet!“ řekl. „Zůstaň zatím zde, kde jsi, protože je zde nejbezpečněji, ale je nutno upokojiti ten lid.“
 
-Téhož mínění byl i Seneka i konsul Licinius. Zatím se dole vzbou­ření vzmáhalo. Lid se ozbrojoval kamením, tyčemi od stanů, prkny od vozů a ručních vozíků a různými železnými předměty. Po nějaké době přišlo několik náčelníků kohort[454](#footnote-19288-454) s oznámením, že praeto­riáni, na něž davy dotíraly, udržují jen s největším napětím bitevní čáru, a nemajíce rozkazu k útoku, nevědí, co činiti.
+Téhož mínění byl i Seneka i konsul Licinius. Zatím se dole vzbou­ření vzmáhalo. Lid se ozbrojoval kamením, tyčemi od stanů, prkny od vozů a ručních vozíků a různými železnými předměty. Po nějaké době přišlo několik náčelníků kohort[^454] s oznámením, že praeto­riáni, na něž davy dotíraly, udržují jen s největším napětím bitevní čáru, a nemajíce rozkazu k útoku, nevědí, co činiti.
 
 „Bohové!“ řekl Nero. „Jaká to noc! Z jedné strany požár, z druhé rozbouřené moře lidu.“
 
@@ -84,11 +84,11 @@ Za chvíli se opravdu všecko ztišilo. Tehdy se na koni vzpřímil a začal ml
 
 „Posloucháme! Posloucháme…!“
 
-„Nuže, slyšte! Město bude znovu vystavěno. Zahrady Lukullovy, Maecenovy[455](#footnote-19288-455), Caesarovy i Agrippovy budou vám otevřeny! Od zítřka se začne rozdávati obilí, víno a olej, tak aby každý si mohl nacpati břicho až po hrdlo! Pak vám Caesar uspořádá hry, jakých svět až dosud neviděl a při nichž vás čekají hostiny a dary! Budete bohatšími po požáru nežli před požárem!“
+„Nuže, slyšte! Město bude znovu vystavěno. Zahrady Lukullovy, Maecenovy[^455], Caesarovy i Agrippovy budou vám otevřeny! Od zítřka se začne rozdávati obilí, víno a olej, tak aby každý si mohl nacpati břicho až po hrdlo! Pak vám Caesar uspořádá hry, jakých svět až dosud neviděl a při nichž vás čekají hostiny a dary! Budete bohatšími po požáru nežli před požárem!“
 
 Odpověděl mu hukot, který se šířil od středu na všecky strany, jako se šíří vlny na vodě, do které někdo vhodil kámen; to ti bližší opakovali jeho slova vzdálenějším. Pak se ozvaly tu i tam výkřiky, jež se konečně změnily v jediný, všeobecný, obrovský řev:
 
-_„Panem et circenses…!!!_[456](#footnote-19288-456)_“_
+_„Panem et circenses…!!!_[^456]_“_
 
 Petronius se zahalil do tógy a nějakou dobu naslouchal nepohnut, podobaje se ve svém bílém rouchu mramorové soše. Řev se vzmáhal, přehlušoval hukot požáru, ozýval se ze všech stran a z hlubin stále větších, posel však měl patrně ještě cosi prohlásiti, neboť čekal.
 
@@ -104,7 +104,7 @@ Za chvíli byl pod vodovodem. Nahoře zastihl bezmála poplach. Nebylo tam rozum
 
 Petronius nabral vzduch do plic, zhluboka si oddychl a odvětil:
 
-„U Polluxe, všichni se potí a zapáchají! Ať mi někdo podá ‚epi­limmu‘[457](#footnote-19288-457), sice omdlím!“
+„U Polluxe, všichni se potí a zapáchají! Ať mi někdo podá ‚epi­limmu‘[^457], sice omdlím!“
 
 Pak se obrátil k Caesarovi:
 
@@ -126,18 +126,18 @@ Pak se obrátil k požáru.
 
 „Ale ještě se rozhlédněme,“ pravil, „a rozlučme se se starým Římem!“
 
-[450](#footnote-19288-450-backlink) Široká ulice.
+[^450]: Široká ulice.
 
-[451](#footnote-19288-451-backlink) Pohoří v Malé Asii.
+[^451]: Pohoří v Malé Asii.
 
-[452](#footnote-19288-452-backlink) Domácí bůžkové ochraňující rodinu.
+[^452]: Domácí bůžkové ochraňující rodinu.
 
-[453](#footnote-19288-453-backlink) Dlouhé svrchní roucho, jaké nosili starořečtí herci při tragédiích.
+[^453]: Dlouhé svrchní roucho, jaké nosili starořečtí herci při tragédiích.
 
-[454](#footnote-19288-454-backlink) Desetina legie, asi 1000 mužů.
+[^454]: Desetina legie, asi 1000 mužů.
 
-[455](#footnote-19288-455-backlink) Starořímský státník, spisovatel a štědrý příznivec literatury z dob římského císaře Augusta v 1. st. př. n. l.
+[^455]: Starořímský státník, spisovatel a štědrý příznivec literatury z dob římského císaře Augusta v 1. st. př. n. l.
 
-[456](#footnote-19288-456-backlink) Chléb a hry. Heslo starořímského lidu za císařské doby.
+[^456]: Chléb a hry. Heslo starořímského lidu za císařské doby.
 
-[457](#footnote-19288-457-backlink) Osvěžující voňavka.
+[^457]: Osvěžující voňavka.

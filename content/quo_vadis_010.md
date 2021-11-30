@@ -28,7 +28,7 @@ Nastalo mlčení. Vinitius hleděl nějakou dobu udivenýma očima na Petronia, 
 
 „Odpusť mi! Mám ji rád a láska mi kalí smysly.“
 
-„Obdivuj se mi, Marku! Onehdy jsem řekl k Caesarovi takto: ‚Můj synovec Vinitius tolik se zamiloval do jedné hubeňoučké dívky, která jest vychovávána u Aulů, že se jeho dům proměnil v parní lázeň vzdechů.‘ Ty, Caesare (pravím), ani já, kteří víme, co jest pravá krása, nedali bychom za ni ani tisíc sestercií[185](#footnote-19288-185), ale to byl vždycky hloupý hoch jako pařez a teď zhloupl nadobro.“
+„Obdivuj se mi, Marku! Onehdy jsem řekl k Caesarovi takto: ‚Můj synovec Vinitius tolik se zamiloval do jedné hubeňoučké dívky, která jest vychovávána u Aulů, že se jeho dům proměnil v parní lázeň vzdechů.‘ Ty, Caesare (pravím), ani já, kteří víme, co jest pravá krása, nedali bychom za ni ani tisíc sestercií[^185], ale to byl vždycky hloupý hoch jako pařez a teď zhloupl nadobro.“
 
 „Petronie!“
 
@@ -36,7 +36,7 @@ Nastalo mlčení. Vinitius hleděl nějakou dobu udivenýma očima na Petronia, 
 
 „Je to pravda? Nic jí tam nehrozí v domě Caesarově?“
 
-„Kdyby se tam měla ubytovati trvale, Poppaea by si o ní promluvila s Lokustou[186](#footnote-19288-186), ale několik dní jí nehrozí pranic. V paláci Caesarově je deset tisíc lidí. Možná, že jí Nero vůbec nespatří, tím méně, když mi všecko svěřil do té míry, že před chvílí byl u mě centurio se zprávou, že doprovodil dívku do paláce a odevzdal ji do rukou Akté. Je to dobrá duše, ta Akté, proto jsem rozkázal, aby odevzdána byla Lygie jí. Pomponie Grecina jest patrně téhož mínění, protože jí psala. Zítra jest hostina u Nerona. Zamluvil jsem ti místo vedle Lygie.“
+„Kdyby se tam měla ubytovati trvale, Poppaea by si o ní promluvila s Lokustou[^186], ale několik dní jí nehrozí pranic. V paláci Caesarově je deset tisíc lidí. Možná, že jí Nero vůbec nespatří, tím méně, když mi všecko svěřil do té míry, že před chvílí byl u mě centurio se zprávou, že doprovodil dívku do paláce a odevzdal ji do rukou Akté. Je to dobrá duše, ta Akté, proto jsem rozkázal, aby odevzdána byla Lygie jí. Pomponie Grecina jest patrně téhož mínění, protože jí psala. Zítra jest hostina u Nerona. Zamluvil jsem ti místo vedle Lygie.“
 
 „Odpusť mi, Caie, moji prchlivost!“ řekl Vinitius. „Domníval jsem se, že jsi ji dal odvésti buď pro sebe, nebo pro Caesara.“
 
@@ -46,13 +46,13 @@ Takto mluvě, začal se dívati svými ořechovými zraky Vinitiovi přímo do o
 
 „Vina jest na mé straně,“ řekl. „Jsi dobrý, šlechetný a já ti z té duše děkuji! Dovol mi jen, abych ti dal ještě jednu otázku: Proč jsi nerozkázal, aby Lygie byla dopravena přímo do mého domu?“
 
-„Poněvadž Caesar chce zachovati navenek zdání, že tak býti musí. Bude se o tom vypravovati mezi lidem v Římě, a protože Lygii bereme k sobě jako rukojmí, zůstane v paláci Caesarově tak dlouho, dokud se o tom bude mluviti. Pak bude dívka dopravena potichu k tobě a bude po všem. Rudobradý je zbabělý pes. Ví, že jeho moc je neomezená, a přece jen se snaží, aby každému činu dodal zdánlivé oprávněnosti. Vzpamatoval ses již do té míry, abys mohl trochu filosofovati? Mně samému nejednou přišlo na mysl, proč zločin, byť i byl silný jako Caesar, a beztrestností bezpečný jako on, snaží se ještě o zevní zdání oprávněnosti, spravedlnosti a ctnosti… K čemu se potřebuje tak namáhati? Mám za to, že zavražditi bratra, matku a ženu jest činem hodným nějakého asijského panovníčka, ne však římského Caesara! Ale kdyby se to přihodilo mně, nepsal bych omluvných listů na senát… Nero však píše – Nero hledá záminku, protože Nero je zbabělec. Ale takový Tiberius nebyl zbabělcem, a přece ospravedlňoval každý svůj čin. Proč tomu tak jest? Jaký to zvláštní, bezděčný hold, přinášený zlem ctnosti! A víš, co se mi zdá? Že se totiž děje tak proto, že zločin je hanebný a ctnost krásná. Ergo, pravý estet je již tím ctnostný člověk. Ergo, jsem ctnostný člověk. Musím dnes vylíti trochu vína stínům Protagorovým, Prodikovým a Gorgiovým[187](#footnote-19288-187). Ukazuje se, že i sofisté mohou se k něčemu hoditi. Slyš, neboť pokračuji! Odvedl jsem Lygii od Aulů, abych ti ji odevzdal. Dobrá! Ale Lisippos utvořil by z vás rozkošnou skupinu. Oba jste krásní, a proto i mé jednání je krásné, a je-li krásné, nemůže býti špatné. Hleď, Marku, sedí před tebou ctnost, vtělená do Petronia! Kdyby byl naživu Aristides[188](#footnote-19288-188), musil by přijíti ke mně a věnovati mi sto min[189](#footnote-19288-189) za krátký výklad o ctnosti.“
+„Poněvadž Caesar chce zachovati navenek zdání, že tak býti musí. Bude se o tom vypravovati mezi lidem v Římě, a protože Lygii bereme k sobě jako rukojmí, zůstane v paláci Caesarově tak dlouho, dokud se o tom bude mluviti. Pak bude dívka dopravena potichu k tobě a bude po všem. Rudobradý je zbabělý pes. Ví, že jeho moc je neomezená, a přece jen se snaží, aby každému činu dodal zdánlivé oprávněnosti. Vzpamatoval ses již do té míry, abys mohl trochu filosofovati? Mně samému nejednou přišlo na mysl, proč zločin, byť i byl silný jako Caesar, a beztrestností bezpečný jako on, snaží se ještě o zevní zdání oprávněnosti, spravedlnosti a ctnosti… K čemu se potřebuje tak namáhati? Mám za to, že zavražditi bratra, matku a ženu jest činem hodným nějakého asijského panovníčka, ne však římského Caesara! Ale kdyby se to přihodilo mně, nepsal bych omluvných listů na senát… Nero však píše – Nero hledá záminku, protože Nero je zbabělec. Ale takový Tiberius nebyl zbabělcem, a přece ospravedlňoval každý svůj čin. Proč tomu tak jest? Jaký to zvláštní, bezděčný hold, přinášený zlem ctnosti! A víš, co se mi zdá? Že se totiž děje tak proto, že zločin je hanebný a ctnost krásná. Ergo, pravý estet je již tím ctnostný člověk. Ergo, jsem ctnostný člověk. Musím dnes vylíti trochu vína stínům Protagorovým, Prodikovým a Gorgiovým[^187]. Ukazuje se, že i sofisté mohou se k něčemu hoditi. Slyš, neboť pokračuji! Odvedl jsem Lygii od Aulů, abych ti ji odevzdal. Dobrá! Ale Lisippos utvořil by z vás rozkošnou skupinu. Oba jste krásní, a proto i mé jednání je krásné, a je-li krásné, nemůže býti špatné. Hleď, Marku, sedí před tebou ctnost, vtělená do Petronia! Kdyby byl naživu Aristides[^188], musil by přijíti ke mně a věnovati mi sto min[^189] za krátký výklad o ctnosti.“
 
 Ale Vinitius jako člověk, jejž více zajímala skutečnost nežli výklady o ctnosti, řekl:
 
 „Zítra spatřím Lygii a pak ji budu míti doma každý den, stále, až do smrti!“
 
-„Budeš míti Lygii a já zase budu míti na starosti Aula. Přivolá na mne pomstu všech podzemních bohů. Kdyby aspoň ta bestie vzala si předtím lekci o řádné deklamaci…! Ale ten bude spílat, jako spílal mým klientům[190](#footnote-19288-190) bývalý můj vrátný, kterého jsem ostatně poslal za to na venek do ergastula[191](#footnote-19288-191).“
+„Budeš míti Lygii a já zase budu míti na starosti Aula. Přivolá na mne pomstu všech podzemních bohů. Kdyby aspoň ta bestie vzala si předtím lekci o řádné deklamaci…! Ale ten bude spílat, jako spílal mým klientům[^190] bývalý můj vrátný, kterého jsem ostatně poslal za to na venek do ergastula[^191].“
 
 „Aulus byl u mne. Slíbil jsem mu, že mu pošlu zprávu o Lygii.“
 
@@ -64,16 +64,16 @@ Jsem hotov požádati Rudobradého, aby jej zítra pozval na hostinu. Ať tě sp
 
 A sedl si, aby napsal onen list, který starého vůdce připravil o zbytek naděje.
 
-[185](#footnote-19288-185-backlink) Starořímská stříbrná mince.
+[^185]: Starořímská stříbrná mince.
 
-[186](#footnote-19288-186-backlink) Pověstná travička v Neronových službách.
+[^186]: Pověstná travička v Neronových službách.
 
-[187](#footnote-19288-187-backlink) Starořečtí filozofové.
+[^187]: Starořečtí filozofové.
 
-[188](#footnote-19288-188-backlink) Znamenitý starořecký státník z konce 6. a začátku 5. st. n. l., proslulý spra­vedlností a nezištností.
+[^188]: Znamenitý starořecký státník z konce 6. a začátku 5. st. n. l., proslulý spra­vedlností a nezištností.
 
-[189](#footnote-19288-189-backlink) Starořecký peníz.
+[^189]: Starořecký peníz.
 
-[190](#footnote-19288-190-backlink) Svěřenci, chráněnci, příslušníci starořímského patricijského rodu, jinak svobodní, ale v právních věcech podrobení svému patronovi; byli povinni ho ráno navštěvovat a doprovázet na veřejných místech.
+[^190]: Svěřenci, chráněnci, příslušníci starořímského patricijského rodu, jinak svobodní, ale v právních věcech podrobení svému patronovi; byli povinni ho ráno navštěvovat a doprovázet na veřejných místech.
 
-[191](#footnote-19288-191-backlink) Káznice.
+[^191]: Káznice.

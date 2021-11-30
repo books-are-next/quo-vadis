@@ -14,7 +14,7 @@ Cestou tichla vřava a pouliční volání. Průvod pohyboval se mezi domy nov�
 
 „Pane, přikázal Jsi mi, abych dobyl onoho města, které panuje světu. Nuže, dobyl jsem ho! Přikázal Jsi mi, abych v něm založil sídlo Tvé. Nuže, založil jsem je! Je to nyní Tvé město, Pane, a já jdu k Tobě, poněvadž mnoho jsem se napracoval.“
 
-Přecházeje tudíž mimo chrámy, pravil k nim: „Budete chrámy Kristovými!“ Dívaje se na zástupy lidí, pohybujících se mu před očima, pravil k nim: „Kristovými služebníky budou děti vaše!“ – i kráčel v pocitu vykonaného výboje, vědom si své zásluhy, vědom síly, zkonejšen, veliký. Vojáci jej vedli přes Vítězný most[515](#footnote-19288-515), jako by mimoděk vydávali svědectví jeho triumfu, a vedli jej dále, k naumachii a cirku. Věrní ze Zatibří připojili se k průvodu i utvořil se tak hustý dav lidu, že centurio, velící praetoriánům, domysliv se konečně, že odvádí jakéhosi velekněze, kterého obklopují věrní, byl jat nepokojem pro malý počet vojáků. Ale ani jediný výkřik rozhořčení nebo vzteku neozval se v davu. Tváře byly proniknuty velikostí chvíle, velebny a plny očekávání, protože někteří vyznavači, rozpomínajíce se, že při smrti Páně rozestupovala se země zděšením a nebožtíci vstávali z hrobů, domnívali se, že snad i nyní dojde k nějakým zjevným úkazům, jimiž nebude na věky setřena smrt apoštolova. Jiní si dokonce říkali: „Pán si snad zvolí hodinu Petrovu, aby sestoupil s nebe, jak byl slíbil, a vykoná soud nad světem.“ A v té myšlence poroučeli se v milosrdenství Spasitelovo.
+Přecházeje tudíž mimo chrámy, pravil k nim: „Budete chrámy Kristovými!“ Dívaje se na zástupy lidí, pohybujících se mu před očima, pravil k nim: „Kristovými služebníky budou děti vaše!“ – i kráčel v pocitu vykonaného výboje, vědom si své zásluhy, vědom síly, zkonejšen, veliký. Vojáci jej vedli přes Vítězný most[^515], jako by mimoděk vydávali svědectví jeho triumfu, a vedli jej dále, k naumachii a cirku. Věrní ze Zatibří připojili se k průvodu i utvořil se tak hustý dav lidu, že centurio, velící praetoriánům, domysliv se konečně, že odvádí jakéhosi velekněze, kterého obklopují věrní, byl jat nepokojem pro malý počet vojáků. Ale ani jediný výkřik rozhořčení nebo vzteku neozval se v davu. Tváře byly proniknuty velikostí chvíle, velebny a plny očekávání, protože někteří vyznavači, rozpomínajíce se, že při smrti Páně rozestupovala se země zděšením a nebožtíci vstávali z hrobů, domnívali se, že snad i nyní dojde k nějakým zjevným úkazům, jimiž nebude na věky setřena smrt apoštolova. Jiní si dokonce říkali: „Pán si snad zvolí hodinu Petrovu, aby sestoupil s nebe, jak byl slíbil, a vykoná soud nad světem.“ A v té myšlence poroučeli se v milosrdenství Spasitelovo.
 
 Ale kolem bylo klidno. Pahorky, jak se zdálo, vyhřívaly se na slunci a odpočívaly. Průvod se konečně zastavil mezi cirkem a pahorkem vatikánským. Vojáci začali nyní kopati jámu, jiní položili na zemi kříž, kladiva a hřeby, čekajíce, až budou hotovy přípravy; dav pak, stále tichý a zadumaný, poklekl kolem.
 
@@ -28,7 +28,7 @@ Ale on modle se, pojednou se vzpřímil a vysoko vztáhl pravici. Katané se za
 
 On pak, stoje na vyvýšeném místě, začal nataženou pravicí dělati znamení kříže, žehnaje v hodině smrti:
 
-_„Urbi et orbi!_[516](#footnote-19288-516)_“_
+_„Urbi et orbi!_[^516]_“_
 
   
 
@@ -52,10 +52,10 @@ Pavel však, přehodiv si přes rameno závoj Plautillin, aby si jím zavázal o
 
   
 
-![quo_vadis_%20(20).jpg](../Images/quo_vadis_%20%2820%29_fmt.jpeg)
+![quo_vadis_%20(20).jpg](./resources/quo_vadis_-(20)_fmt.jpeg)
 
 … pojednou se vzpřímil a vysoko vztáhl pravici.
 
-[515](#footnote-19288-515-backlink) Pons Triumphalis.
+[^515]: Pons Triumphalis.
 
-[516](#footnote-19288-516-backlink) Městu i světu.
+[^516]: Městu i světu.

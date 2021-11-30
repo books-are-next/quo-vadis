@@ -18,13 +18,13 @@ Byla to pravda. Senekovi chyběla duševní síla, jako měl na příklad Cornut
 
 Ale vůdce přerušil mu nyní jeho zatrpklé úvahy.
 
-„Šlechetný Annaee[183](#footnote-19288-183),“ řekl, „vím, jak se ti Caesar odměnil za péči, kterou jsi zahrnul jeho mladá léta. Ale původcem toho, že nám dítě bylo odňato, jest Petronius. Ukaž mi prostředky proti němu, ukaž mi vlivy, jimž podléhá, a sám konečně užij před ním veškeré své výmluvnosti, k jaké tě staré přátelství ke mně je s to nadchnouti.“
+„Šlechetný Annaee[^183],“ řekl, „vím, jak se ti Caesar odměnil za péči, kterou jsi zahrnul jeho mladá léta. Ale původcem toho, že nám dítě bylo odňato, jest Petronius. Ukaž mi prostředky proti němu, ukaž mi vlivy, jimž podléhá, a sám konečně užij před ním veškeré své výmluvnosti, k jaké tě staré přátelství ke mně je s to nadchnouti.“
 
 „Petronius a já,“ odpověděl Seneka, „jsme lidé dvou opačných táborů. Prostředků, jak na něho vyzráti, neznám, vlivům nepodléhá ničím. Je možno, že přes všecku svou zkaženost má snad větší cenu nežli lotři, jimiž se Nero dnes obklopuje. Ale dokazovati mu, že se dopustil zlého činu, znamená jen plýtvati časem. Petronius již dávno pozbyl onoho smyslu, který rozeznává zlé od dobrého. Dokaž mu, že jeho jednání jest podlé, pak se zastydí. Až se s ním uvidím, řeknu mu: ‚Tvůj čin je hoden otroka, jemuž se dostalo svobody.‘ Nepomůže-li to, nepomůže nic.“
 
 „Díky i za to!“ odvětil vůdce.
 
-Pak se dal odnésti k Vinitiovi, jejž zastal při šermu s domácím lanistou[184](#footnote-19288-184). Aula při pohledu na mladého člověka, klidně se oddávajícího cvičení ve chvíli, kdy byl proveden útok proti Lygii, zachvátil hrozný hněv, který také, jakmile závěs za lanistou zapadl, propukl u něho proudem výčitek a urážek. Ale Vinitius, dověděv se, že Lygie byla odvlečena, zbledl tak strašlivě, že ani Aulus nemohl ho podezírati ani na chvíli z účastenství v únosu. Mladíkovo čelo se pokrylo krůpějemi potu; krev, která na chvíli se sběhla k srdci, vehnala se opět horkou vlnou do tváře, oči začaly sršeti jiskry, ústa chrliti nespořádané otázky. Žárlivost i vztek zmítaly jím střídavě jako vichřice. Zdálo se mu, že Lygie, překročivši jednou práh Caesarův, jest pro něho navždy ztracena. A když Aulus uvedl jméno Petroniovo, myslí mladého vojína proletělo podezření jako blesk, že si Petronius ztropil z něho smích, a že buďto chtěl darováním Lygie získati si nové přízně Caesarovy, nebo ji chtěl podržeti pro sebe. To, že by někdo, spatřiv Lygii, nezatoužil ihned po ní, nemohl srovnati ve své hlavě.
+Pak se dal odnésti k Vinitiovi, jejž zastal při šermu s domácím lanistou[^184]. Aula při pohledu na mladého člověka, klidně se oddávajícího cvičení ve chvíli, kdy byl proveden útok proti Lygii, zachvátil hrozný hněv, který také, jakmile závěs za lanistou zapadl, propukl u něho proudem výčitek a urážek. Ale Vinitius, dověděv se, že Lygie byla odvlečena, zbledl tak strašlivě, že ani Aulus nemohl ho podezírati ani na chvíli z účastenství v únosu. Mladíkovo čelo se pokrylo krůpějemi potu; krev, která na chvíli se sběhla k srdci, vehnala se opět horkou vlnou do tváře, oči začaly sršeti jiskry, ústa chrliti nespořádané otázky. Žárlivost i vztek zmítaly jím střídavě jako vichřice. Zdálo se mu, že Lygie, překročivši jednou práh Caesarův, jest pro něho navždy ztracena. A když Aulus uvedl jméno Petroniovo, myslí mladého vojína proletělo podezření jako blesk, že si Petronius ztropil z něho smích, a že buďto chtěl darováním Lygie získati si nové přízně Caesarovy, nebo ji chtěl podržeti pro sebe. To, že by někdo, spatřiv Lygii, nezatoužil ihned po ní, nemohl srovnati ve své hlavě.
 
 Prchlivost, v jeho rodě dědičná, uchvátila jej nyní jako zběsilý kůň a zbavovala ho jasného vědomí.
 
@@ -52,6 +52,6 @@ Pomponie vzala list a četla, co následuje:
 
 Pak nastalo dlouhé mlčení.
 
-[183](#footnote-19288-183-backlink) Rodné jméno Senekovo.
+[^183]: Rodné jméno Senekovo.
 
-[184](#footnote-19288-184-backlink) Šermířský mistr, který také přijímal do služeb nebo prodával vycvičené gladiátory k veřejným hrám.
+[^184]: Šermířský mistr, který také přijímal do služeb nebo prodával vycvičené gladiátory k veřejným hrám.

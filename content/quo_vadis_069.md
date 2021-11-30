@@ -68,7 +68,7 @@ Scevinus počal opakovati báseň Horácovu:
 
 „Sic te diva potens Cypri,  
 sic fratres Helenae, lucida sidera,  
-ventorumque regat Pater…“[512](#footnote-19288-512)
+ventorumque regat Pater…“[^512]
 
 „Koráb již kotví v Neapoli,“ řekl Caesar. „Rád bych odjel třebas již zítra.“
 
@@ -106,4 +106,4 @@ Tigellinus pohlédl na něho s údivem.
 
 A vrátiv se domů, byl již tak jist, že nadešel konec života Lygiina, že poslal nazítří do amfitheatru důvěrného osvobozence, aby se dohodl se správcem spoliaria o vydání jejího těla, poněvadž je chtěl vydati Vinitiovi.
 
-[512](#footnote-19288-512-backlink) Provázejž tě mocná bohyně Kypru i Helenini bratři, jasné hvězdy a Otec větrů! – Poznámka vydavatelstva polského originálu.
+[^512]: Provázejž tě mocná bohyně Kypru i Helenini bratři, jasné hvězdy a Otec větrů! – Poznámka vydavatelstva polského originálu.

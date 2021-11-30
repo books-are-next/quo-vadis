@@ -18,7 +18,7 @@ Konečně nemoha vydržeti, řekl k němu:
 
 Petronius začal choditi po atriu s výrazem zklamání a roztrpčenosti ve tváři, načež řekl:
 
-„K tomu není třeba vašeho Krista, poněvadž tutéž službu ti může prokázati náš Thanatos[510](#footnote-19288-510).“
+„K tomu není třeba vašeho Krista, poněvadž tutéž službu ti může prokázati náš Thanatos[^510].“
 
 Ale Vinitius smutně se usmál a řekl:
 
@@ -56,4 +56,4 @@ Vinitius postavil se před vrata a čekal, dokud nezačnou vyváděti odsouzenc
 
 Na konci průvodu zahlédl Vinitius zřetelně Glauka lékaře, ale ani Lygie, ani Ursus nebyli mezi odsouzenci.
 
-[510](#footnote-19288-510-backlink) Bůh smrti.
+[^510]: Bůh smrti.

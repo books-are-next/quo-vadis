@@ -6,7 +6,7 @@ Petronius, odešed od Caesara, dal se zanésti do svého domu na Carinách, kter
 
 Z té příčiny ostatní Augustiani, kteří přišli o domy a v nich o množství bohatství a uměleckých děl, nazývali Petronia šťastným. Ostatně, říkalo se o něm odedávna, že je prvorozeným synem Štěstěny, a stále živější přízeň, jakou mu poslední dobou projevoval Caesar, zdála se potvrzovati pravdu té domněnky.
 
-Ale ten prvorozený syn Štěstěny mohl nyní přemýšleti o vrtkavosti oné matky, či spíše o její podobě s Chronem[465](#footnote-19288-465), požírajícím vlastní děti.
+Ale ten prvorozený syn Štěstěny mohl nyní přemýšleti o vrtkavosti oné matky, či spíše o její podobě s Chronem[^465], požírajícím vlastní děti.
 
 „Kdyby můj dům byl vyhořel,“ pravil k sobě, „a s ním i mé gemmy, mé etruské předměty a alexandrijské sklo i korintská měď, snad by Nero opravdu zapomněl na urážku. U Polluxe, pomyslím-li si, že jen na mně záleželo, abych v této chvíli byl praefektem praetoriánů! Byl bych Tigellina prohlásil za žháře, jímž ostatně jest, byl bych jej dal obléci do tuniky bolesti, vydal lidu, zachránil křesťany a znovu vystavěl Řím. Kdož ví ještě, nezačalo-li by se počestným lidem dařiti lépe. Měl jsem tak učiniti, byť z ohledu na Vinitia! Kdybych byl přetížen prací, ponechal bych mu úřad praefekta – a Nero by se ani nepokusil, aby se tomu vzepřel… Ať by si pak Vinitius pokřtil všecky praetoriány a třebas i samého Caesara – co by mi to mohlo uškoditi! Nero pobožný, Nero ctnostný a milosrdný byl by dokonce rozkošnou podívanou.“
 
@@ -38,7 +38,7 @@ Vinitius byl opravdu příliš vojákem, aby marnil čas zbytečnými otázkami.
 
 „Jdu!“ řekl.
 
-„Ještě slovo! Vezmi s sebou ‚capsu‘[466](#footnote-19288-466) se zlatem, vezmi zbraň a hlouček svých lidí křesťanů! Bude-li nutno, užij násilí!“
+„Ještě slovo! Vezmi s sebou ‚capsu‘[^466] se zlatem, vezmi zbraň a hlouček svých lidí křesťanů! Bude-li nutno, užij násilí!“
 
 Vinitius byl již ve dveřích atria.
 
@@ -230,7 +230,7 @@ Petronius sebou trhl a začal se dívati na Vinitia tázavým zrakem.
 
 Ten porozuměl.
 
-„Ne!“ řekl. „Nebyla vsazena do Tulliana[467](#footnote-19288-467), ani dokonce do prostředního vězení. Podplatil jsem strážce, aby jí přenechal svou jizbu. Ursus položil se na prahu a bdí nad ní.“
+„Ne!“ řekl. „Nebyla vsazena do Tulliana[^467], ani dokonce do prostředního vězení. Podplatil jsem strážce, aby jí přenechal svou jizbu. Ursus položil se na prahu a bdí nad ní.“
 
 „Proč jí Ursus neubránil?“
 
@@ -270,7 +270,7 @@ Ulice pro pozdní hodinu byly prázdné, nicméně další rozhovor byl přeruš
 
 „Křesťané lvům!“
 
-„Mirmillone[468](#footnote-19288-468),“ ozval se klidně Petronius, „poslechni dobré rady a táhni po svých!“
+„Mirmillone[^468],“ ozval se klidně Petronius, „poslechni dobré rady a táhni po svých!“
 
 Vtom jej opilec popadl i druhou rukou za rameno.
 
@@ -320,10 +320,10 @@ V té chvíli se pod zemí a za silnými zdmi ozval zpěv. Píseň, z počát
 
 Vojáci se na sebe udiveně podívali. Na nebi se objevily první zlaté a růžové lesky úsvitu.
 
-[465](#footnote-19288-465-backlink) Bůh času; aby nebyl přemožen od svých synů, pojídal každého z nich hned po narození.
+[^465]: Bůh času; aby nebyl přemožen od svých synů, pojídal každého z nich hned po narození.
 
-[466](#footnote-19288-466-backlink) Pouzdro, měšec.
+[^466]: Pouzdro, měšec.
 
-[467](#footnote-19288-467-backlink) Nejnižší část vězení, ležící pod zemí, s jediným otvorem ve stropu. Tam zemřel hladem Jugurtha.
+[^467]: Nejnižší část vězení, ležící pod zemí, s jediným otvorem ve stropu. Tam zemřel hladem Jugurtha.
 
-[468](#footnote-19288-468-backlink) Gladiátor, těžkooděnec.
+[^468]: Gladiátor, těžkooděnec.

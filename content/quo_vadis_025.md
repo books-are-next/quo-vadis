@@ -6,11 +6,11 @@ Každá krůpěj krve se zachvěla v mladém patriciovi, když spatřil Lygii. 
 
   
 
-![quo_vadis_%20(5).jpg](../Images/quo_vadis_%20%285%29_fmt.jpeg)
+![quo_vadis_%20(5).jpg](./resources/quo_vadis_-(5)_fmt.jpeg)
 
 Ale nebylo pochybnosti: viděl Lygii…
 
-Byl by se všecek zahleděl a úplně zapomněl na sebe, kdyby nebylo Chilona, který jej tahal za cíp u pláště, ze strachu, aby neprovedl čehosi, co by je mohlo vydati v nebezpečí. Křesťané zatím se začali modliti a zpívati. Za chvíli zahučelo „Maranatha“[307](#footnote-19288-307) a pak začal veliký apoštol křtíti vodou z fontány ty, které předváděli presbyteři jako připravené ku přijetí křtu. Vinitiovi se zdálo, že ta noc nebude míti nikdy konce. Chtěl nyní co nejrychleji sledovati Lygii a zmocniti se jí cestou nebo v jejím příbytku.
+Byl by se všecek zahleděl a úplně zapomněl na sebe, kdyby nebylo Chilona, který jej tahal za cíp u pláště, ze strachu, aby neprovedl čehosi, co by je mohlo vydati v nebezpečí. Křesťané zatím se začali modliti a zpívati. Za chvíli zahučelo „Maranatha“[^307] a pak začal veliký apoštol křtíti vodou z fontány ty, které předváděli presbyteři jako připravené ku přijetí křtu. Vinitiovi se zdálo, že ta noc nebude míti nikdy konce. Chtěl nyní co nejrychleji sledovati Lygii a zmocniti se jí cestou nebo v jejím příbytku.
 
 Konečně začali někteří opouštěti hřbitov. Tehdy zašeptal Chilon:
 
@@ -32,7 +32,7 @@ Ale Chilon začal je od toho odrazovati a zapřísahati při všech bozích, ab
 
 Vinitius přesto, že s největším přemáháním se ovládal, aby hned na hřbitově nestrhl Lygii v objetí, přece jen cítil, že Řek má pravdu, a byl by snad popřál sluchu jeho radám, kdyby nebylo Krotona, jemuž běželo o odměnu.
 
-„Rozkaž, pane, tomu starému ťulpasovi, aby byl zticha,“ řekl, „anebo mi dovol, abych jej udeřil pěstí do hlavy! Jednou v Buxentu[308](#footnote-19288-308), kam byl mne přivedl na hry Lucius Saturninus, vrhlo se na mne v hospodě sedm opilých gladiátorů a žádný z nich neodešel s celými žebry. Neříkám, abychom se dívky zmocnili teď, uprostřed davu, protože by nám mohli házet kamení na nohy, ale až bude jednou doma, uchvátím ti ji a odnesu, kam ti bude libo.“
+„Rozkaž, pane, tomu starému ťulpasovi, aby byl zticha,“ řekl, „anebo mi dovol, abych jej udeřil pěstí do hlavy! Jednou v Buxentu[^308], kam byl mne přivedl na hry Lucius Saturninus, vrhlo se na mne v hospodě sedm opilých gladiátorů a žádný z nich neodešel s celými žebry. Neříkám, abychom se dívky zmocnili teď, uprostřed davu, protože by nám mohli házet kamení na nohy, ale až bude jednou doma, uchvátím ti ji a odnesu, kam ti bude libo.“
 
 Vinitius měl radost, naslouchaje těm slovům, i odvětil:
 
@@ -52,7 +52,7 @@ Nicméně cesta byla dlouhá, a proto chvílemi přemýšlel o propastech, jak
 
 A mysle na to, zakoušel žhoucí bolest i hněv, cítil však zároveň, že ten hněv jest bezmocný. Unésti Lygii připadalo mu věcí možnou, tím si byl skoro jist, ale rovněž byl si jist, že proti tomu učení on sám, jeho statečnost, jeho moc, nejsou ničím a že nebude si s Lygií věděti rady. Ten římský vojenský tribun, přesvědčen, že ta síla meče i pěsti, která ovládla svět, vždy jej bude ovládati, spatřil po prvé v životě, že mimo tu sílu může býti ještě cosi jiného, a proto si s úžasem dával otázku: Co je to?
 
-A nedovedl si jasně odpověděti, hlavou mu proletovaly jen obrazy hřbitova, shromážděného zástupu a Lygie, jež všecka byla pohroužena duší v poslouchání slov starce, vypravujícího o mukách, smrti a zmrtvýchvstání Boha-člověka, který vykoupil svět a sliboval mu štěstí na druhém břehu Styxu[309](#footnote-19288-309).
+A nedovedl si jasně odpověděti, hlavou mu proletovaly jen obrazy hřbitova, shromážděného zástupu a Lygie, jež všecka byla pohroužena duší v poslouchání slov starce, vypravujícího o mukách, smrti a zmrtvýchvstání Boha-člověka, který vykoupil svět a sliboval mu štěstí na druhém břehu Styxu[^309].
 
 Když pak o tom uvažoval, v jeho hlavě vyvstával zmatek.
 
@@ -64,11 +64,11 @@ Vinitius, uslyšev to, vyňal měšec od pasu a hodil jej Chilonovi mezi prsty.
 
 Řek ucítil, že měšec byl neobyčejně těžký, a dostal odvahu.
 
-„Všecka má naděje spočívá v tom,“ řekl, „že Herkules nebo Theseus[310](#footnote-19288-310) vykonali práce ještě obtížnější, a čím jest můj osobní, nejbližší přítel Kroto, ne-li Herkulem? Tebe pak, ctihodný pane, nenazvu polobohem, poněvadž jsi celým bohem a nezapomeneš ani nadále na chudého a věrného služebníka, jehož potřeby musíš občas ukájeti, protože on sám, jakmile se jednou zahloubá do knih, nestará se naprosto o nic… Několik těch sáhů zahrady a domek, třebas i s nejmenším portykem pro ochlazení v létě, bylo by čímsi důstojným takového dárce. Zatím budu se obdivovati zpovzdálí vašim hrdinským činům, vzývat Joviše, aby vám přál zdaru, a strhne-li se něco, způsobím takový povyk, že se probudí půl Říma a přijde vám na pomoc. Jaká to špatná a nerovná cesta! Olej mi v lucerně dohořel, a kdyby Kroto, jenž je šlechetný zrovna tak jako silný, chtěl mne vzít do náručí a donést až ke bráně, přesvědčil by se předem, je-li snadno unést dívku, a za druhé, zachoval by se jako Aeneas[311](#footnote-19288-311), a konečně by si naklonil všecky poctivější bohy tou měrou, že bych o výsledek podniku byl úplně kliden.“
+„Všecka má naděje spočívá v tom,“ řekl, „že Herkules nebo Theseus[^310] vykonali práce ještě obtížnější, a čím jest můj osobní, nejbližší přítel Kroto, ne-li Herkulem? Tebe pak, ctihodný pane, nenazvu polobohem, poněvadž jsi celým bohem a nezapomeneš ani nadále na chudého a věrného služebníka, jehož potřeby musíš občas ukájeti, protože on sám, jakmile se jednou zahloubá do knih, nestará se naprosto o nic… Několik těch sáhů zahrady a domek, třebas i s nejmenším portykem pro ochlazení v létě, bylo by čímsi důstojným takového dárce. Zatím budu se obdivovati zpovzdálí vašim hrdinským činům, vzývat Joviše, aby vám přál zdaru, a strhne-li se něco, způsobím takový povyk, že se probudí půl Říma a přijde vám na pomoc. Jaká to špatná a nerovná cesta! Olej mi v lucerně dohořel, a kdyby Kroto, jenž je šlechetný zrovna tak jako silný, chtěl mne vzít do náručí a donést až ke bráně, přesvědčil by se předem, je-li snadno unést dívku, a za druhé, zachoval by se jako Aeneas[^311], a konečně by si naklonil všecky poctivější bohy tou měrou, že bych o výsledek podniku byl úplně kliden.“
 
 „Raději ponesu zdechlinu ovce, scíplé před měsícem na prašivinu,“ odvětil lanista, „ale dáš-li mi onen měšec, který ti hodil ctihodný tribun, ponesu tě až ke bráně.“
 
-„Kéž by sis vymkl prst u nohy!“ odpověděl Řek. „Tedy tolik jsi toho pochytil z učení onoho velebného starce, který uváděl chudobu a soucit jako dvě nejpřednější vlastnosti…? Což ti jasně nepřikázal, abys mne miloval? Pozoruji, že z tebe neudělám ani ledabylého křesťana a že spíše slunce pronikne zdmi mamertinského vězení[312](#footnote-19288-312) nežli pravda tvou hroší hlavou.“
+„Kéž by sis vymkl prst u nohy!“ odpověděl Řek. „Tedy tolik jsi toho pochytil z učení onoho velebného starce, který uváděl chudobu a soucit jako dvě nejpřednější vlastnosti…? Což ti jasně nepřikázal, abys mne miloval? Pozoruji, že z tebe neudělám ani ledabylého křesťana a že spíše slunce pronikne zdmi mamertinského vězení[^312] nežli pravda tvou hroší hlavou.“
 
 Kroto, jenž měl sílu zvířecí, naproti tomu však byl bez jakýchkoli lidských citů, pravil:
 
@@ -86,7 +86,7 @@ Na světě se šeřilo. Svit obestřel bledou barvou cimbuří hradeb. Stromy u�
 
 „Máš u mne schovánu ránu pěstí mezi lopatky – to znamená, že bude po tobě!“ ozval se Kroto.
 
-„Máš u mne schovánu diotu[313](#footnote-19288-313) kefalonského vína – to znamená, že budu zdráv!“ odvětil Řek.
+„Máš u mne schovánu diotu[^313] kefalonského vína – to znamená, že budu zdráv!“ odvětil Řek.
 
 Vinitius neodpověděl ničeho, protože se přiblížili ke bráně, u které překvapila jejich oči zvláštní podívaná. Dva vojáci totiž poklekli, když přecházel apoštol mimo, on pak chvíli spočinul rukama na jejich železných přílbách a pak učinil nad nimi znamení kříže. Mladému patriciovi dosud nikdy nepřišlo na mysl, že již i mezi vojáky mohou býti křesťané, a s údivem si pomyslil, že jako v hořícím městě zachvacuje požár domy stále nové, tak ono učení každým dnem přibírá patrně stále nové duše a šíří se nad všecky lidské představy. Zamyslil se nad tím též vzhledem k Lygii, neboť se přesvědčil, že kdyby bývala chtěla prchnouti z města, našli by se muži ze stráže, kteří sami by jí byli umožnili tajemný odchod. Proto také blahořečil v tom okamžiku všem bohům, že se tak nestalo.
 
@@ -118,16 +118,16 @@ A za chvíli zmizeli oba ve tmavé síni.
 
 Chilon odskočil k nároží nejbližší uličky a jal se vykukovati ze zákoutí, očekávaje, co se stane.
 
-[307](#footnote-19288-307-backlink) Aramejské slovo znamenající „Pán náš“.
+[^307]: Aramejské slovo znamenající „Pán náš“.
 
-[308](#footnote-19288-308-backlink) Starořímské město v jižní Itálii.
+[^308]: Starořímské město v jižní Itálii.
 
-[309](#footnote-19288-309-backlink) V řeckém bájesloví řeka v podsvětí.
+[^309]: V řeckém bájesloví řeka v podsvětí.
 
-[310](#footnote-19288-310-backlink) Po Heraklovi nejznamenitější starořecký hrdina.
+[^310]: Po Heraklovi nejznamenitější starořecký hrdina.
 
-[311](#footnote-19288-311-backlink) Syn trojského hrdiny Anchisa a bohyně Afrodity, praotec římského národa.
+[^311]: Syn trojského hrdiny Anchisa a bohyně Afrodity, praotec římského národa.
 
-[312](#footnote-19288-312-backlink) Stálo na severovýchodní straně starořímského Fora.
+[^312]: Stálo na severovýchodní straně starořímského Fora.
 
-[313](#footnote-19288-313-backlink) Dvouuchá nádoba.
+[^313]: Dvouuchá nádoba.

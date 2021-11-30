@@ -68,7 +68,7 @@ Tvář mu zbledla, vlasy se slepily potem, ramena i ruce zdály se býti polity
 
   
 
-![quo_vadis_%20(16).jpg](../Images/quo_vadis_%20%2816%29_fmt.jpeg)
+![quo_vadis_%20(16).jpg](./resources/quo_vadis_-(16)_fmt.jpeg)
 
 Bylo patrno, že obr sbírá své poslední nadlidské síly…
 
@@ -98,7 +98,7 @@ Zatím začal davy zachvacovati vztek. Pod nohama dupajících se zvedl prach a�
 
   
 
-![quo_vadis_%20(17).jpg](../Images/quo_vadis_%20%2817%29_fmt.jpeg)
+![quo_vadis_%20(17).jpg](./resources/quo_vadis_-(17)_fmt.jpeg)
 
 … a uchopiv dívku do náručí, začal rychle oddychovati.
 

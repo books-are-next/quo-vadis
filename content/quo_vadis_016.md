@@ -12,7 +12,7 @@ A načrtnuv několik slov na tabulce, povlečené voskem, odevzdal ji Petroniov
 
 Pak přešli do vnitřku portyku a tam, usednuvše na mramorovou lavičku, začali rozmlouvati.
 
-Zlatovlasá Eunike a Iras podstrčily jim pod nohy bronzové stoličky a pak, přistavivše k lavičce stolek, začaly jim nalévati víno do číší z nádherných úzkohrdlých konvic, které byly dopraveny z Volaterr[232](#footnote-19288-232) a Caeciny.
+Zlatovlasá Eunike a Iras podstrčily jim pod nohy bronzové stoličky a pak, přistavivše k lavičce stolek, začaly jim nalévati víno do číší z nádherných úzkohrdlých konvic, které byly dopraveny z Volaterr[^232] a Caeciny.
 
 „Máš mezi svými lidmi někoho, jenž by znal toho obrovského Lyga?“ ptal se Petronius.
 
@@ -58,9 +58,9 @@ Ale Petronius dal se do smíchu.
 
 „Ta víra velí odpouštěti,“ řekl Vinitius. „Setkal jsem se u Akté s Pomponii, která mi řekla: ‚Bůh ti odpusť nešlechetnost, jaké ses dopustil na nás i Lygii!‘“
 
-„Patrně jejich bůh jest nějaký hodně velikomyslný ‚curator‘[233](#footnote-19288-233). Nuže, ať ti odpustí a na znamení odpuštění ať ti vrátí dívku!“
+„Patrně jejich bůh jest nějaký hodně velikomyslný ‚curator‘[^233]. Nuže, ať ti odpustí a na znamení odpuštění ať ti vrátí dívku!“
 
-„Obětoval bych mu zítra hekatombu[234](#footnote-19288-234). Nepřeji si jídla ani lázně ani spánku. Vezmu tmavou lacernu a půjdu pátrat po městě. Snad ji v přestrojení najdu. Jsem nemocen!“
+„Obětoval bych mu zítra hekatombu[^234]. Nepřeji si jídla ani lázně ani spánku. Vezmu tmavou lacernu a půjdu pátrat po městě. Snad ji v přestrojení najdu. Jsem nemocen!“
 
 Petronius pohlédl na něho s jakýmsi soucitem. Opravdu, Vinitius měl pod očima modré kruhy, zraky se horečně leskly; porost, ráno neoholený, povlékl jeho tvrdě vyvstávající čelisti tmavým pruhem, vlasy měl rozcuchány a vskutku vypadal jako nemocný. Iras a zlatovlasá Eunike dívaly se na něho rovněž s účastí, ale on, jak se zdálo, jich neviděl a oba, on i Petronius, pranic si nevšímali přítomnosti otrokyň, jako by si nevšímali psů, vrtících se kolem nich.
 
@@ -74,13 +74,13 @@ Petronius pohlédl na něho s jakýmsi soucitem. Opravdu, Vinitius měl pod oč
 
 Ale Petronius, který byl mu opravdu vřele oddán a který vskutku si přál, aby zmírnil jeho strádání, začal uvažovati o tom, jak by možno bylo to provésti.
 
-„Snad ty tvé nemají pro tebe půvabu novosti,“ řekl za chvíli, „nuže (a tu jal se střídavě hleděti na Iras i Eunike a konečně položil ruku na kyčli zlatovlasé Řekyně), popatři na tuto Charitku! Před několika dny Fonteius Capito dával mi za ni tři roztomilé jinochy z Klasomene[235](#footnote-19288-235), neboť krásnějšího těla snad ani Skopas[236](#footnote-19288-236) nevytvořil. Sám nechápu, proč jsem zůstal k ní až dosud lhostejný – vždyť mi přece nezbraňovala myšlenka na Chrisothemidu! Nuže, daruji ti ji, vezmi si ji!“
+„Snad ty tvé nemají pro tebe půvabu novosti,“ řekl za chvíli, „nuže (a tu jal se střídavě hleděti na Iras i Eunike a konečně položil ruku na kyčli zlatovlasé Řekyně), popatři na tuto Charitku! Před několika dny Fonteius Capito dával mi za ni tři roztomilé jinochy z Klasomene[^235], neboť krásnějšího těla snad ani Skopas[^236] nevytvořil. Sám nechápu, proč jsem zůstal k ní až dosud lhostejný – vždyť mi přece nezbraňovala myšlenka na Chrisothemidu! Nuže, daruji ti ji, vezmi si ji!“
 
 Ale zlatovlasá Eunike, uslyševši to, zbledla v jediném okamžiku jako plátno, a hledíc ulekanýma očima na Vinitia, čekala na jeho odpověď, jak se zdálo, bez dechu v prsou.
 
 Ale on se pojednou rychle vzchopil a rukama stisknuv skráně, začal chvatně mluviti jako člověk, který sžírán nemocí, nechce slyšeti o ničem.
 
-„Ne, ne…! Nic mi na ní nezáleží! Nic mi nezáleží na jiných…! Dě­kuji ti, ale nechci! Jdu hledat onu druhou po městě. Rozkaž, aby mi dali gallskou lacernu[237](#footnote-19288-237) s kápí. Půjdu za Tiber… Kdybych aspoň Ursa mohl spatřiti…!“
+„Ne, ne…! Nic mi na ní nezáleží! Nic mi nezáleží na jiných…! Dě­kuji ti, ale nechci! Jdu hledat onu druhou po městě. Rozkaž, aby mi dali gallskou lacernu[^237] s kápí. Půjdu za Tiber… Kdybych aspoň Ursa mohl spatřiti…!“
 
 A vyšel se spěchem. Petronius, vida, že opravdu nemůže poseděti na místě, nepokoušel se, aby jej zadržel. Přijímaje však odmítnutí Vinitiovo jako přechodný odpor ke každé ženě, která nebyla Lygií, a nechtěje, aby jeho vlastní velikomyslnost nevyzněla naprázdno, obrátiv se k otrokyni, pravil:
 
@@ -98,7 +98,7 @@ Eunike vstala, třesouc se, se slzami v očích, a odešla, za chvíli pak se 
 
 To praviv, odešel do knihovny, a zasednuv ke stolu z růžového mramoru, začal pracovati o své „Hostině Trimalchionově“.
 
-Ale útěk Lygiin a nemoc malé Augusty příliš mu rozptylovaly mysl, takže dlouho nemohl pracovati. Zvláště ta nemoc byla vážnou událostí. Petronia napadlo, že uvěří-li Caesar, že Lygie použila kouzla u malé Augusty, může odpovědnost padnouti i na něho, poněvadž dívka byla přivedena do paláce na jeho žádost. Doufal však, že při prvním setkání s Caesarem podaří se mu jakýmkoliv způsobem vysvětliti všecku pošetilost podobné domněnky, a poněkud i spoléhal na jakousi náklonnost, jakou k němu chovala Poppaea, tajíc se jí arci pečlivě, ne však zase tak pečlivě, aby jí neměl vytušiti. Za chvíli také pokrčil rameny nad svými obavami a rozhodl se, že půjde do triclinia, aby se posilnil, a potom že se dá ještě jednou zanésti do paláce, pak na pole Martovo[238](#footnote-19288-238) a potom ke Chrisothemidě.
+Ale útěk Lygiin a nemoc malé Augusty příliš mu rozptylovaly mysl, takže dlouho nemohl pracovati. Zvláště ta nemoc byla vážnou událostí. Petronia napadlo, že uvěří-li Caesar, že Lygie použila kouzla u malé Augusty, může odpovědnost padnouti i na něho, poněvadž dívka byla přivedena do paláce na jeho žádost. Doufal však, že při prvním setkání s Caesarem podaří se mu jakýmkoliv způsobem vysvětliti všecku pošetilost podobné domněnky, a poněkud i spoléhal na jakousi náklonnost, jakou k němu chovala Poppaea, tajíc se jí arci pečlivě, ne však zase tak pečlivě, aby jí neměl vytušiti. Za chvíli také pokrčil rameny nad svými obavami a rozhodl se, že půjde do triclinia, aby se posilnil, a potom že se dá ještě jednou zanésti do paláce, pak na pole Martovo[^238] a potom ke Chrisothemidě.
 
 Ale cestou do triclinia při vstupu na chodbu, určenou pro služebnictvo, spatřil pojednou štíhlou postavu Eunike, stojící u zdi mezi ostatními otroky, a zapomenuv, že nevydal Teiresiovi jiného rozkazu, nežli aby ji zmrskal, opět svraštil obočí a začal se po něm ohlížeti.
 
@@ -164,16 +164,16 @@ Teiresias počal mluviti hlasem poněkud nejistým:
 
 Petronius pak začal mimovolně přemýšleti o Eunike. Z počátku se mu zdálo jasno, že si mladá otrokyně přeje, aby Vinitius nabyl opět Lygie, jen proto, aby nebyla nucena nahraditi ji v jeho domě. Ale potom ho napadlo, že onen člověk, o němž se Eunike zmínila, může býti jejím milencem, a ta myšlenka mu pojednou připadala trapnou. Byl tu sice jednoduchý způsob, kterak zvěděti pravdu, neboť stačilo dáti si zavolat Eunike; byla pozdní hodina a Petronius cítil, že jest unaven po dlouhé návštěvě u Chrisothemidy, a toužil po spánku. Nicméně kráčeje do cubicula, rozpomenul se neznámo proč, že v koutcích očí Chrisothemidiných zahlédl dnes vrásky. Také si pomyslil, že její krása byla po celém Římě spíše pověstná, nežli byla opravdová, a že Fonteius Capito, který mu nabídl tři jinochy z Klasomene za Eunike, chtěl ji přece jen koupiti příliš lacino.
 
-[232](#footnote-19288-232-backlink) Staroitalské město poblíž Pisy.
+[^232]: Staroitalské město poblíž Pisy.
 
-[233](#footnote-19288-233-backlink) Opatrovník, správce, dozorce.
+[^233]: Opatrovník, správce, dozorce.
 
-[234](#footnote-19288-234-backlink) Starověká slavná veřejná oběť, při které bylo bohům obětováno sto kusů dobytka nebo skotu.
+[^234]: Starověká slavná veřejná oběť, při které bylo bohům obětováno sto kusů dobytka nebo skotu.
 
-[235](#footnote-19288-235-backlink) Starořímské město v zátoce u města Izmir.
+[^235]: Starořímské město v zátoce u města Izmir.
 
-[236](#footnote-19288-236-backlink) Slavný starořecký sochař ze 4. stol. př. n. l.
+[^236]: Slavný starořecký sochař ze 4. stol. př. n. l.
 
-[237](#footnote-19288-237-backlink) Plášť zapínaný přeskou na prsou.
+[^237]: Plášť zapínaný přeskou na prsou.
 
-[238](#footnote-19288-238-backlink) Rozlehlá rovina ve starém Římě u řeky Tibery, kde se konaly volby státních úředníků, lidová shromáždění a vojenské přehlídky.
+[^238]: Rozlehlá rovina ve starém Římě u řeky Tibery, kde se konaly volby státních úředníků, lidová shromáždění a vojenské přehlídky.

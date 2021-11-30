@@ -28,7 +28,7 @@ Chrisothemis bezděčně pohlédla na svá chodidla, na jejichž prstech opravdu
 
 „Již by měli vyjíti z paláce,“ pravil, jako by mluvil sám k sobě.
 
-„Měli by,“ odpověděl Petronius. „Snad abych ti zatím vypravoval o věštbách Apollonia z Tyany[223](#footnote-19288-223) nebo onu historii o Ruffinovi, které jsem nedopověděl, nevím proč.“
+„Měli by,“ odpověděl Petronius. „Snad abych ti zatím vypravoval o věštbách Apollonia z Tyany[^223] nebo onu historii o Ruffinovi, které jsem nedopověděl, nevím proč.“
 
 Ale Vinitia málo zajímal Apollonius z Tyany právě tak jako historie Ruffinova. V duchu dlel u Lygie, a byť i cítil, že bylo krásnější uvítati ji v domě nežli jíti v úloze pochopa do paláce, přece jen chvílemi litoval, že nešel, jen proto, že by mohl spatřili Lygii dříve a seděti v lektice vedle ní potmě.
 
@@ -50,7 +50,7 @@ Vinitius dokonce ani nezaslechl:
 
 „Již jsou na Carinách…!“
 
-Oni opravdu již zabočovali ke Carinám. Otroci, zvaní lampadarii[224](#footnote-19288-224), kráčeli napřed, jiní, zvaní pedisequi, po obou stranách lektiky. Atacinus pak hned za ní, dávaje pozor na průvod.
+Oni opravdu již zabočovali ke Carinám. Otroci, zvaní lampadarii[^224], kráčeli napřed, jiní, zvaní pedisequi, po obou stranách lektiky. Atacinus pak hned za ní, dávaje pozor na průvod.
 
 Ale postupovali zvolna, protože lucerny špatně svítily na cestu ve městě, které vůbec nebylo osvětleno. Kromě toho ulice nablízku paláce byly prázdné, jen tu a tam některý člověk mihl se s lucerničkou, kdežto dále byly ulice neobyčejně oživeny. Z každého téměř kouta vycházeli lidé po třech, po čtyřech, všichni bez pochodní, všichni ve tmavých pláštích. Někteří kráčeli společně s průvodem, mísíce se s otroky, jiní jim přicházeli vstříc z protějších stran ve větších hloučcích. Někteří se potáceli jako opilí. Chvílemi se průvod dostával kupředu tak obtížně, že „lampadarii“ začali volati:
 
@@ -64,7 +64,7 @@ Pojednou se strhl v čele průvodu křik a v jediném okamžiku zhasla všeck
 
 Atacinus porozuměl: byli prostě přepadeni.
 
-A porozuměv, strnul. Bylo všem známo, že Caesar často pro zábavu pořádá krvavé srážky pomocí davu Augustianů[225](#footnote-19288-225) na Subuře i v jiných čtvrtích města. Bylo známo, že někdy si dokonce přinášel z těch nočních výpadů otekliny a modřiny; ale kdo se bránil, šel na smrt, byť i byl senátorem. Dům vigilů, jejichž povinností bylo bdíti nad městem, nebyl příliš odlehlý, ale stráž se tvářila v podobných případnostech, že je hluchá a slepá. Zatím kolem lektiky se utvořil vír; lidé začali mezi sebou zápasiti, druh druha povalovati, šlapati po sobě. Atacinovi probleskla myšlenka, že především jest nutno zachrániti Lygii a sebe, ostatní pak ponechati osudu. A vskutku, vytáhnuv Lygii z lektiky, strhl ji k sobě, vzal do náruči a snažil se prokrásti se ve tmě.
+A porozuměv, strnul. Bylo všem známo, že Caesar často pro zábavu pořádá krvavé srážky pomocí davu Augustianů[^225] na Subuře i v jiných čtvrtích města. Bylo známo, že někdy si dokonce přinášel z těch nočních výpadů otekliny a modřiny; ale kdo se bránil, šel na smrt, byť i byl senátorem. Dům vigilů, jejichž povinností bylo bdíti nad městem, nebyl příliš odlehlý, ale stráž se tvářila v podobných případnostech, že je hluchá a slepá. Zatím kolem lektiky se utvořil vír; lidé začali mezi sebou zápasiti, druh druha povalovati, šlapati po sobě. Atacinovi probleskla myšlenka, že především jest nutno zachrániti Lygii a sebe, ostatní pak ponechati osudu. A vskutku, vytáhnuv Lygii z lektiky, strhl ji k sobě, vzal do náruči a snažil se prokrásti se ve tmě.
 
 Lygie však začala volati:
 
@@ -124,8 +124,8 @@ Ale Petronius se zvedl s výrazem odporu ve tváři.
 
 A odešel z atria, v celém domě pak, vyzdobeném zelení břečtanu a připraveném k hostině, rozlehlo se za chvíli bědování otroků a svištění důtek, a to trvalo skoro až do rána.
 
-[223](#footnote-19288-223-backlink) Starověký filozof a náboženský reformátor z 1. st. n. l.
+[^223]: Starověký filozof a náboženský reformátor z 1. st. n. l.
 
-[224](#footnote-19288-224-backlink) Nosiči pochodní.
+[^224]: Nosiči pochodní.
 
-[225](#footnote-19288-225-backlink) Neronovi milci, mladí římští rytíři, jím vybraní, kteří mu tleskali při jeho uměleckých výkonech.
+[^225]: Neronovi milci, mladí římští rytíři, jím vybraní, kteří mu tleskali při jeho uměleckých výkonech.

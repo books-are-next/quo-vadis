@@ -4,7 +4,7 @@ title: VII
 
 Před Akté, bývalou Neronovou milenkou, skláněly se kdysi nejvyšší hlavy Říma. Ale ani tenkrát se nechtěla vměšovati do veřejných záležitostí, a využívala-li někdy svého vlivu na mladého vládce, tedy jen proto, aby si vyprosila pro někoho milost. Tichá a pokorná, získala si vděčnosti mnohých, nikoho pak neučinila svým nepřítelem. Nedovedla jí nenáviděti ani Oktavie. Žárlivým připadala příliš málo nebezpečna. Vědělo se o ní, že stále miluje Nerona láskou smutnou a bolestnou, která žije nikoli již nadějí, nýbrž pouze vzpomínkami na chvíle, ve kterých Nero byl nejen mladší a milující, nýbrž i lepší. Vědělo se, že nemůže od těch vzpomínek odtrhnouti duši a mysl, ale že ničeho již nečeká. Protože pak nebylo opravdu obavy, že by se k ní Caesar vrátil, hledělo se na ni jako na bytost úplně bezbrannou, a z té příčiny byla ponechávána na pokoji. Poppaea pokládala ji pouze za tichou služebnici, tak dalece neškodnou, že se ani nedožadovala toho, aby byla z paláce odstraněna.
 
-Protože však Caesar kdysi ji miloval a opustil ji, neponíživ ji, klidným, ano i poněkud vlídným způsobem, chovali se k ní poněkud šetrně. Nero, obdařiv jí svobodou, vykázal jí v paláci byt a v něm zvláštní cubiculum a hlouček lidí ze služebnictva. A když svého času Pallas a Narcis, ač to byli Claudiovi osvobozenci, nejen zasedali s Claudiem k hostinám, nýbrž i jako význační činitelé zaujímali čestná místa, byla i ona zvána někdy k tabuli Caesarově. Dělalo se to snad proto, že její lepá postava byla skutečnou ozdobou hostiny. Ostatně, Caesar ve výběru společnosti přestal již dávno míti na zření jakékoli ohledy. K jeho stolu zasedala nejrůznorodější směs lidí všelikých stavů a povolání. Byli mezi nimi senátoři, ale převážně tací, kteří souhlasili s tím, aby zároveň byli šašky. Byli tu staří i mladí patriciové[192](#footnote-19288-192), lačnící po rozkoši, přepychu a požitcích. Bývaly tu ženy honosící se velikými jmény, ale nerozpakující se vkládati si večer plavé paruky a hledati pro zábavu dobrodružství na tmavých ulicích. Bývali tu i vysocí úředníci a kněží, kteří při plných pohárech rádi si tropili posměch z vlastních bohů, vedle nich pak směs všelikého druhu, skládající se ze zpěváků, mimů, hudebníků, tanečníků a tanečnic, z básníků, kteří přednášejíce verše, myslili na sestercie, které jim za pochvalu básní Caesarových mohou padnouti do klína; z filosofů-hladomorů, žádostivýma očima sledujících podávaná jídla, konečně z proslulých vozatajů, umělců, divotvorců, mluvků, šašků, konečně ze všelijakých, pro hloupost nebo módu na jednodenní znamenitosti pasovaných pobudů, mezi nimiž nechyběli ani tací, kteří dlouhými vlasy si zakrývali uši, propíchané na znamení otroctví.
+Protože však Caesar kdysi ji miloval a opustil ji, neponíživ ji, klidným, ano i poněkud vlídným způsobem, chovali se k ní poněkud šetrně. Nero, obdařiv jí svobodou, vykázal jí v paláci byt a v něm zvláštní cubiculum a hlouček lidí ze služebnictva. A když svého času Pallas a Narcis, ač to byli Claudiovi osvobozenci, nejen zasedali s Claudiem k hostinám, nýbrž i jako význační činitelé zaujímali čestná místa, byla i ona zvána někdy k tabuli Caesarově. Dělalo se to snad proto, že její lepá postava byla skutečnou ozdobou hostiny. Ostatně, Caesar ve výběru společnosti přestal již dávno míti na zření jakékoli ohledy. K jeho stolu zasedala nejrůznorodější směs lidí všelikých stavů a povolání. Byli mezi nimi senátoři, ale převážně tací, kteří souhlasili s tím, aby zároveň byli šašky. Byli tu staří i mladí patriciové[^192], lačnící po rozkoši, přepychu a požitcích. Bývaly tu ženy honosící se velikými jmény, ale nerozpakující se vkládati si večer plavé paruky a hledati pro zábavu dobrodružství na tmavých ulicích. Bývali tu i vysocí úředníci a kněží, kteří při plných pohárech rádi si tropili posměch z vlastních bohů, vedle nich pak směs všelikého druhu, skládající se ze zpěváků, mimů, hudebníků, tanečníků a tanečnic, z básníků, kteří přednášejíce verše, myslili na sestercie, které jim za pochvalu básní Caesarových mohou padnouti do klína; z filosofů-hladomorů, žádostivýma očima sledujících podávaná jídla, konečně z proslulých vozatajů, umělců, divotvorců, mluvků, šašků, konečně ze všelijakých, pro hloupost nebo módu na jednodenní znamenitosti pasovaných pobudů, mezi nimiž nechyběli ani tací, kteří dlouhými vlasy si zakrývali uši, propíchané na znamení otroctví.
 
 Ti slavnější uléhali přímo ke stolům, ti menší sloužili k vyražení mezitím, co se jedlo, čekajíce na chvíli, až jim služebnictvo dovolí, aby se vrhli na zbytky jídel a nápojů. Hosty toho druhu dodávali Tigellinus, Vatinius a Vitelius, hostům pak musili nejednou vypomoci šatstvem, přiměřeným pokojům Caesara, který ostatně míval rád takovou společnost, cítě se v ní nejvolnějším. Přepych dvora zdobil všecko a všecko pokrýval leskem. Velicí malí potomci vznešených rodů i lůzy z městské dlažby, vynikající umělci i chatrné paběrky z talentů hrnuli se do paláce, aby nasytili oči nádherou, která převyšovala lidské představy, a přiblížili se ke štědrému dárci všeliké milosti, bohatství a dobra, dárci, jehož jediný rozmar mohl sice strhnouti do prachu, ale také povznésti do závratné výše.
 
@@ -14,7 +14,7 @@ Byla také jista, že nyní již ani Aulus, ani Pomponie Grecina nebudou odpově
 
 A tak její zpola ještě dětská duše kolísala na dvě strany. Leč Akté, zvěděvši o tom kolísání, pohlédla na ni s takovým údivem, jako by dívka mluvila v horečce. Projeviti vzdor proti vůli Caesarově? Vydati se v nebezpečí jeho hněvu? Na to je třeba býti snad dítětem, které neví, co mluví. Z vlastních slov Lygiiných totiž vychází najevo, že vlastně není rukojmím, nýbrž dívkou zapomenutou svým národem. Nechrání ji žádný zákon národa, a kdyby i nakrásně chránil, Caesar jest dosti mocný, aby ve chvíli hněvu jej rozšlapal. Caesarovi se zalíbilo vzíti ji k sobě a od toho okamžiku rozhoduje o ní on. Od toho okamžiku jest podrobena jeho vůli, nad kterou není jiné v světě.
 
-„Tak jest,“ pokračovala, „i já jsem čítala listy Pavla z Tarsu, i já vím, že nad zemí jest Bůh a že je Syn boží, který vstal z mrtvých, ale na zemi jest jen Caesar. Měj to na paměti, Lygie! Vím také, že tvé učení ti nedovoluje, abys byla tím, čím jsem byla já, a že nastane-li vám jako stoikům, o nichž mi vypravoval Epiktét[193](#footnote-19288-193), nutnost, abyste volili mezi zneuctěním a smrtí, smíte voliti pouze smrt. Ale zdaž můžeš tušiti, že na tě čeká smrt, a ne zneuctění? Což jsi neslyšela o dceři Sejanově[194](#footnote-19288-194), která byla ještě malé děvčátko a jež z rozkazu Tiberiova, aby zadost bylo učiněno zákonu, který zakazuje trestati dívky smrtí, musila se podrobiti hanbě nežli skonu? Lygie, Lygie, nedráždi Caesara! Až přijde rozhodná chvíle, kdy budeš musit voliti mezi zneuctěním a smrtí, zachováš se tak, jak ti ukládá tvá Pravda, ale nevyhledávej zkázy dobrovolně a nedráždi z malicherné příčiny pozemského, přitom však ukrutného boha!“
+„Tak jest,“ pokračovala, „i já jsem čítala listy Pavla z Tarsu, i já vím, že nad zemí jest Bůh a že je Syn boží, který vstal z mrtvých, ale na zemi jest jen Caesar. Měj to na paměti, Lygie! Vím také, že tvé učení ti nedovoluje, abys byla tím, čím jsem byla já, a že nastane-li vám jako stoikům, o nichž mi vypravoval Epiktét[^193], nutnost, abyste volili mezi zneuctěním a smrtí, smíte voliti pouze smrt. Ale zdaž můžeš tušiti, že na tě čeká smrt, a ne zneuctění? Což jsi neslyšela o dceři Sejanově[^194], která byla ještě malé děvčátko a jež z rozkazu Tiberiova, aby zadost bylo učiněno zákonu, který zakazuje trestati dívky smrtí, musila se podrobiti hanbě nežli skonu? Lygie, Lygie, nedráždi Caesara! Až přijde rozhodná chvíle, kdy budeš musit voliti mezi zneuctěním a smrtí, zachováš se tak, jak ti ukládá tvá Pravda, ale nevyhledávej zkázy dobrovolně a nedráždi z malicherné příčiny pozemského, přitom však ukrutného boha!“
 
 Akté mluvila s velikou lítostí, ano i se zápalem, a jsouc po přirozenosti poněkud krátkozraká, přisunula svoji něžnou tvář blíže ke tváři Lygie, jako by se chtěla přesvědčiti, jakým dojmem působí její slova.
 
@@ -94,7 +94,7 @@ Akté zavedla ji potom do vlastního unctuaria, aby ji natřela mastmi a oblék
 
 „Lygie!“ zvolala konečně. „Jsi stokrát spanilejší nežli Poppaea!“
 
-Ale dívka, vychovávaná v přísném domě Pomponie, kde cudnosti bylo šetřeno i tehdy, když bývaly ženy samy mezi sebou, stála tu rozkošná jako čarokrásný sen, harmonická jako dílo Praxitelovo[195](#footnote-19288-195) nebo jako píseň, ale zmatená, růžová studem, s koleny k sobě sraženými, s řasami svěšenými na oči. Konečně, zvednuvši náhlým pohybem ruce, vytáhla jehlice, jež poutaly vlasy, a v jediné chvíli, jediným trhnutím hlavy, zahalila se jimi jako pláštěm.
+Ale dívka, vychovávaná v přísném domě Pomponie, kde cudnosti bylo šetřeno i tehdy, když bývaly ženy samy mezi sebou, stála tu rozkošná jako čarokrásný sen, harmonická jako dílo Praxitelovo[^195] nebo jako píseň, ale zmatená, růžová studem, s koleny k sobě sraženými, s řasami svěšenými na oči. Konečně, zvednuvši náhlým pohybem ruce, vytáhla jehlice, jež poutaly vlasy, a v jediné chvíli, jediným trhnutím hlavy, zahalila se jimi jako pláštěm.
 
 Akté, přistoupivši k ní a dotýkajíc se tmavých proudů vlasů, pravila:
 
@@ -104,13 +104,13 @@ Akté, přistoupivši k ní a dotýkajíc se tmavých proudů vlasů, pravila:
 
 „A v lesích kvetou květy,“ mluvila Akté, smáčejíc ruce ve váze, plné verveny, a navlhčujíc jí Lygiiny vlasy.
 
-Ukončivši tuto práci, začala potírati celé její tělo vonnými oleji z Arábie a potom ji oblékla do měkké tuniky zlaté barvy bez rukávů, přes kterou mělo přijíti sněhobílé peplum. Protože však dříve bylo nutno učesati vlasy, zahalila ji prozatím do jakéhosi volného roucha, zvaného synthesis[196](#footnote-19288-196), a posadivši ji na křeslo, odevzdala ji na chvíli do rukou otrokyň, aby zpovzdálí dohlédla na česání. Dvě otrokyně současně začaly natahovati na Lygiiny nožky bílé, nachem prošívané střevíčky, přivazujíce je zlatými stužkami k úbělovým kotníkům křížem. Když konečně bylo česání skončeno, bylo na ni složeno peplum do rozkošných, lehkých záhybů, načež Akté, připnuvši jí perly na šíji a dotknuvši se vlasů na zvlněných místech zlatým popraškem, poručila, aby otrokyně oblékly nyní ji samu, těkajíc po celou dobu horoucíma očima po Lygii.
+Ukončivši tuto práci, začala potírati celé její tělo vonnými oleji z Arábie a potom ji oblékla do měkké tuniky zlaté barvy bez rukávů, přes kterou mělo přijíti sněhobílé peplum. Protože však dříve bylo nutno učesati vlasy, zahalila ji prozatím do jakéhosi volného roucha, zvaného synthesis[^196], a posadivši ji na křeslo, odevzdala ji na chvíli do rukou otrokyň, aby zpovzdálí dohlédla na česání. Dvě otrokyně současně začaly natahovati na Lygiiny nožky bílé, nachem prošívané střevíčky, přivazujíce je zlatými stužkami k úbělovým kotníkům křížem. Když konečně bylo česání skončeno, bylo na ni složeno peplum do rozkošných, lehkých záhybů, načež Akté, připnuvši jí perly na šíji a dotknuvši se vlasů na zvlněných místech zlatým popraškem, poručila, aby otrokyně oblékly nyní ji samu, těkajíc po celou dobu horoucíma očima po Lygii.
 
 Ale záhy byla hotova, a když před hlavní branou začaly se ukazovati teprve první lektiky, vešly obě do postranního kryptoportyka, ze kterého bylo viděti na hlavní bránu, vnitřní galerie a nádvoří, obklopené sloupovím z numidského mramoru.
 
-Postupně přicházelo stále více lidí pod vznosnou klenbou brány, nad kterou skvělá kvadriga Lisippova[197](#footnote-19288-197) zdála se unášeti vysoko do vzduchu Apollona a Dianu. Lygiiny oči byly uchváceny nádherným výhledem, o němž ji skromný dům Aulův nemohl dáti nejmenší představy. Byla to chvíle západu slunce a jeho poslední paprsky padaly na žlutý, numidský mramor sloupů, který v těch lescích zářil jako zlato a zároveň přecházel do růžova. Mezi sloupy, vedle bílých soch Danaid[198](#footnote-19288-198) a jiných, které představovaly bohy nebo hrdiny, proudily davy lidí, mužů i žen, podobajících se rovněž sochám, majícím totiž na sobě tógy, pepla a stoly, splývající s půvabem k zemi v měkkých záhybech, na nichž dohasínaly lesky zapadajícího slunce. Obrovský Herkules s hlavou ještě ve světle, kdežto od prsou pohroužený do stínu, jejž vrhal sloup, díval se shora na ony davy. Akté ukazovala Lygii senátory v tógách se širokým lemováním, v barevných tunikách a s půlměsíci na obuvi, rytíře a slavné umělce i římské dámy, oděné tu po způsobu římském, tu zase řeckém, tu ve fantastické východní kroje, s vlasy upravenými jako věže, jako pyramidy nebo očesanými po vzoru bohyň nízko na hlavě a zdobenými květy. Mnoho mužů a mnoho žen uváděla Akté jmény, připojujíc k nim stručné a někdy i hrozné historie, jež Lygii naplňovaly strachem, obdivem, úžasem. Byl to pro ni zvláštní svět, jehož krásou se opájely její oči, ale jehož rozporů nedovedl chápati její dívčí rozum. V těch červáncích na nebi, v těch řadách nehybných sloupů, jež se ztrácely v dáli, i v těch lidech, podobajících se sochám, byl jakýsi veliký klid; zdálo se, že mezi těmi přímočarými mramory měli by žíti jacísi polobohové, zbavení starostí, zkonejšení a šťastní, a zatím tichý hlas Akté odhaloval rychle za sebou stále jiná strašlivá tajemství i tohoto paláce i těchto lidí. Hle, tam zpovzdálí je viděti kryptoportyk, na jehož sloupoví a podlaze červenají se ještě rudé skvrny krve, jíž zbrotil bílé mramory Kaligula[199](#footnote-19288-199), když padl pod dýkou Cassia Chaerey[200](#footnote-19288-200); tam byla zavražděna jeho žena; tam dítě bylo utlučeno o kameny; tam pod křídlem jest podzemí, ve kterém si hlady okusoval ruce mladší Drusus; tam byl otráven Drusus starší, tam se svíjel strachy Gemellus, tam v křečích Claudius, tam Germanikus[201](#footnote-19288-201) – všude ty zdi slyšely sténání a chroptění umírajících; a ti lidé, kteří nyní pospíchají k hostině v tógách, v barevných tunikách, ve květech a špercích, to jsou snad zítřejší odsouzenci; snad na nejedné tváři zakrývá úsměv úzkost, nepokoj, nejistotu zít­řka; snad horečka, hrabivost, žárlivost zažírají se v té chvíli do srdcí těch zdánlivě bezstarostných, ověnčených polobohů. Poplašené myšlenky Lygiiny nemohly ani stačiti slovům Akté, a když onen rozkošný svět vábil její oči silou stále větší, srdce se v ní sevřelo úzkostí a v duši náhle vyvstal nevýslovný a neskonalý stesk po milované Pomponii Grecině a po klidném domu Aulů, ve kterém vládla láska, ne však zločin.
+Postupně přicházelo stále více lidí pod vznosnou klenbou brány, nad kterou skvělá kvadriga Lisippova[^197] zdála se unášeti vysoko do vzduchu Apollona a Dianu. Lygiiny oči byly uchváceny nádherným výhledem, o němž ji skromný dům Aulův nemohl dáti nejmenší představy. Byla to chvíle západu slunce a jeho poslední paprsky padaly na žlutý, numidský mramor sloupů, který v těch lescích zářil jako zlato a zároveň přecházel do růžova. Mezi sloupy, vedle bílých soch Danaid[^198] a jiných, které představovaly bohy nebo hrdiny, proudily davy lidí, mužů i žen, podobajících se rovněž sochám, majícím totiž na sobě tógy, pepla a stoly, splývající s půvabem k zemi v měkkých záhybech, na nichž dohasínaly lesky zapadajícího slunce. Obrovský Herkules s hlavou ještě ve světle, kdežto od prsou pohroužený do stínu, jejž vrhal sloup, díval se shora na ony davy. Akté ukazovala Lygii senátory v tógách se širokým lemováním, v barevných tunikách a s půlměsíci na obuvi, rytíře a slavné umělce i římské dámy, oděné tu po způsobu římském, tu zase řeckém, tu ve fantastické východní kroje, s vlasy upravenými jako věže, jako pyramidy nebo očesanými po vzoru bohyň nízko na hlavě a zdobenými květy. Mnoho mužů a mnoho žen uváděla Akté jmény, připojujíc k nim stručné a někdy i hrozné historie, jež Lygii naplňovaly strachem, obdivem, úžasem. Byl to pro ni zvláštní svět, jehož krásou se opájely její oči, ale jehož rozporů nedovedl chápati její dívčí rozum. V těch červáncích na nebi, v těch řadách nehybných sloupů, jež se ztrácely v dáli, i v těch lidech, podobajících se sochám, byl jakýsi veliký klid; zdálo se, že mezi těmi přímočarými mramory měli by žíti jacísi polobohové, zbavení starostí, zkonejšení a šťastní, a zatím tichý hlas Akté odhaloval rychle za sebou stále jiná strašlivá tajemství i tohoto paláce i těchto lidí. Hle, tam zpovzdálí je viděti kryptoportyk, na jehož sloupoví a podlaze červenají se ještě rudé skvrny krve, jíž zbrotil bílé mramory Kaligula[^199], když padl pod dýkou Cassia Chaerey[^200]; tam byla zavražděna jeho žena; tam dítě bylo utlučeno o kameny; tam pod křídlem jest podzemí, ve kterém si hlady okusoval ruce mladší Drusus; tam byl otráven Drusus starší, tam se svíjel strachy Gemellus, tam v křečích Claudius, tam Germanikus[^201] – všude ty zdi slyšely sténání a chroptění umírajících; a ti lidé, kteří nyní pospíchají k hostině v tógách, v barevných tunikách, ve květech a špercích, to jsou snad zítřejší odsouzenci; snad na nejedné tváři zakrývá úsměv úzkost, nepokoj, nejistotu zít­řka; snad horečka, hrabivost, žárlivost zažírají se v té chvíli do srdcí těch zdánlivě bezstarostných, ověnčených polobohů. Poplašené myšlenky Lygiiny nemohly ani stačiti slovům Akté, a když onen rozkošný svět vábil její oči silou stále větší, srdce se v ní sevřelo úzkostí a v duši náhle vyvstal nevýslovný a neskonalý stesk po milované Pomponii Grecině a po klidném domu Aulů, ve kterém vládla láska, ne však zločin.
 
-Zatím od Vicus Apollonis připlývaly stále nové vlny hostů. Od brány dolétal hluk a jásot klientů, vyprovázejících své patrony[202](#footnote-19288-202). Nádvoří a sloupoví zahemžila se množstvím Caesarových otroků, otrokyň, malých pacholat a praetoriánských vojáků, opatřujících v paláci strážní službu. Tu a tam, mezi bílými a osmahlými tvářemi, začernala se tvář Numidova v peřité helmici a s velikými pozlacenými kroužky v uších. Byly přinášeny loutny, kytary, trsy květin, které přes pozdní podzim byly uměle vypěstěny, ruční lampy stříbrné, zlaté a měděné. Stále hlasitější šum hlasů splýval vjedno se šplounáním fontány, jejíž výtrysky, růžové od večerních lesků, s vysoka dopadajíce na mramor, tříštily se o něj jako se vzlykotem.
+Zatím od Vicus Apollonis připlývaly stále nové vlny hostů. Od brány dolétal hluk a jásot klientů, vyprovázejících své patrony[^202]. Nádvoří a sloupoví zahemžila se množstvím Caesarových otroků, otrokyň, malých pacholat a praetoriánských vojáků, opatřujících v paláci strážní službu. Tu a tam, mezi bílými a osmahlými tvářemi, začernala se tvář Numidova v peřité helmici a s velikými pozlacenými kroužky v uších. Byly přinášeny loutny, kytary, trsy květin, které přes pozdní podzim byly uměle vypěstěny, ruční lampy stříbrné, zlaté a měděné. Stále hlasitější šum hlasů splýval vjedno se šplounáním fontány, jejíž výtrysky, růžové od večerních lesků, s vysoka dopadajíce na mramor, tříštily se o něj jako se vzlykotem.
 
 Akté přestala vypravovati, leč Lygie dívala se bez ustání, jako by někoho v zástupu vyhlížela. A pojednou se její tvář zalila ruměncem. Mezi sloupy se vynořili Vinitius a Petronius a ubírali se k velikému tricliniu, krásní, klidní, podobajíce se ve svých tógách bílým bohům. Lygii, když uprostřed cizích lidí spatřila ty dvě známé a přívětivé tváře, když spatřila Vinitia, zdálo se jí, že jí spadl veliký kámen se srdce. Ucítila se méně opuštěna. Ten nesmírný stesk po Pomponii a domě Aulů, stesk, jenž v ní vyvstal před chvílí, přestal pojednou býti citelný. Pokušení, že se s Vinitiem shledá a pohovoří si s ním, přehlušilo jiné hlasy. Marně se rozpomínala na všechno zlé, o němž slyšela, že je v domě Caesarově, na slova Akté i na výstrahy Pomponie. Přes ta slova i výstrahy ucítila pojednou, že u té hostiny nejen býti musí, nýbrž že chce; při myšlence, že za chvíli uslyší ten milý, příjemný hlas, který jí mluvil o lásce i štěstí, hodném bohů, a který dosud zněl jí v uších jako píseň, zachvátila ji přímo radost.
 
@@ -198,7 +198,7 @@ Ale Vestinus, domnívaje se, že stále je řeč o snech, zvolal:
 
 „Já však věřím ve sny a Seneka mi kdysi řekl, že věří rovněž.“
 
-„Poslední noci se mi zdálo, že jsem se stala vestálkou[203](#footnote-19288-203),“ pravila Calvia Crispinilla.
+„Poslední noci se mi zdálo, že jsem se stala vestálkou[^203],“ pravila Calvia Crispinilla.
 
 Nato začal Nero tleskati rukama, jiní následovali jeho příkladu a chvíli se rozléhal kolem potlesk, neboť Crispinilla, několikrát rozvedená žena, byla po celém Římě známa svou neobyčejnou prostopášností.
 
@@ -216,7 +216,7 @@ Leč ta, neupadši do sebemenších rozpaků, řekla:
 
 „A což věštby?“ tázal se Nero. „Bylo mi kdysi prorokováno, že Řím vezme za své, já však že budu panovati nad celým východem.“
 
-„Věštby a sny – ty jdou k sobě dohromady,“ pravil Vestinus. „Jed­nou kterýsi prokonsul[204](#footnote-19288-204), veliký nevěrec, poslal do chrámu Mopsova otroka se zapečetěným listem, jejž nedovolil otevříti, aby se přesvědčil, dovede-li bůžek odpověděti na otázku, obsaženou v listě. Otrok přespal noc ve chrámě, aby měl věštecký sen, pak se vrátil a řekl takto: ‚Zdálo se mi o jinochovi, jasném jako slunce, který mi řekl pouze jediné slovo: ‚černého‘. Prokonsul, uslyšev to, zbledl, a obraceje se ke svým hostům, stejně nedůvěřivým jako on, pověděl: ‚Víte-liž, co bylo v listě?‘“
+„Věštby a sny – ty jdou k sobě dohromady,“ pravil Vestinus. „Jed­nou kterýsi prokonsul[^204], veliký nevěrec, poslal do chrámu Mopsova otroka se zapečetěným listem, jejž nedovolil otevříti, aby se přesvědčil, dovede-li bůžek odpověděti na otázku, obsaženou v listě. Otrok přespal noc ve chrámě, aby měl věštecký sen, pak se vrátil a řekl takto: ‚Zdálo se mi o jinochovi, jasném jako slunce, který mi řekl pouze jediné slovo: ‚černého‘. Prokonsul, uslyšev to, zbledl, a obraceje se ke svým hostům, stejně nedůvěřivým jako on, pověděl: ‚Víte-liž, co bylo v listě?‘“
 
 Tu se Vestinus odmlčel, a zvednuv pohár s vínem, začal píti.
 
@@ -248,15 +248,15 @@ Nato jal se Vatinius napodobiti křik polekané ženy, Nigidie pak, přítelkyn�
 
 Hostina se stávala veselejší. Hloučky otroků roznášely stále nové chody jídel; z velikých váz, naplněných sněhem a opředených břečtanem, byly přes tu chvíli vytahovány menší cratery s četnými druhy vín. Všichni pili hojně. Se stropu padaly na stůl a na besedníky růže rychle za sebou.
 
-Petronius však začal prositi Nerona, aby nežli se hosté zpijí, zušlechtil hostinu svým zpěvem. Sbor hlasů podepřel jeho slova, ale Nero se začal zpěčovati. Nejde o samu odvahu, ačkoliv mu pokaždé chybí… Bozi vědí, co ho stojí jakákoli vychloubavost…! Nevyhýbá se jí arci, protože musí přece učiniti něco pro umění, a ostatně, obdařil-li jej Apollo nějakým hlasem, nesluší se, aby nechal dary boží ležeti ladem. Chápe dokonce, že je to jeho povinnost ke vzácné společnosti. Ale dnes opravdu chraptí. V noci si položil olověná těžítka na prsa, ale ani to nepomohlo… Zamýšlí dokonce jeti do Antia[205](#footnote-19288-205), aby si oddychl na mořském vzduchu.
+Petronius však začal prositi Nerona, aby nežli se hosté zpijí, zušlechtil hostinu svým zpěvem. Sbor hlasů podepřel jeho slova, ale Nero se začal zpěčovati. Nejde o samu odvahu, ačkoliv mu pokaždé chybí… Bozi vědí, co ho stojí jakákoli vychloubavost…! Nevyhýbá se jí arci, protože musí přece učiniti něco pro umění, a ostatně, obdařil-li jej Apollo nějakým hlasem, nesluší se, aby nechal dary boží ležeti ladem. Chápe dokonce, že je to jeho povinnost ke vzácné společnosti. Ale dnes opravdu chraptí. V noci si položil olověná těžítka na prsa, ale ani to nepomohlo… Zamýšlí dokonce jeti do Antia[^205], aby si oddychl na mořském vzduchu.
 
-Leč Lucanus začal jej zapřísahati ve jménu umění i lidstva. Všichni vědí, že božský básník a pěvec složil nový hymnus na Venuši, proti kterému je ten Lukretiův[206](#footnote-19288-206) kňučením ročního vlčete. Ať ta hostina jest hostinou opravdovou! Vládce tak dobrý neměl by působiti taková muka svým poddaným. „Nebuď krutým, Caesare!“
+Leč Lucanus začal jej zapřísahati ve jménu umění i lidstva. Všichni vědí, že božský básník a pěvec složil nový hymnus na Venuši, proti kterému je ten Lukretiův[^206] kňučením ročního vlčete. Ať ta hostina jest hostinou opravdovou! Vládce tak dobrý neměl by působiti taková muka svým poddaným. „Nebuď krutým, Caesare!“
 
 „Nebuď krutým!“ opakovali všichni, co seděli blíže.
 
 Nero rozpřáhl ruce na znamení, že se musí podrobiti. Tehdy vzaly na sebe všecky tváře výraz vděčnosti a všecky oči se otočily k němu. Ale on dal ještě dříve vzkázati Poppaei, že bude zpívati, přítomným pak prohlásil, že Poppaea nepřišla na hostinu, jelikož se necítila zdráva. Poněvadž však žádný lék nepřináší jí takové úlevy jako jeho zpěv, líto by mu bylo, aby ji připravil o příležitost.
 
-A vskutku, Poppaea dostavila se zakrátko. Vládla dosud Neronem jako poddaným, věděla však, že když běželo o jeho sebelásku jako pěvce, vozataje nebo básníka, bylo nebezpečno jej drážditi. A proto vešla, krásná jako bohyně, oděná stejně jako Nero v roucho ametystové barvy, zdobena náhrdelníkem z ohromných perel, uloupených kdysi Masinissovi[207](#footnote-19288-207), zlatovlasá, něžná, a jakkoli byla rozvedenou ženou dvou mužů, s tváří a pohledem panny.
+A vskutku, Poppaea dostavila se zakrátko. Vládla dosud Neronem jako poddaným, věděla však, že když běželo o jeho sebelásku jako pěvce, vozataje nebo básníka, bylo nebezpečno jej drážditi. A proto vešla, krásná jako bohyně, oděná stejně jako Nero v roucho ametystové barvy, zdobena náhrdelníkem z ohromných perel, uloupených kdysi Masinissovi[^207], zlatovlasá, něžná, a jakkoli byla rozvedenou ženou dvou mužů, s tváří a pohledem panny.
 
 Byla vítána jásotem a jménem „božské Augusty“.
 
@@ -266,13 +266,13 @@ Lygie nikdy v životě neviděla ničeho tak krásného a nechtěla věřiti v
 
 On pak rozjařen vínem a jako roztrpčen, že tolik věcí rozptylovalo její pozornost a odpoutávalo ji od něho i od jeho slov, pravil:
 
-„Ano, je krásná, ale ty jsi stokrát krásnější! Ty neznáš samu sebe, jinak by ses zamilovala do sebe jako Narcis… Ta se koupe vmléce oslic, ale tebe snad Venuše vykoupala ve vlastním. Ty se neznáš, _ocelle mi_[208](#footnote-19288-208)_…!_ Nehleď na ni! Obrať oči ke mně, _ocelle mi…!_ Dotkni se ústy této číše vína a já pak přilnu svými na tomtéž místě…!“
+„Ano, je krásná, ale ty jsi stokrát krásnější! Ty neznáš samu sebe, jinak by ses zamilovala do sebe jako Narcis… Ta se koupe vmléce oslic, ale tebe snad Venuše vykoupala ve vlastním. Ty se neznáš, _ocelle mi_[^208]_…!_ Nehleď na ni! Obrať oči ke mně, _ocelle mi…!_ Dotkni se ústy této číše vína a já pak přilnu svými na tomtéž místě…!“
 
-A přisouval se stále blíže, ona však začala táhnouti se zpět k Akté. Než v tom okamžiku bylo nařízeno ticho, protože povstal Caesar. Zpěvák Diodoros podal mu loutnu z druhů nazvaných delta, druhý, Terpnos, který jej měl provázeti při hraní, přistoupil s nástrojem zvaným nablium[209](#footnote-19288-209). Nero, opřev deltu o stůl, zvedl oči a na chvíli zavládlo v tricliniu ticho, přerušované pouze šelestem, jaký vydávaly růže, bez ustání padající se stropu.
+A přisouval se stále blíže, ona však začala táhnouti se zpět k Akté. Než v tom okamžiku bylo nařízeno ticho, protože povstal Caesar. Zpěvák Diodoros podal mu loutnu z druhů nazvaných delta, druhý, Terpnos, který jej měl provázeti při hraní, přistoupil s nástrojem zvaným nablium[^209]. Nero, opřev deltu o stůl, zvedl oči a na chvíli zavládlo v tricliniu ticho, přerušované pouze šelestem, jaký vydávaly růže, bez ustání padající se stropu.
 
 Pak jal se zpívati či vlastně zpěvně a rytmicky deklamovati za doprovodu dvou louten svůj hymnus na Venuši. Ani hlas, ačkoliv byl poněkud zastřen, ani báseň nebyly tak špatné, takže ubohou Lygii nanovo opanovaly výčitky svědomí, neboť hymnus, jakkoliv oslavující neřestnou pohanskou Venuši, připadal jí až příliš krásný a i sám Caesar se svým vavřínovým věncem na čele a zvednutýma očima vznešenějším, daleko méně strašným a méně ohyzdným nežli na začátku hostiny.
 
-Ale besedníci ozvali se bouřlivým potleskem. Volání: „Ó, hlase nebeský!“ rozlehlo se kolem dokola; některé z žen, vysoko vztyčivše ruce, setrvaly takto na znamení obdivu, a to i po skončení zpěvu; jiné si otíraly uslzené oči; v celém sále to zahučelo jako v úle. Poppaea, nachýlivši svoji zlatovlasou hlavinku, zvedla k ústům ruku Neronovu a dlouho ji podržela v odmlčení, kdežto mladý Pythagoras, Řek čarokrásného půvabu, týž, s nímž později Nero, napolo již nepříčetný, dal se oddati od flaminů[210](#footnote-19288-210), při čemž zachovány všechny obřadnosti, poklekl nyní u jeho nohou.
+Ale besedníci ozvali se bouřlivým potleskem. Volání: „Ó, hlase nebeský!“ rozlehlo se kolem dokola; některé z žen, vysoko vztyčivše ruce, setrvaly takto na znamení obdivu, a to i po skončení zpěvu; jiné si otíraly uslzené oči; v celém sále to zahučelo jako v úle. Poppaea, nachýlivši svoji zlatovlasou hlavinku, zvedla k ústům ruku Neronovu a dlouho ji podržela v odmlčení, kdežto mladý Pythagoras, Řek čarokrásného půvabu, týž, s nímž později Nero, napolo již nepříčetný, dal se oddati od flaminů[^210], při čemž zachovány všechny obřadnosti, poklekl nyní u jeho nohou.
 
 Leč Nero bedlivě zíral na Petronia, jehož pochvaly byly mu vždy žádoucí, onen pak řekl:
 
@@ -280,13 +280,13 @@ Leč Nero bedlivě zíral na Petronia, jehož pochvaly byly mu vždy žádoucí,
 
 Lucanus však neměl mu za zlé tu zmínku o závisti, naopak, pohlédl na něho s vděčností, a tváře se, že je špatně naladěn, začal bručeti:
 
-„Prokleté fatum[211](#footnote-19288-211), které mi uložilo, abych žil současně s takovým básníkem! Člověk by měl zajištěno místo v lidské paměti a na Parnase[212](#footnote-19288-212), kdežto takto zhasne, jako zhasíná kahanec před sluncem.“
+„Prokleté fatum[^211], které mi uložilo, abych žil současně s takovým básníkem! Člověk by měl zajištěno místo v lidské paměti a na Parnase[^212], kdežto takto zhasne, jako zhasíná kahanec před sluncem.“
 
 Nicméně Petronius, který měl obdivuhodnou paměť, začal opakovati úryvky z hymnu, citovati jednotlivé verše, vyzvedati a rozbírati vzletnější způsoby vyjádření. Lucanus, jako by pozapomenul na závist ke kouzlu poesie, připojil k jeho slovům svůj obdiv. Na Neronově tváři se zračila rozkoš a bezedná ješitnost, nejen hraničící na hloupost, nýbrž úplně se jí rovnající. Sám jim podstrkoval verše, které považoval za nejkrásnější, a konečně jal se těšiti Lucana a mluviti k němu, aby neztrácel odvahy, poněvadž prý přesto, že každý je tím, čím se narodil, přece jen pocta, jakou lidé prokazují Jovišovi, nevylučuje poct bohům jiným.
 
 Potom vstal, aby odvedl Poppaeu, která opravdu nejsouc zdra­vou, přála si odejíti. Nicméně besedníkům, kteří zůstali, uložil, aby opětně zaujali místa, a prohlásil, že se vrátí. A vskutku, vrátil se za chvíli, aby se nechal omámiti kouřem z kadidel a díval se na další radovánky, jaké on sám, Petronius nebo Tigellinus připravili pro hostinu.
 
-Zase byly předčítány básně nebo nasloucháno dialogům, při nichž podivínství nahrazovalo důvtip. Potom slavný mim Paris předváděl příhody Iony, dcery Inachovy. Hostům a zvláště Lygii, nezvyklé takovým podívaným, připadalo, že vidí zázraky a kouzla. Paris dovedl pohyby rukou a těla předváděti věci, které se při tanci na oko zdály nemožny. Jeho dlaně zkalily vzduch, tvoříce zářivý, živý, potrhování plný, smyslně působící oblak, zpola zahalující dívčí zjev, jenž se otřásal křečmi rozkoše. Byl to obraz, ne tanec, obraz jasný, odhalující taje lásky, čarokrásný i nestoudný, a když po jeho ukončení vešli korybanti[213](#footnote-19288-213) a zahájili se syrskými dívkami za zvuků kytar, fléten, cimbálů a bubínků bakchantický tanec, plný divokého vřískání a ještě divočejší prostopášnosti, Lygii se zdálo, že ji sežehne divý oheň, že musí blesk uhoditi do tohoto domu nebo strop se zřítiti na hlavy besedníků.
+Zase byly předčítány básně nebo nasloucháno dialogům, při nichž podivínství nahrazovalo důvtip. Potom slavný mim Paris předváděl příhody Iony, dcery Inachovy. Hostům a zvláště Lygii, nezvyklé takovým podívaným, připadalo, že vidí zázraky a kouzla. Paris dovedl pohyby rukou a těla předváděti věci, které se při tanci na oko zdály nemožny. Jeho dlaně zkalily vzduch, tvoříce zářivý, živý, potrhování plný, smyslně působící oblak, zpola zahalující dívčí zjev, jenž se otřásal křečmi rozkoše. Byl to obraz, ne tanec, obraz jasný, odhalující taje lásky, čarokrásný i nestoudný, a když po jeho ukončení vešli korybanti[^213] a zahájili se syrskými dívkami za zvuků kytar, fléten, cimbálů a bubínků bakchantický tanec, plný divokého vřískání a ještě divočejší prostopášnosti, Lygii se zdálo, že ji sežehne divý oheň, že musí blesk uhoditi do tohoto domu nebo strop se zřítiti na hlavy besedníků.
 
 Ale ze zlatých sítí, zavěšených pod stropem, padaly stále růže a Vinitius, napolo již opilý, mluvil k ní:
 
@@ -304,13 +304,13 @@ Vešli konečně napodobitelé zvířat a jejich hlasů, kejklíři a šaškov
 
 Vitelius se skácel pod stůl. Nigidie, obnaživši se dopolou těla, opřela svou zpitou dětskou hlavu o prsa Lucanova a ten, rovněž zpitý, začal s jejích vlasů odfukovati zlatý poprašek, zvedaje oči s neskonalou slastí. Vestinus po desáté opakoval s tvrdošíjností pijáka odpověď Mopsovu na zapečetěný list prokonsulův, kdežto Tullius, který si tropil smích z bohů, mluvil rozvleklým, škytavkou rušeným hlasem:
 
-„Jestliže Sferos[214](#footnote-19288-214) Xenofanův[215](#footnote-19288-215) je kulatý, pak můžeš, jářku, válet před sebou takového boha jako sud.“
+„Jestliže Sferos[^214] Xenofanův[^215] je kulatý, pak můžeš, jářku, válet před sebou takového boha jako sud.“
 
-Ale Domitius Afer, starý zloděj a donašeč, dopálil se tou rozmluvou a dopálen polil si falernem[216](#footnote-19288-216) celou tuniku. Vždycky věřil v bohy. Lidé říkají, že Řím vezme za své, a jsou i tací, kteří tvrdí, že již hyne. Nu, toť se ví…! Ale dojde-li k tomu, tedy proto, že mládež je nevěrecká, a bez víry nemůže býti ctnosti. Byly také opuštěny dávné přísné mravy a nikoho ani nenapadne, že epikurejci[217](#footnote-19288-217) se nevzeprou barbarům. A to je marné! Co se jeho týká, lituje, že se dožil takových časů a že v rozkoších musí hledati ochranu proti zármutku, který by s ním brzy udělal konec.
+Ale Domitius Afer, starý zloděj a donašeč, dopálil se tou rozmluvou a dopálen polil si falernem[^216] celou tuniku. Vždycky věřil v bohy. Lidé říkají, že Řím vezme za své, a jsou i tací, kteří tvrdí, že již hyne. Nu, toť se ví…! Ale dojde-li k tomu, tedy proto, že mládež je nevěrecká, a bez víry nemůže býti ctnosti. Byly také opuštěny dávné přísné mravy a nikoho ani nenapadne, že epikurejci[^217] se nevzeprou barbarům. A to je marné! Co se jeho týká, lituje, že se dožil takových časů a že v rozkoších musí hledati ochranu proti zármutku, který by s ním brzy udělal konec.
 
 To praviv, přivinul k sobě syrskou tanečnici a bezzubými ústy začal líbati její krk i záda, což vida konsul Memmius Regulus, dal se do smíchu, a zvednuv svoji lysou hlavu, zdobenou šikmo pošinutým věncem, řekl:
 
-„Kdo to povídá, že Řím hyne…? Hlouposti…! Já, konsul, vím to nejlépe… _Videant consules…!_[218](#footnote-19288-218) Třiceti legiemi je střežena naše _pax romana_[219](#footnote-19288-219)_!…_“
+„Kdo to povídá, že Řím hyne…? Hlouposti…! Já, konsul, vím to nejlépe… _Videant consules…!_[^218] Třiceti legiemi je střežena naše _pax romana_[^219]_!…_“
 
 Tu přiložil pěsti na skráně a začal křičeti na celou dvoranu:
 
@@ -342,7 +342,7 @@ A přiloživ dlaň na mokré čelo, začal se rozpomínati. Za chvíli se na je
 
 A náhle se mu zjevily hrozné přízraky.
 
-„Říká se,“ pravil, „že za nocí chodí matka při měsíci po moři kolem Bají[220](#footnote-19288-220) a Baulí[221](#footnote-19288-221)… Nic, jen chodí, chodí, jako by něco hledala. Ale jak se přiblíží ke člunu, podívá se a zase odejde; rybář však, na nějž se podívala, je nebožtíkem.“
+„Říká se,“ pravil, „že za nocí chodí matka při měsíci po moři kolem Bají[^220] a Baulí[^221]… Nic, jen chodí, chodí, jako by něco hledala. Ale jak se přiblíží ke člunu, podívá se a zase odejde; rybář však, na nějž se podívala, je nebožtíkem.“
 
 „Není to špatné thema,“ řekl Petronius.
 
@@ -352,7 +352,7 @@ Vestinus pak, natáhnuv krk jako jeřáb, tajemně zašeptal:
 
 Ale Nero nedbal jejich slov a pokračoval:
 
-„Vždyť jsem konal lemuralia[222](#footnote-19288-222)! Nechci jí viděti! Je to již pátý rok! Musil jsem, musil ji odsouditi, poněvadž na mne poslala vraha, a kdybych ji nebyl předešel, neslyšeli byste dnes mého zpěvu.“
+„Vždyť jsem konal lemuralia[^222]! Nechci jí viděti! Je to již pátý rok! Musil jsem, musil ji odsouditi, poněvadž na mne poslala vraha, a kdybych ji nebyl předešel, neslyšeli byste dnes mého zpěvu.“
 
 „Díky, Caesare, ve jménu města i světa!“ zvolal Domitius Afer.
 
@@ -394,64 +394,64 @@ Většina hostů ležela již pod stolem; jiní chodili vrávoravým krokem po t
 
 Venku se začalo rozednívati.
 
-[192](#footnote-19288-192-backlink) Starořímští plnoprávní občané; patriciové tvořili původně sami národ římský, ale za císařské doby jejich počet poklesl, a byly proto mezi ně přibírány nové rody.
+[^192]: Starořímští plnoprávní občané; patriciové tvořili původně sami národ římský, ale za císařské doby jejich počet poklesl, a byly proto mezi ně přibírány nové rody.
 
-[193](#footnote-19288-193-backlink) Starořecký filozof z 1. st. n. l.
+[^193]: Starořecký filozof z 1. st. n. l.
 
-[194](#footnote-19288-194-backlink) Proslulý milenec římského císaře Tiberia v 1. st. n. l.
+[^194]: Proslulý milenec římského císaře Tiberia v 1. st. n. l.
 
-[195](#footnote-19288-195-backlink) Slavný starořecký sochař a kovolijec ze 4. st. př. n. l.
+[^195]: Slavný starořecký sochař a kovolijec ze 4. st. př. n. l.
 
-[196](#footnote-19288-196-backlink) Mužské roucho, užívané při hostinách.
+[^196]: Mužské roucho, užívané při hostinách.
 
-[197](#footnote-19288-197-backlink) Slavný starořecký sochař a kovolijec ze 4. st. př. n. l.
+[^197]: Slavný starořecký sochař a kovolijec ze 4. st. př. n. l.
 
-[198](#footnote-19288-198-backlink) Nymfy.
+[^198]: Nymfy.
 
-[199](#footnote-19288-199-backlink) Třetí římský císař z 1. st. n. l., pověstný svou krutostí a neřestným životem. Byl zavražděn spiklenci v roce 41 n. l.
+[^199]: Třetí římský císař z 1. st. n. l., pověstný svou krutostí a neřestným životem. Byl zavražděn spiklenci v roce 41 n. l.
 
-[200](#footnote-19288-200-backlink) Tribun pretoriánů, který se podílel na vraždě římského císaře Kaliguly.
+[^200]: Tribun pretoriánů, který se podílel na vraždě římského císaře Kaliguly.
 
-[201](#footnote-19288-201-backlink) Slavný starořímský vojevůdce, vítěz nad Germány z 1. st. n. l.
+[^201]: Slavný starořímský vojevůdce, vítěz nad Germány z 1. st. n. l.
 
-[202](#footnote-19288-202-backlink) Ochránci a zástupci jednak klientů (svobodní patriciové, avšak v právních věcech podrobení patronovi), jednak osvobozených otroků.
+[^202]: Ochránci a zástupci jednak klientů (svobodní patriciové, avšak v právních věcech podrobení patronovi), jednak osvobozených otroků.
 
-[203](#footnote-19288-203-backlink) Panenské kněžky bohyně Vesty, jejichž povinností bylo udržovat a ochraňovat oheň v jejím chrámě, stejně jako žít v úplné mravní bezúhonnosti.
+[^203]: Panenské kněžky bohyně Vesty, jejichž povinností bylo udržovat a ochraňovat oheň v jejím chrámě, stejně jako žít v úplné mravní bezúhonnosti.
 
-[204](#footnote-19288-204-backlink) Bývalý konzul, který byl po roce svého úřadování správcem některé ze starořímských provincií.
+[^204]: Bývalý konzul, který byl po roce svého úřadování správcem některé ze starořímských provincií.
 
-[205](#footnote-19288-205-backlink) Starořímské přímořské město na západ od Říma.
+[^205]: Starořímské přímořské město na západ od Říma.
 
-[206](#footnote-19288-206-backlink) Starořímský básník z 1. st. př. n. l.
+[^206]: Starořímský básník z 1. st. př. n. l.
 
-[207](#footnote-19288-207-backlink) Král starověkého kmene Massylů z Numidie v severní Africe z přelomu 3. a 2. st. př. n. l.
+[^207]: Král starověkého kmene Massylů z Numidie v severní Africe z přelomu 3. a 2. st. př. n. l.
 
-[208](#footnote-19288-208-backlink) Můj poklade.
+[^208]: Můj poklade.
 
-[209](#footnote-19288-209-backlink) Starověký strunný nástroj.
+[^209]: Starověký strunný nástroj.
 
-[210](#footnote-19288-210-backlink) Starořímští kněží.
+[^210]: Starořímští kněží.
 
-[211](#footnote-19288-211-backlink) Osud.
+[^211]: Osud.
 
-[212](#footnote-19288-212-backlink) Hora u Korintského zálivu, zasvěcená Apollonovi a Múzám.
+[^212]: Hora u Korintského zálivu, zasvěcená Apollonovi a Múzám.
 
-[213](#footnote-19288-213-backlink) Kněží starořecké bohyně Kybely, kteří o jejích slavnostech divoce křepčili a zápasili zbraněmi za ohlušující hudby.
+[^213]: Kněží starořecké bohyně Kybely, kteří o jejích slavnostech divoce křepčili a zápasili zbraněmi za ohlušující hudby.
 
-[214](#footnote-19288-214-backlink) Svět.
+[^214]: Svět.
 
-[215](#footnote-19288-215-backlink) Starořecký filozof ze 6. stol. př. n. l.
+[^215]: Starořecký filozof ze 6. stol. př. n. l.
 
-[216](#footnote-19288-216-backlink) Falernské víno – jedno z nejvzácnějších vín, pocházející z Falerna, území na hranicích Campanie.
+[^216]: Falernské víno – jedno z nejvzácnějších vín, pocházející z Falerna, území na hranicích Campanie.
 
-[217](#footnote-19288-217-backlink) Přívrženci Epikurovy školy (starořecký filozof ze 4. st. př. n. l.) hlásající jako jediný cíl lidského života užívání pozemských rozkoší.
+[^217]: Přívrženci Epikurovy školy (starořecký filozof ze 4. st. př. n. l.) hlásající jako jediný cíl lidského života užívání pozemských rozkoší.
 
-[218](#footnote-19288-218-backlink) Počáteční slova formule, která v překladu zní: Konzulové ať hledí, aby obec nevzala škody! Touto formulí dával starořímský senát za dob vnitřního nebezpečí konzulům neomezenou moc ke zjednávání pořádku.
+[^218]: Počáteční slova formule, která v překladu zní: Konzulové ať hledí, aby obec nevzala škody! Touto formulí dával starořímský senát za dob vnitřního nebezpečí konzulům neomezenou moc ke zjednávání pořádku.
 
-[219](#footnote-19288-219-backlink) Římský mír.
+[^219]: Římský mír.
 
-[220](#footnote-19288-220-backlink) Starořímské přímořské lázně ve střední Itálii.
+[^220]: Starořímské přímořské lázně ve střední Itálii.
 
-[221](#footnote-19288-221-backlink) Starořímské město ve střední Itálii.
+[^221]: Starořímské město ve střední Itálii.
 
-[222](#footnote-19288-222-backlink) Slavnosti na usmíření duší nebožtíků; konaly se 9., 11. a 13. května.
+[^222]: Slavnosti na usmíření duší nebožtíků; konaly se 9., 11. a 13. května.

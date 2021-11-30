@@ -98,7 +98,7 @@ Caesar pak, obrátiv se k Senetiovi a Suiliovi Nerulinovi, řekl:
 
 Nato starý Aquilus Regulus, veliký znatel věcí, jež se týkaly amfitheatru, rozmýšlel se chvíli a pak se ozval:
 
-„Ta podívaná, při které vystupují lidé _sine armis et sine arte_[498](#footnote-19288-498), trvá skoro stejně dlouho, ale méně zajímá.“
+„Ta podívaná, při které vystupují lidé _sine armis et sine arte_[^498], trvá skoro stejně dlouho, ale méně zajímá.“
 
 „Rozkáži, aby jim dána byla zbraň,“ odpověděl Nero.
 
@@ -108,7 +108,7 @@ Ale pověrčivý Vestinus náhle se probral ze zamyšlení a ptal se tajemným 
 
 To praviv, zvedl oči k hořejšku amfitheatru, nad nímž noc již začala natahovati své hvězdami přeplněné „velarium“. Jiní však odpověděli smíchem a žertovnými poznámkami, co mohou křesťané viděti ve chvíli smrti. Zatím dal Caesar znamení otrokům držícím pochodně a opustil cirk, za ním pak vestálky, senátoři, úředníci a Augustiani.
 
-Byla jasná, teplá noc. Před cirkem ještě se valily davy, zvědavé viděti odjezd Caesarův, ale nějak posupné a zamlklé. Tu a tam se ozval potlesk, ale hned zase utichl. Ze „spoliaria“[499](#footnote-19288-499) bez ustání vyvážely skřípějící vozy zkrvavené mrtvoly křesťanů.
+Byla jasná, teplá noc. Před cirkem ještě se valily davy, zvědavé viděti odjezd Caesarův, ale nějak posupné a zamlklé. Tu a tam se ozval potlesk, ale hned zase utichl. Ze „spoliaria“[^499] bez ustání vyvážely skřípějící vozy zkrvavené mrtvoly křesťanů.
 
 Petronius a Vinitius konali cestu zamlklí. Teprve blízko letohrádku ptal se Petronius:
 
@@ -212,7 +212,7 @@ Tu se na chvíli zamyslil, ale pak, mávnuv rukou, řekl:
 
 „Zavezeme ji zatím někam blíže. Ji vyléčí sám vzduch, jen když ji vyprostíme z vězení. Nemáš na horách nějakého pachtýře, jemuž bys mohl důvěřovati?“
 
-„Zajisté! Mám! Ano!“ rychle odpověděl Vinitius. „Je tam blíže Coriol[500](#footnote-19288-500) na horách spolehlivý člověk, jenž mne nosíval na rukou, když jsem byl ještě dítětem a který mne má dosud rád.“
+„Zajisté! Mám! Ano!“ rychle odpověděl Vinitius. „Je tam blíže Coriol[^500] na horách spolehlivý člověk, jenž mne nosíval na rukou, když jsem byl ještě dítětem a který mne má dosud rád.“
 
 Petronius mu podal destičky.
 
@@ -242,7 +242,7 @@ Petronius si zhluboka oddychl.
 
 „Přál jsem si,“ uvažoval, „aby Lygie zemřela horečkou, protože pro Vinitia by to bylo nejméně strašlivo. Ale teď jsem hotov obětovati Aeskulapovi za její uzdravení zlatou trojnožku… Ach, ty Ahenobarbe, chceš si uspořádati divadlo z bolesti milencovy! A ty, Augusto, záviděla jsi napřed krásu té dívce a teď bys ji pozřela třebas na syrovo proto, že zahynul tvůj Ruffius… A ty, Tigelline, chceš ji zničiti mně na zlost…! Pravím vám, že vaše oči jí nespatří v aréně, poněvadž buďto zemru vlastní smrtí, nebo vám ji vyrvu jako psům z tlamy… A vyrvu ji tak, že nebudete o tom věděti; a potom, kdykoli se na vás podívám, tolikrát si pomyslím: Hle, tupohlavci, na které vyzrál Petronius…!“
 
-A maje radost sám ze sebe, přešel do triclinia, kde společně s Eunike lehl si k večeři. Lektor jim po tu dobu předčítal selanky z Theokrita[501](#footnote-19288-501). Venku přihnal vítr mraky směrem od Soracte a náhlá bouře porušila ticho klidné letní noci. Občas rozléhal se na sedmi pahorcích rachot hromu, oni pak, ležíce vedle sebe u stolu, naslouchali idylickému básníkovi, jenž ve zpěvním dórském nářečí opěval lásku pastýřů, a pak uklidněni chystali se ke sladkému odpočinku.
+A maje radost sám ze sebe, přešel do triclinia, kde společně s Eunike lehl si k večeři. Lektor jim po tu dobu předčítal selanky z Theokrita[^501]. Venku přihnal vítr mraky směrem od Soracte a náhlá bouře porušila ticho klidné letní noci. Občas rozléhal se na sedmi pahorcích rachot hromu, oni pak, ležíce vedle sebe u stolu, naslouchali idylickému básníkovi, jenž ve zpěvním dórském nářečí opěval lásku pastýřů, a pak uklidněni chystali se ke sladkému odpočinku.
 
 Ale ještě předtím vrátil se Vinitius. Petronius, dověděv se o jeho návratu, zašel k němu a ptal se:
 
@@ -404,10 +404,10 @@ Ten pak odpověděl jakýmsi zvláštním, zlomeným a pomalým hlasem, jaký m
 
 Nad městem tichl poslední rachot bouře.
 
-[498](#footnote-19288-498-backlink) Beze zbraní a bez umění.
+[^498]: Beze zbraní a bez umění.
 
-[499](#footnote-19288-499-backlink) Svlékárna ve starořímském amfiteátru, kde býval padlým gladiátorům svlékán šat a zbraň a kde byli, pokud ještě žili, dobíjeni.
+[^499]: Svlékárna ve starořímském amfiteátru, kde býval padlým gladiátorům svlékán šat a zbraň a kde byli, pokud ještě žili, dobíjeni.
 
-[500](#footnote-19288-500-backlink) Starořímské město ve střední Itálii.
+[^500]: Starořímské město ve střední Itálii.
 
-[501](#footnote-19288-501-backlink) Starořecký básník ze 3. st. př. n. l.
+[^501]: Starořecký básník ze 3. st. př. n. l.

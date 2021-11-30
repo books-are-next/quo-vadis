@@ -90,7 +90,7 @@ Potom zastyděvši se, že promluvila slova, která podle římského obyčeje o
 
 Než v pohledu Vinitiově zračilo se jen neskonalé zbožňování. Pak se obrátil k Petrovi a jal se opět mluviti:
 
-„Řím hoří z rozkazu Caesarova. Již v Antiu si Caesar stěžoval, že nikdy neviděl velikého požáru. Že však neustoupil ani před takovýmto zločinem, uvažte, co se ještě může státi! Kdož ví, nerozkáže-li, až stáhne vojska, aby vyvražděni byli obyvatelé? Kdož ví, jaké nastoupí proskripce[458](#footnote-19288-458); kdož ví, nedojde-li po pohromě požárové k pohromě občanské války, vražd a hladu? Chraňte se tudíž a chraňte Lygie! Tam přečkáte bouři v klidu, a až přejde, vrátíte se opět zasévat své símě.“
+„Řím hoří z rozkazu Caesarova. Již v Antiu si Caesar stěžoval, že nikdy neviděl velikého požáru. Že však neustoupil ani před takovýmto zločinem, uvažte, co se ještě může státi! Kdož ví, nerozkáže-li, až stáhne vojska, aby vyvražděni byli obyvatelé? Kdož ví, jaké nastoupí proskripce[^458]; kdož ví, nedojde-li po pohromě požárové k pohromě občanské války, vražd a hladu? Chraňte se tudíž a chraňte Lygie! Tam přečkáte bouři v klidu, a až přejde, vrátíte se opět zasévat své símě.“
 
 Venku ze strany Ager Vaticanus, jako by měly dojíti potvrzení obavy Vinitiovy, ozvaly se jakési vzdálené výkřiky, plné vzteku a děsivosti. V tom okamžiku také přišel kopáč, majitel chaty, a rychle zavřev dveře, zvolal:
 
@@ -130,4 +130,4 @@ Tehdy zmocnilo se všech přítomných náboženské nadšení. Zdálo se jim, �
 
 Zatím se zvenčí rozléhaly křiky bojujících lidí a hučení plamenů hořícího města.
 
-[458](#footnote-19288-458-backlink) Pronásledování.
+[^458]: Pronásledování.

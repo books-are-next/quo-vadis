@@ -10,7 +10,7 @@ Večer téhož dne Vinitius, přecházeje Forem domů, zpozoroval u vchodu na V
 
 „Chodíš po knihkupectvích?“ ptal se vinitius.
 
-„Ano. Nechci zavésti nepořádek do knihovny, a proto si na cestu opatřuji zvláštní zásoby. Nejspíše vyšly nové věci Musoniovy a Senekovy. Také hledám Persia[370](#footnote-19288-370) a spolehlivé vydání eklog[371](#footnote-19288-371) Virgilových, jichž nemám. Ach, kterak jsem unaven a kterak mne bolí ruce od snímání závitků z kolíčků…! Neboť je-li člověk jednou v knihkupectví, jímá jej zvědavost, aby si prohlédl to i ono. Byl jsem u Aviruna, u Atrakta na Argiletu[372](#footnote-19288-372) a ještě předtím u Sosiů[373](#footnote-19288-373) na Vieus Sandalarius. U Kastora, jak se mi chce spát…!“
+„Ano. Nechci zavésti nepořádek do knihovny, a proto si na cestu opatřuji zvláštní zásoby. Nejspíše vyšly nové věci Musoniovy a Senekovy. Také hledám Persia[^370] a spolehlivé vydání eklog[^371] Virgilových, jichž nemám. Ach, kterak jsem unaven a kterak mne bolí ruce od snímání závitků z kolíčků…! Neboť je-li člověk jednou v knihkupectví, jímá jej zvědavost, aby si prohlédl to i ono. Byl jsem u Aviruna, u Atrakta na Argiletu[^372] a ještě předtím u Sosiů[^373] na Vieus Sandalarius. U Kastora, jak se mi chce spát…!“
 
 „Byl jsi na Palatině. Nuže, ptám se tě, co je nového? Nebo víš co? Pošli lektiku a krabice s knihami odtud a pojď ke mně! Pohovoříme si o Antiu a ještě o něčem.“
 
@@ -92,7 +92,7 @@ Ale Vinitius rychle vstal a zavolal na dispensatora.
 
 „Ty jsi jejím ženichem?“ opakoval Petronius.
 
-Nežli se však vzpamatoval z údivu, ohromné atrium Vinitiova domu se zarojilo lidmi. Přiběhli udýchaní starci, muži v plném rozkvětu sil, ženy, jinoši i dívky. Každým okamžikem plnilo se atrium stále hojněji; na chodbách, zvaných _fauces_[374](#footnote-19288-374), bylo slyšeti hlasy, jak na sebe volají různými jazyky. Konečně se všichni postavili jako zeď u stěn a mezi sloupovím. Vinitius, postaviv se u impluvia, obrátil se k Demasovi osvobozenci a řekl:
+Nežli se však vzpamatoval z údivu, ohromné atrium Vinitiova domu se zarojilo lidmi. Přiběhli udýchaní starci, muži v plném rozkvětu sil, ženy, jinoši i dívky. Každým okamžikem plnilo se atrium stále hojněji; na chodbách, zvaných _fauces_[^374], bylo slyšeti hlasy, jak na sebe volají různými jazyky. Konečně se všichni postavili jako zeď u stěn a mezi sloupovím. Vinitius, postaviv se u impluvia, obrátil se k Demasovi osvobozenci a řekl:
 
 „Ti, kdož v domě vysloužili dvacet let, nechť se zítra dostaví k praetorovi, kde se jim dostane svobody! Kdož nevysloužili, obdrží po třech kusech zlata a dvojnásobný výměrek stravy na týden. Do venkovských ergastulů budiž vyslán rozkaz, aby prominuty byly tresty, lidem sňaty okovy z nohou a oni sami dostatečně živeni. Vězte, že nadešel pro mne šťastný den, i přeji si, aby v domě byla radost!“
 
@@ -110,7 +110,7 @@ Ale Petronius, který se nikdy ničemu dlouho nedivil, již ochladl a ptal se:
 
 Potom podal Vinitiovi ruku a řekl:
 
-„Štěstí je vždy tam, kde je člověk vidí. Kéž vám Flora[375](#footnote-19288-375) sype květy k nohám po dlouhá léta! Přeji ti všeho, čeho přeješ sám sobě!“
+„Štěstí je vždy tam, kde je člověk vidí. Kéž vám Flora[^375] sype květy k nohám po dlouhá léta! Přeji ti všeho, čeho přeješ sám sobě!“
 
 „Pak ti děkuji, neboť jsem se domníval, že mne budeš z toho odrazovati, a to by byl věru promarněný čas!“
 
@@ -124,7 +124,7 @@ Ale Petronius odpověděl s chladnou krví:
 
 Za chvíli pak dodal:
 
-„Můj milovaný, v Římě se všecko mění! Muži vyměňují ženy, ženy vyměňují muže – proč bych neměl já vyměniti náhled? Nechybělo mnoho a Nero byl by pojal za choť Akté, jejíž původ naschvál kvůli němu odvodili z královského rodu. A což! Měl by počestnou ženu a my počestnou Augustu! U Protea[376](#footnote-19288-376) a jeho mořských plání, vždycky budu měniti náhled, kdykoli to uznám za vhodné nebo pohodlné! Co se týče Lygie, její královský původ je jistější nežli pergamští[377](#footnote-19288-377) předkové Akté. Ale ty se měj v Antiu na pozoru před Poppaeou, která je mstivá!“
+„Můj milovaný, v Římě se všecko mění! Muži vyměňují ženy, ženy vyměňují muže – proč bych neměl já vyměniti náhled? Nechybělo mnoho a Nero byl by pojal za choť Akté, jejíž původ naschvál kvůli němu odvodili z královského rodu. A což! Měl by počestnou ženu a my počestnou Augustu! U Protea[^376] a jeho mořských plání, vždycky budu měniti náhled, kdykoli to uznám za vhodné nebo pohodlné! Co se týče Lygie, její královský původ je jistější nežli pergamští[^377] předkové Akté. Ale ty se měj v Antiu na pozoru před Poppaeou, která je mstivá!“
 
 „Ani mne nenapadne! Vlas mi nespadne v Antiu s hlavy!“
 
@@ -146,9 +146,9 @@ Pak pokrčiv rameny, řekl jako sám k sobě: „Nicméně je podivuhodno, kter
 
 Ale Vinitius odpověděl s takovým zápalem, jako by sám byl po­křtěn:
 
-„Ano, tisíce a desetitisíce jsou v Římě, ve městech Itálie, v Řecku i v Asii! Jsou křesťané mezi legiemi i mezi praetoriány, jsou v samém paláci Caesarově. Vyznávají onu nauku otroci i občané, chuďasové i boháči, plebs i patriciát. Víš-li, že někteří Corneliové[378](#footnote-19288-378) jsou křesťany, že křesťankou jest Pomponie Grecina, že byla jí dle všeho Oktávie a jest jí Akté? Ano, ta nauka dobývá světa a ta jediná může jej obroditi. Nekrč rameny, neboť kdož ví, zdali za měsíc nebo za rok sám jí nepřijmeš!“
+„Ano, tisíce a desetitisíce jsou v Římě, ve městech Itálie, v Řecku i v Asii! Jsou křesťané mezi legiemi i mezi praetoriány, jsou v samém paláci Caesarově. Vyznávají onu nauku otroci i občané, chuďasové i boháči, plebs i patriciát. Víš-li, že někteří Corneliové[^378] jsou křesťany, že křesťankou jest Pomponie Grecina, že byla jí dle všeho Oktávie a jest jí Akté? Ano, ta nauka dobývá světa a ta jediná může jej obroditi. Nekrč rameny, neboť kdož ví, zdali za měsíc nebo za rok sám jí nepřijmeš!“
 
-„Já?“ pravil Petronius. „Nikoli, u syna Létina[379](#footnote-19288-379), já jí nepřijmu, byť v ní obsažena byla pravda i moudrost lidská právě tak jako božská…! To by vyžadovalo námahy a já se nerad namáhám… To by vyžadovalo odříkání a já se nerad v životě čeho odříkávám. S tvou povahou, podobající se ohni a vroucí vodě, vždy se mohlo něco podobného přihoditi, ale já? Já mám své gemmy, své kameje, své vázy a svou Eunike. V Olymp nevěřím, ale já si jej tvořím na zemi, a pokvetu, dokud nebudu proklán šípy božského lučištníka nebo dokud mi Caesar neporučí, abych si podřezal žíly. Mám příliš rád vůni fialek a pohodlné triclinium. Mám dokonce rád naše bohy – jako řečnické figury i Achaiu, do které se vypravuji s naším otylým, tenkonohým, nedostižitelným božským Caesarem Augustem, Periodonikem[380](#footnote-19288-380)… Herkulem, Neronem…!“
+„Já?“ pravil Petronius. „Nikoli, u syna Létina[^379], já jí nepřijmu, byť v ní obsažena byla pravda i moudrost lidská právě tak jako božská…! To by vyžadovalo námahy a já se nerad namáhám… To by vyžadovalo odříkání a já se nerad v životě čeho odříkávám. S tvou povahou, podobající se ohni a vroucí vodě, vždy se mohlo něco podobného přihoditi, ale já? Já mám své gemmy, své kameje, své vázy a svou Eunike. V Olymp nevěřím, ale já si jej tvořím na zemi, a pokvetu, dokud nebudu proklán šípy božského lučištníka nebo dokud mi Caesar neporučí, abych si podřezal žíly. Mám příliš rád vůni fialek a pohodlné triclinium. Mám dokonce rád naše bohy – jako řečnické figury i Achaiu, do které se vypravuji s naším otylým, tenkonohým, nedostižitelným božským Caesarem Augustem, Periodonikem[^380]… Herkulem, Neronem…!“
 
 To praviv, rozveselil se při pouhé domněnce, že by mohl přijmouti učení galilejských rybářů, a začal zpívati polohlasně:
 
@@ -167,24 +167,24 @@ A sňavše věnec, začali se oba, on a Eunike, chystati domů; a když odeš
 
 – Chci, aby ti tento list, až otevřeš své rozkošné oči, ó, božská, řekl: Dobrý den! Proto píši dnes, ačkoli tě zítra spatřím. Caesar odjíždí pozítří do Antia, a já, eheu, musím jej provázeti! Vždyť jsem ti již řekl, že neuposlechnouti znamenalo by vydat v nebezpečí život, ale neměl bych nyní odvahy umírati. Jestliže však nechceš, odpiš mi jediné slovo a já zůstanu. Starostí Petroniovou pak bude, aby ode mne nebezpečí odvrátil. Dnes, v den radosti, rozdal jsem odměny všem otrokům a ty, kteří vysloužili v domě přes dvacet let, zavedu zítra k praetorovi, aby jim dal svobodu. Musíš mne za to, drahá, pochváliti, poněvadž se mi zdá, že to bude v souhlase s onou sladkou naukou, kterou vyznáváš; a za druhé, učinil jsem tak kvůli tobě. Řeknu jim zítra, že jsou tobě zavázáni vděčností za svobodu, aby ti byli vděčni a oslavovali tvé jméno. Já sám pak se za to odevzdám v otroctví blahu a tobě, a kéž bych se nikdy nedočkal vysvobození! Budiž prokleto Antium a cestování Ahenobarbovo! Třikrát, čtyřikrát jsem šťasten, že nejsem tak moudrý jako Petronius, poněvadž bych musil odjeti do Achaie. Naproti tomu chvíle rozloučení osladí mi vzpomínku na tebe. Kdykoliv se budu moci odpoutati, vsednu na koně a pocválám do Říma, abych potěšil oči pohledem na tebe, uši pak tvým sladkým hlasem. Kdykoli nebudu moci, pošlu otroka s listem a dotazem po tobě. Pozdravuji tě, božská, a objímám tvé nohy! Nehněvej se, že tě nazývám božskou. Zakážeš-li, poslechnu, ale dnes ještě nedovedu jinak. Pozdravuji tě z tvého budoucího domu – vřelou duší!
 
-[370](#footnote-19288-370-backlink) Satirický básník z Neronovy doby.
+[^370]: Satirický básník z Neronovy doby.
 
-[371](#footnote-19288-371-backlink) Básně idylického rázu.
+[^371]: Básně idylického rázu.
 
-[372](#footnote-19288-372-backlink) Část Říma s četnými obchody, hlavně knihkupeckými.
+[^372]: Část Říma s četnými obchody, hlavně knihkupeckými.
 
-[373](#footnote-19288-373-backlink) Bratři, historické osobnosti, knihkupci ve starém Římě.
+[^373]: Bratři, historické osobnosti, knihkupci ve starém Římě.
 
-[374](#footnote-19288-374-backlink) Chodby spojující starořímské atrium s peristylem.
+[^374]: Chodby spojující starořímské atrium s peristylem.
 
-[375](#footnote-19288-375-backlink) Bohyně květin, jara a mládí.
+[^375]: Bohyně květin, jara a mládí.
 
-[376](#footnote-19288-376-backlink) Mořský věštecký bůh, pastýř stáda a mořských zvířat.
+[^376]: Mořský věštecký bůh, pastýř stáda a mořských zvířat.
 
-[377](#footnote-19288-377-backlink) Pergama – starořecká Troja.
+[^377]: Pergama – starořecká Troja.
 
-[378](#footnote-19288-378-backlink) Příslušníci jednoho z nejstarších a nejslavnějších římských rodů.
+[^378]: Příslušníci jednoho z nejstarších a nejslavnějších římských rodů.
 
-[379](#footnote-19288-379-backlink) Létó – dcera jednoho z Titánů, milenka Diova. Jejím synem byl Apollo.
+[^379]: Létó – dcera jednoho z Titánů, milenka Diova. Jejím synem byl Apollo.
 
-[380](#footnote-19288-380-backlink) Čtyřnásobný vítěz starořeckých her.
+[^380]: Čtyřnásobný vítěz starořeckých her.

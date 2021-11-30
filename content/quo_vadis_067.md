@@ -70,6 +70,6 @@ V amfitheatru panovalo hluboké ticho.
 
   
 
-![quo_vadis_%20(15).jpg](../Images/quo_vadis_%20%2815%29_fmt.jpeg)
+![quo_vadis_%20(15).jpg](./resources/quo_vadis_-(15)_fmt.jpeg)
 
 … a posadiv se u kříže, začal bručeti…

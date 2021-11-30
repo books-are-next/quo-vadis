@@ -38,7 +38,7 @@ A ona se ptala v zoufalství:
 
 „Ty se domníváš, že já mohu?“
 
-„Nuže, můžeš něco jiného! Uzdraví-li se Lygie, musí jíti na smrt. Jdi do chrámu Vestina a požádej, aby virgo magna[479](#footnote-19288-479) octla se náhodou u Tulliana v okamžiku, až budou vyváděni vězňové na smrt, a aby rozkázala onu dívku osvoboditi. Veliká vestálka ti toho neodepře.“
+„Nuže, můžeš něco jiného! Uzdraví-li se Lygie, musí jíti na smrt. Jdi do chrámu Vestina a požádej, aby virgo magna[^479] octla se náhodou u Tulliana v okamžiku, až budou vyváděni vězňové na smrt, a aby rozkázala onu dívku osvoboditi. Veliká vestálka ti toho neodepře.“
 
 „A zemře-li Lygie horečkou?“
 
@@ -68,12 +68,12 @@ A Poppaea, která byla hotova obětovati hekatomby všem bohům světa, aby zac
 
 Ale na Palatině byl rozsudek proti dítěti již vydán, neboť sotva císařovnina lektika zmizela za Velikou branou, do komnaty, ve které ležel malý Ruffius, vešli dva osvobozenci Caesarovi, z nichž jeden se vrhl na starou Silvii a ucpal jí ústa, kdežto druhý, popadnuv měděnou sošku sfingy, omráčil ji první ranou.
 
-Pak přistoupili k Ruffiovi. Hoch, jenž byl zachvácen horečkou a kromě toho ne při zcela jasném vědomí, nechápal, co se děje kolem něho a usmíval se na ně, mhouřil své krásné, modré oči, jako by se namáhal poznati je. Oni však, sejmuvše pás z chůvy, zvaný cingulum[480](#footnote-19288-480), zadrhli mu jej kolem krku a začali ho rdousiti. Dítě, zavolavši jednou po matce, lehce skonalo. Potom je zavinuli do prostěradla a vsednuvše na připravené koně, jeli tryskem až do Ostie, kde hodili tělo do moře.
+Pak přistoupili k Ruffiovi. Hoch, jenž byl zachvácen horečkou a kromě toho ne při zcela jasném vědomí, nechápal, co se děje kolem něho a usmíval se na ně, mhouřil své krásné, modré oči, jako by se namáhal poznati je. Oni však, sejmuvše pás z chůvy, zvaný cingulum[^480], zadrhli mu jej kolem krku a začali ho rdousiti. Dítě, zavolavši jednou po matce, lehce skonalo. Potom je zavinuli do prostěradla a vsednuvše na připravené koně, jeli tryskem až do Ostie, kde hodili tělo do moře.
 
 Poppaea, nezastihnuvši veliké panny, která s ostatními vestálkami byla u Vatinia, vrátila se zakrátko na Palatin. Naleznuvši prázdné lože a vychladlé tělo Silviino, padla do mdlob, a když byla přivedena k sobě, dala se do křiku a její divoké výkřiky rozléhaly se po celou noc a následující den.
 
 Ale třetího dne Caesar jí poručil, aby se dostavila k hostině; obléknuvši si tudíž do ametystové tuniky, přišla a seděla s kamennou tváří, zlatovlasá, zamlklá, rozkošná a zlověstná jako anděl smrti.
 
-[479](#footnote-19288-479-backlink) Velká panna.
+[^479]: Velká panna.
 
-[480](#footnote-19288-480-backlink) Pás, opasek.
+[^480]: Pás, opasek.
