@@ -1,0 +1,1569 @@
+{
+  "author": "Henryk Sienkiewicz",
+  "edition": "beletrie",
+  "identifier": "sienkiewicz-quo-vadis-da3f5ec",
+  "languagecode": "cs",
+  "modified": "2021-10-30T17:56:57.139Z",
+  "publisher": "Městská knihovna v Praze",
+  "publishershort": "mkp",
+  "title": "Quo vadis",
+  "revision": "da3f5ec",
+  "generatedAt": {
+    "date": "Tue Nov 30 2021 11:09:22 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1638270562740
+  },
+  "documents": [
+    {
+      "title": "Quo vadis",
+      "file": "quo_vadis_002.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 0,
+      "prev": null,
+      "next": "quo_vadis_005.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "I • Quo vadis",
+      "file": "quo_vadis_005.html",
+      "words": 4491,
+      "chars": 27124,
+      "ideas": 198,
+      "role": "chapter",
+      "order": 1,
+      "prev": "quo_vadis_002.html",
+      "next": "quo_vadis_006.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "I",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "II • Quo vadis",
+      "file": "quo_vadis_006.html",
+      "words": 6134,
+      "chars": 38115,
+      "ideas": 193,
+      "role": "chapter",
+      "order": 2,
+      "prev": "quo_vadis_005.html",
+      "next": "quo_vadis_007.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "II",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "III • Quo vadis",
+      "file": "quo_vadis_007.html",
+      "words": 962,
+      "chars": 5655,
+      "ideas": 34,
+      "role": "chapter",
+      "order": 3,
+      "prev": "quo_vadis_006.html",
+      "next": "quo_vadis_008.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "III",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "IV • Quo vadis",
+      "file": "quo_vadis_008.html",
+      "words": 2196,
+      "chars": 13030,
+      "ideas": 65,
+      "role": "chapter",
+      "order": 4,
+      "prev": "quo_vadis_007.html",
+      "next": "quo_vadis_009.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "IV",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "V • Quo vadis",
+      "file": "quo_vadis_009.html",
+      "words": 1178,
+      "chars": 7021,
+      "ideas": 28,
+      "role": "chapter",
+      "order": 5,
+      "prev": "quo_vadis_008.html",
+      "next": "quo_vadis_010.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "V",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "VI • Quo vadis",
+      "file": "quo_vadis_010.html",
+      "words": 1359,
+      "chars": 8030,
+      "ideas": 39,
+      "role": "chapter",
+      "order": 6,
+      "prev": "quo_vadis_009.html",
+      "next": "quo_vadis_011.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "VI",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "VII • Quo vadis",
+      "file": "quo_vadis_011.html",
+      "words": 8664,
+      "chars": 52440,
+      "ideas": 228,
+      "role": "chapter",
+      "order": 7,
+      "prev": "quo_vadis_010.html",
+      "next": "quo_vadis_012.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "VII",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "VIII • Quo vadis",
+      "file": "quo_vadis_012.html",
+      "words": 1934,
+      "chars": 11435,
+      "ideas": 54,
+      "role": "chapter",
+      "order": 8,
+      "prev": "quo_vadis_011.html",
+      "next": "quo_vadis_013.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "VIII",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XI • Quo vadis",
+      "file": "quo_vadis_013.html",
+      "words": 2157,
+      "chars": 12967,
+      "ideas": 68,
+      "role": "chapter",
+      "order": 9,
+      "prev": "quo_vadis_012.html",
+      "next": "quo_vadis_014.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XI",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "X • Quo vadis",
+      "file": "quo_vadis_014.html",
+      "words": 1446,
+      "chars": 8963,
+      "ideas": 65,
+      "role": "chapter",
+      "order": 10,
+      "prev": "quo_vadis_013.html",
+      "next": "quo_vadis_015.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "X",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XI • Quo vadis",
+      "file": "quo_vadis_015.html",
+      "words": 3878,
+      "chars": 22921,
+      "ideas": 93,
+      "role": "chapter",
+      "order": 11,
+      "prev": "quo_vadis_014.html",
+      "next": "quo_vadis_016.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XI",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XII • Quo vadis",
+      "file": "quo_vadis_016.html",
+      "words": 2362,
+      "chars": 14170,
+      "ideas": 89,
+      "role": "chapter",
+      "order": 12,
+      "prev": "quo_vadis_015.html",
+      "next": "quo_vadis_017.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XII",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XIII • Quo vadis",
+      "file": "quo_vadis_017.html",
+      "words": 2717,
+      "chars": 16377,
+      "ideas": 127,
+      "role": "chapter",
+      "order": 13,
+      "prev": "quo_vadis_016.html",
+      "next": "quo_vadis_018.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XIII",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XIV • Quo vadis",
+      "file": "quo_vadis_018.html",
+      "words": 3386,
+      "chars": 20225,
+      "ideas": 101,
+      "role": "chapter",
+      "order": 14,
+      "prev": "quo_vadis_017.html",
+      "next": "quo_vadis_019.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XIV",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XV • Quo vadis",
+      "file": "quo_vadis_019.html",
+      "words": 1617,
+      "chars": 9461,
+      "ideas": 21,
+      "role": "chapter",
+      "order": 15,
+      "prev": "quo_vadis_018.html",
+      "next": "quo_vadis_020.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XV",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XVI • Quo vadis",
+      "file": "quo_vadis_020.html",
+      "words": 2116,
+      "chars": 12287,
+      "ideas": 38,
+      "role": "chapter",
+      "order": 16,
+      "prev": "quo_vadis_019.html",
+      "next": "quo_vadis_021.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XVI",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XVII • Quo vadis",
+      "file": "quo_vadis_021.html",
+      "words": 2618,
+      "chars": 15651,
+      "ideas": 84,
+      "role": "chapter",
+      "order": 17,
+      "prev": "quo_vadis_020.html",
+      "next": "quo_vadis_022.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XVII",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XVIII • Quo vadis",
+      "file": "quo_vadis_022.html",
+      "words": 1523,
+      "chars": 9082,
+      "ideas": 15,
+      "role": "chapter",
+      "order": 18,
+      "prev": "quo_vadis_021.html",
+      "next": "quo_vadis_023.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XVIII",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XIX • Quo vadis",
+      "file": "quo_vadis_023.html",
+      "words": 3146,
+      "chars": 18753,
+      "ideas": 67,
+      "role": "chapter",
+      "order": 19,
+      "prev": "quo_vadis_022.html",
+      "next": "quo_vadis_024.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XIX",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XX • Quo vadis",
+      "file": "quo_vadis_024.html",
+      "words": 3764,
+      "chars": 22753,
+      "ideas": 48,
+      "role": "chapter",
+      "order": 20,
+      "prev": "quo_vadis_023.html",
+      "next": "quo_vadis_025.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XX",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XXI • Quo vadis",
+      "file": "quo_vadis_025.html",
+      "words": 2606,
+      "chars": 15599,
+      "ideas": 65,
+      "role": "chapter",
+      "order": 21,
+      "prev": "quo_vadis_024.html",
+      "next": "quo_vadis_026.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XXI",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XXII • Quo vadis",
+      "file": "quo_vadis_026.html",
+      "words": 2571,
+      "chars": 15237,
+      "ideas": 70,
+      "role": "chapter",
+      "order": 22,
+      "prev": "quo_vadis_025.html",
+      "next": "quo_vadis_027.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XXII",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XXIII • Quo vadis",
+      "file": "quo_vadis_027.html",
+      "words": 2391,
+      "chars": 13730,
+      "ideas": 61,
+      "role": "chapter",
+      "order": 23,
+      "prev": "quo_vadis_026.html",
+      "next": "quo_vadis_028.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XXIII",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XXIV • Quo vadis",
+      "file": "quo_vadis_028.html",
+      "words": 2719,
+      "chars": 15874,
+      "ideas": 119,
+      "role": "chapter",
+      "order": 24,
+      "prev": "quo_vadis_027.html",
+      "next": "quo_vadis_029.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XXIV",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XXV • Quo vadis",
+      "file": "quo_vadis_029.html",
+      "words": 2343,
+      "chars": 13764,
+      "ideas": 34,
+      "role": "chapter",
+      "order": 25,
+      "prev": "quo_vadis_028.html",
+      "next": "quo_vadis_030.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XXV",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XXVI • Quo vadis",
+      "file": "quo_vadis_030.html",
+      "words": 3315,
+      "chars": 19544,
+      "ideas": 89,
+      "role": "chapter",
+      "order": 26,
+      "prev": "quo_vadis_029.html",
+      "next": "quo_vadis_031.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XXVI",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XXVII • Quo vadis",
+      "file": "quo_vadis_031.html",
+      "words": 2904,
+      "chars": 17161,
+      "ideas": 43,
+      "role": "chapter",
+      "order": 27,
+      "prev": "quo_vadis_030.html",
+      "next": "quo_vadis_032.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XXVII",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XXVIII • Quo vadis",
+      "file": "quo_vadis_032.html",
+      "words": 3114,
+      "chars": 17738,
+      "ideas": 18,
+      "role": "chapter",
+      "order": 28,
+      "prev": "quo_vadis_031.html",
+      "next": "quo_vadis_033.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XXVIII",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XXIX • Quo vadis",
+      "file": "quo_vadis_033.html",
+      "words": 3585,
+      "chars": 21287,
+      "ideas": 90,
+      "role": "chapter",
+      "order": 29,
+      "prev": "quo_vadis_032.html",
+      "next": "quo_vadis_034.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XXIX",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XXX • Quo vadis",
+      "file": "quo_vadis_034.html",
+      "words": 1776,
+      "chars": 10430,
+      "ideas": 66,
+      "role": "chapter",
+      "order": 30,
+      "prev": "quo_vadis_033.html",
+      "next": "quo_vadis_035.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XXX",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XXXI • Quo vadis",
+      "file": "quo_vadis_035.html",
+      "words": 1931,
+      "chars": 12003,
+      "ideas": 54,
+      "role": "chapter",
+      "order": 31,
+      "prev": "quo_vadis_034.html",
+      "next": "quo_vadis_036.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XXXI",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XXXII • Quo vadis",
+      "file": "quo_vadis_036.html",
+      "words": 3363,
+      "chars": 19781,
+      "ideas": 91,
+      "role": "chapter",
+      "order": 32,
+      "prev": "quo_vadis_035.html",
+      "next": "quo_vadis_037.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XXXII",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XXXIII • Quo vadis",
+      "file": "quo_vadis_037.html",
+      "words": 1621,
+      "chars": 9339,
+      "ideas": 48,
+      "role": "chapter",
+      "order": 33,
+      "prev": "quo_vadis_036.html",
+      "next": "quo_vadis_038.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XXXIII",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XXXIV • Quo vadis",
+      "file": "quo_vadis_038.html",
+      "words": 1195,
+      "chars": 6770,
+      "ideas": 41,
+      "role": "chapter",
+      "order": 34,
+      "prev": "quo_vadis_037.html",
+      "next": "quo_vadis_039.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XXXIV",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XXXV • Quo vadis",
+      "file": "quo_vadis_039.html",
+      "words": 2435,
+      "chars": 14329,
+      "ideas": 95,
+      "role": "chapter",
+      "order": 35,
+      "prev": "quo_vadis_038.html",
+      "next": "quo_vadis_040.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XXXV",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XXXVI • Quo vadis",
+      "file": "quo_vadis_040.html",
+      "words": 3174,
+      "chars": 19573,
+      "ideas": 53,
+      "role": "chapter",
+      "order": 36,
+      "prev": "quo_vadis_039.html",
+      "next": "quo_vadis_041.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XXXVI",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XXXVII • Quo vadis",
+      "file": "quo_vadis_041.html",
+      "words": 1041,
+      "chars": 5910,
+      "ideas": 8,
+      "role": "chapter",
+      "order": 37,
+      "prev": "quo_vadis_040.html",
+      "next": "quo_vadis_042.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XXXVII",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XXXVIII • Quo vadis",
+      "file": "quo_vadis_042.html",
+      "words": 737,
+      "chars": 4227,
+      "ideas": 4,
+      "role": "chapter",
+      "order": 38,
+      "prev": "quo_vadis_041.html",
+      "next": "quo_vadis_043.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XXXVIII",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XXXIX • Quo vadis",
+      "file": "quo_vadis_043.html",
+      "words": 2609,
+      "chars": 15250,
+      "ideas": 43,
+      "role": "chapter",
+      "order": 39,
+      "prev": "quo_vadis_042.html",
+      "next": "quo_vadis_044.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XXXIX",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XL • Quo vadis",
+      "file": "quo_vadis_044.html",
+      "words": 2475,
+      "chars": 14635,
+      "ideas": 57,
+      "role": "chapter",
+      "order": 40,
+      "prev": "quo_vadis_043.html",
+      "next": "quo_vadis_045.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XL",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XLI • Quo vadis",
+      "file": "quo_vadis_045.html",
+      "words": 2042,
+      "chars": 12060,
+      "ideas": 76,
+      "role": "chapter",
+      "order": 41,
+      "prev": "quo_vadis_044.html",
+      "next": "quo_vadis_046.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XLI",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XLII • Quo vadis",
+      "file": "quo_vadis_046.html",
+      "words": 2769,
+      "chars": 16684,
+      "ideas": 53,
+      "role": "chapter",
+      "order": 42,
+      "prev": "quo_vadis_045.html",
+      "next": "quo_vadis_047.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XLII",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XLIII • Quo vadis",
+      "file": "quo_vadis_047.html",
+      "words": 3368,
+      "chars": 20588,
+      "ideas": 57,
+      "role": "chapter",
+      "order": 43,
+      "prev": "quo_vadis_046.html",
+      "next": "quo_vadis_048.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XLIII",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XLIV • Quo vadis",
+      "file": "quo_vadis_048.html",
+      "words": 1406,
+      "chars": 8863,
+      "ideas": 13,
+      "role": "chapter",
+      "order": 44,
+      "prev": "quo_vadis_047.html",
+      "next": "quo_vadis_049.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XLIV",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XLV • Quo vadis",
+      "file": "quo_vadis_049.html",
+      "words": 2880,
+      "chars": 17530,
+      "ideas": 74,
+      "role": "chapter",
+      "order": 45,
+      "prev": "quo_vadis_048.html",
+      "next": "quo_vadis_050.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XLV",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XLVI • Quo vadis",
+      "file": "quo_vadis_050.html",
+      "words": 946,
+      "chars": 6175,
+      "ideas": 8,
+      "role": "chapter",
+      "order": 46,
+      "prev": "quo_vadis_049.html",
+      "next": "quo_vadis_051.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XLVI",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XLVII • Quo vadis",
+      "file": "quo_vadis_051.html",
+      "words": 2058,
+      "chars": 12685,
+      "ideas": 70,
+      "role": "chapter",
+      "order": 47,
+      "prev": "quo_vadis_050.html",
+      "next": "quo_vadis_052.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XLVII",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XLVIII • Quo vadis",
+      "file": "quo_vadis_052.html",
+      "words": 1782,
+      "chars": 10589,
+      "ideas": 66,
+      "role": "chapter",
+      "order": 48,
+      "prev": "quo_vadis_051.html",
+      "next": "quo_vadis_053.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XLVIII",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XLIX • Quo vadis",
+      "file": "quo_vadis_053.html",
+      "words": 3010,
+      "chars": 18608,
+      "ideas": 103,
+      "role": "chapter",
+      "order": 49,
+      "prev": "quo_vadis_052.html",
+      "next": "quo_vadis_054.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XLIX",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "L • Quo vadis",
+      "file": "quo_vadis_054.html",
+      "words": 1664,
+      "chars": 10097,
+      "ideas": 71,
+      "role": "chapter",
+      "order": 50,
+      "prev": "quo_vadis_053.html",
+      "next": "quo_vadis_055.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "L",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "LI • Quo vadis",
+      "file": "quo_vadis_055.html",
+      "words": 4194,
+      "chars": 25303,
+      "ideas": 164,
+      "role": "chapter",
+      "order": 51,
+      "prev": "quo_vadis_054.html",
+      "next": "quo_vadis_056.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "LI",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "LII • Quo vadis",
+      "file": "quo_vadis_056.html",
+      "words": 1435,
+      "chars": 9054,
+      "ideas": 27,
+      "role": "chapter",
+      "order": 52,
+      "prev": "quo_vadis_055.html",
+      "next": "quo_vadis_057.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "LII",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "LIII • Quo vadis",
+      "file": "quo_vadis_057.html",
+      "words": 2777,
+      "chars": 16395,
+      "ideas": 75,
+      "role": "chapter",
+      "order": 53,
+      "prev": "quo_vadis_056.html",
+      "next": "quo_vadis_058.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "LIII",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "LIV • Quo vadis",
+      "file": "quo_vadis_058.html",
+      "words": 1724,
+      "chars": 10436,
+      "ideas": 68,
+      "role": "chapter",
+      "order": 54,
+      "prev": "quo_vadis_057.html",
+      "next": "quo_vadis_059.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "LIV",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "LV • Quo vadis",
+      "file": "quo_vadis_059.html",
+      "words": 1070,
+      "chars": 6418,
+      "ideas": 39,
+      "role": "chapter",
+      "order": 55,
+      "prev": "quo_vadis_058.html",
+      "next": "quo_vadis_060.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "LV",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "LVI • Quo vadis",
+      "file": "quo_vadis_060.html",
+      "words": 7090,
+      "chars": 44093,
+      "ideas": 174,
+      "role": "chapter",
+      "order": 56,
+      "prev": "quo_vadis_059.html",
+      "next": "quo_vadis_061.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "LVI",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "LVII • Quo vadis",
+      "file": "quo_vadis_061.html",
+      "words": 4127,
+      "chars": 24879,
+      "ideas": 205,
+      "role": "chapter",
+      "order": 57,
+      "prev": "quo_vadis_060.html",
+      "next": "quo_vadis_062.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "LVII",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "LVIII • Quo vadis",
+      "file": "quo_vadis_062.html",
+      "words": 2211,
+      "chars": 13668,
+      "ideas": 45,
+      "role": "chapter",
+      "order": 58,
+      "prev": "quo_vadis_061.html",
+      "next": "quo_vadis_063.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "LVIII",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "LIX • Quo vadis",
+      "file": "quo_vadis_063.html",
+      "words": 975,
+      "chars": 5844,
+      "ideas": 78,
+      "role": "chapter",
+      "order": 59,
+      "prev": "quo_vadis_062.html",
+      "next": "quo_vadis_064.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "LIX",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "LX • Quo vadis",
+      "file": "quo_vadis_064.html",
+      "words": 2044,
+      "chars": 12158,
+      "ideas": 80,
+      "role": "chapter",
+      "order": 60,
+      "prev": "quo_vadis_063.html",
+      "next": "quo_vadis_065.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "LX",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "LXI • Quo vadis",
+      "file": "quo_vadis_065.html",
+      "words": 1000,
+      "chars": 5918,
+      "ideas": 29,
+      "role": "chapter",
+      "order": 61,
+      "prev": "quo_vadis_064.html",
+      "next": "quo_vadis_066.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "LXI",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "LXII • Quo vadis",
+      "file": "quo_vadis_066.html",
+      "words": 3001,
+      "chars": 18094,
+      "ideas": 91,
+      "role": "chapter",
+      "order": 62,
+      "prev": "quo_vadis_065.html",
+      "next": "quo_vadis_067.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "LXII",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "LXIII • Quo vadis",
+      "file": "quo_vadis_067.html",
+      "words": 1221,
+      "chars": 7517,
+      "ideas": 36,
+      "role": "chapter",
+      "order": 63,
+      "prev": "quo_vadis_066.html",
+      "next": "quo_vadis_068.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "LXIII",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "LXIV • Quo vadis",
+      "file": "quo_vadis_068.html",
+      "words": 1301,
+      "chars": 7811,
+      "ideas": 8,
+      "role": "chapter",
+      "order": 64,
+      "prev": "quo_vadis_067.html",
+      "next": "quo_vadis_069.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "LXIV",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "LXV • Quo vadis",
+      "file": "quo_vadis_069.html",
+      "words": 1187,
+      "chars": 7347,
+      "ideas": 55,
+      "role": "chapter",
+      "order": 65,
+      "prev": "quo_vadis_068.html",
+      "next": "quo_vadis_070.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "LXV",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "LXVI • Quo vadis",
+      "file": "quo_vadis_070.html",
+      "words": 3019,
+      "chars": 18449,
+      "ideas": 53,
+      "role": "chapter",
+      "order": 66,
+      "prev": "quo_vadis_069.html",
+      "next": "quo_vadis_071.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "LXVI",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "LXVII • Quo vadis",
+      "file": "quo_vadis_071.html",
+      "words": 679,
+      "chars": 4050,
+      "ideas": 12,
+      "role": "chapter",
+      "order": 67,
+      "prev": "quo_vadis_070.html",
+      "next": "quo_vadis_072.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "LXVII",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "LXVIII • Quo vadis",
+      "file": "quo_vadis_072.html",
+      "words": 941,
+      "chars": 5580,
+      "ideas": 22,
+      "role": "chapter",
+      "order": 68,
+      "prev": "quo_vadis_071.html",
+      "next": "quo_vadis_073.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "LXVIII",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "LXIX • Quo vadis",
+      "file": "quo_vadis_073.html",
+      "words": 1794,
+      "chars": 10759,
+      "ideas": 33,
+      "role": "chapter",
+      "order": 69,
+      "prev": "quo_vadis_072.html",
+      "next": "quo_vadis_074.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "LXIX",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "LXX • Quo vadis",
+      "file": "quo_vadis_074.html",
+      "words": 709,
+      "chars": 4161,
+      "ideas": 31,
+      "role": "chapter",
+      "order": 70,
+      "prev": "quo_vadis_073.html",
+      "next": "quo_vadis_075.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "LXX",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "LXXI • Quo vadis",
+      "file": "quo_vadis_075.html",
+      "words": 1572,
+      "chars": 9473,
+      "ideas": 28,
+      "role": "chapter",
+      "order": 71,
+      "prev": "quo_vadis_074.html",
+      "next": "quo_vadis_076.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "LXXI",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "LXXII • Quo vadis",
+      "file": "quo_vadis_076.html",
+      "words": 393,
+      "chars": 2540,
+      "ideas": 5,
+      "role": "chapter",
+      "order": 72,
+      "prev": "quo_vadis_075.html",
+      "next": "quo_vadis_077.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "LXXII",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "LXXIII • Quo vadis",
+      "file": "quo_vadis_077.html",
+      "words": 2187,
+      "chars": 12848,
+      "ideas": 28,
+      "role": "chapter",
+      "order": 73,
+      "prev": "quo_vadis_076.html",
+      "next": "quo_vadis_078.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "LXXIII",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "LXXIV • Quo vadis",
+      "file": "quo_vadis_078.html",
+      "words": 2003,
+      "chars": 12205,
+      "ideas": 58,
+      "role": "chapter",
+      "order": 74,
+      "prev": "quo_vadis_077.html",
+      "next": "quo_vadis_079.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "LXXIV",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Doslov • Quo vadis",
+      "file": "quo_vadis_079.html",
+      "words": 1920,
+      "chars": 11954,
+      "ideas": 44,
+      "role": "chapter",
+      "order": 75,
+      "prev": "quo_vadis_078.html",
+      "next": "colophon.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Doslov",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Tiráž • Quo vadis",
+      "file": "colophon.html",
+      "words": 144,
+      "chars": 940,
+      "ideas": 25,
+      "role": "colophon",
+      "order": null,
+      "prev": "quo_vadis_079.html",
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Tiráž",
+          "id": null,
+          "children": []
+        }
+      ]
+    }
+  ],
+  "totals": {
+    "all": {
+      "words": 178202,
+      "chars": 1070452,
+      "ideas": 4912
+    },
+    "chapters": {
+      "words": 178052,
+      "chars": 1069474,
+      "ideas": 4883
+    }
+  }
+}
