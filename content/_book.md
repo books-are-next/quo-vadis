@@ -9,6 +9,8 @@ meta:
   publisher: Městská knihovna v Praze
   modified: '2021-10-30T17:56:57.139Z'
   languageCode: cs
+  publisherShort: mkp
+  edition: beletrie
 readingOrder:
   - quo_vadis_001.html
   - quo_vadis_002.html
@@ -242,6 +244,7 @@ tocBase:
       - link: quo_vadis_079.html
         title: Doslov
     isSection: true
+    listType: plain
 static:
   - style
   - scripts
