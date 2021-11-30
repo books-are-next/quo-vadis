@@ -12,7 +12,6 @@ meta:
   publisherShort: mkp
   edition: beletrie
 readingOrder:
-  - quo_vadis_001.html
   - quo_vadis_002.html
   - quo_vadis_005.html
   - quo_vadis_006.html
