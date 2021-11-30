@@ -6,7 +6,9 @@
       "author": "Henryk Sienkiewicz",
       "publisher": "Městská knihovna v Praze",
       "modified": "2021-10-30T17:56:57.139Z",
-      "languageCode": "cs"
+      "languageCode": "cs",
+      "publisherShort": "mkp",
+      "edition": "beletrie"
     },
     "elements": {
       "title": "MLP-uroven2-kapitola",
@@ -31,14 +33,15 @@
       {
         "isSection": true,
         "id": "section-1",
+        "listType": "plain",
         "children": [
           {
             "filename": "quo_vadis_001.md",
             "xhtml": "quo_vadis_001.xhtml",
             "id": 0,
             "role": "break",
-            "numberedChildren": false,
             "inToc": false,
+            "listType": "plain",
             "children": []
           },
           {
@@ -46,8 +49,8 @@
             "xhtml": "quo_vadis_002.xhtml",
             "id": 1,
             "role": "break",
-            "numberedChildren": false,
             "inToc": false,
+            "listType": "plain",
             "children": []
           },
           {
@@ -55,8 +58,8 @@
             "xhtml": "quo_vadis_003.xhtml",
             "id": 2,
             "role": "colophon",
-            "numberedChildren": false,
             "inToc": false,
+            "listType": "plain",
             "children": []
           },
           {
@@ -64,8 +67,8 @@
             "xhtml": "quo_vadis_004.xhtml",
             "id": 3,
             "role": "colophon",
-            "numberedChildren": false,
             "inToc": false,
+            "listType": "plain",
             "children": []
           },
           {
@@ -73,758 +76,758 @@
             "xhtml": "quo_vadis_005.xhtml",
             "id": 4,
             "role": "chapter",
-            "numberedChildren": false,
             "inToc": true,
-            "children": [],
-            "title": "I"
+            "title": "I",
+            "listType": "plain",
+            "children": []
           },
           {
             "filename": "quo_vadis_006.md",
             "xhtml": "quo_vadis_006.xhtml",
             "id": 5,
             "role": "chapter",
-            "numberedChildren": false,
             "inToc": true,
-            "children": [],
-            "title": "II"
+            "title": "II",
+            "listType": "plain",
+            "children": []
           },
           {
             "filename": "quo_vadis_007.md",
             "xhtml": "quo_vadis_007.xhtml",
             "id": 6,
             "role": "chapter",
-            "numberedChildren": false,
             "inToc": true,
-            "children": [],
-            "title": "III"
+            "title": "III",
+            "listType": "plain",
+            "children": []
           },
           {
             "filename": "quo_vadis_008.md",
             "xhtml": "quo_vadis_008.xhtml",
             "id": 7,
             "role": "chapter",
-            "numberedChildren": false,
             "inToc": true,
-            "children": [],
-            "title": "IV"
+            "title": "IV",
+            "listType": "plain",
+            "children": []
           },
           {
             "filename": "quo_vadis_009.md",
             "xhtml": "quo_vadis_009.xhtml",
             "id": 8,
             "role": "chapter",
-            "numberedChildren": false,
             "inToc": true,
-            "children": [],
-            "title": "V"
+            "title": "V",
+            "listType": "plain",
+            "children": []
           },
           {
             "filename": "quo_vadis_010.md",
             "xhtml": "quo_vadis_010.xhtml",
             "id": 9,
             "role": "chapter",
-            "numberedChildren": false,
             "inToc": true,
-            "children": [],
-            "title": "VI"
+            "title": "VI",
+            "listType": "plain",
+            "children": []
           },
           {
             "filename": "quo_vadis_011.md",
             "xhtml": "quo_vadis_011.xhtml",
             "id": 10,
             "role": "chapter",
-            "numberedChildren": false,
             "inToc": true,
-            "children": [],
-            "title": "VII"
+            "title": "VII",
+            "listType": "plain",
+            "children": []
           },
           {
             "filename": "quo_vadis_012.md",
             "xhtml": "quo_vadis_012.xhtml",
             "id": 11,
             "role": "chapter",
-            "numberedChildren": false,
             "inToc": true,
-            "children": [],
-            "title": "VIII"
+            "title": "VIII",
+            "listType": "plain",
+            "children": []
           },
           {
             "filename": "quo_vadis_013.md",
             "xhtml": "quo_vadis_013.xhtml",
             "id": 12,
             "role": "chapter",
-            "numberedChildren": false,
             "inToc": true,
-            "children": [],
-            "title": "XI"
+            "title": "XI",
+            "listType": "plain",
+            "children": []
           },
           {
             "filename": "quo_vadis_014.md",
             "xhtml": "quo_vadis_014.xhtml",
             "id": 13,
             "role": "chapter",
-            "numberedChildren": false,
             "inToc": true,
-            "children": [],
-            "title": "X"
+            "title": "X",
+            "listType": "plain",
+            "children": []
           },
           {
             "filename": "quo_vadis_015.md",
             "xhtml": "quo_vadis_015.xhtml",
             "id": 14,
             "role": "chapter",
-            "numberedChildren": false,
             "inToc": true,
-            "children": [],
-            "title": "XI"
+            "title": "XI",
+            "listType": "plain",
+            "children": []
           },
           {
             "filename": "quo_vadis_016.md",
             "xhtml": "quo_vadis_016.xhtml",
             "id": 15,
             "role": "chapter",
-            "numberedChildren": false,
             "inToc": true,
-            "children": [],
-            "title": "XII"
+            "title": "XII",
+            "listType": "plain",
+            "children": []
           },
           {
             "filename": "quo_vadis_017.md",
             "xhtml": "quo_vadis_017.xhtml",
             "id": 16,
             "role": "chapter",
-            "numberedChildren": false,
             "inToc": true,
-            "children": [],
-            "title": "XIII"
+            "title": "XIII",
+            "listType": "plain",
+            "children": []
           },
           {
             "filename": "quo_vadis_018.md",
             "xhtml": "quo_vadis_018.xhtml",
             "id": 17,
             "role": "chapter",
-            "numberedChildren": false,
             "inToc": true,
-            "children": [],
-            "title": "XIV"
+            "title": "XIV",
+            "listType": "plain",
+            "children": []
           },
           {
             "filename": "quo_vadis_019.md",
             "xhtml": "quo_vadis_019.xhtml",
             "id": 18,
             "role": "chapter",
-            "numberedChildren": false,
             "inToc": true,
-            "children": [],
-            "title": "XV"
+            "title": "XV",
+            "listType": "plain",
+            "children": []
           },
           {
             "filename": "quo_vadis_020.md",
             "xhtml": "quo_vadis_020.xhtml",
             "id": 19,
             "role": "chapter",
-            "numberedChildren": false,
             "inToc": true,
-            "children": [],
-            "title": "XVI"
+            "title": "XVI",
+            "listType": "plain",
+            "children": []
           },
           {
             "filename": "quo_vadis_021.md",
             "xhtml": "quo_vadis_021.xhtml",
             "id": 20,
             "role": "chapter",
-            "numberedChildren": false,
             "inToc": true,
-            "children": [],
-            "title": "XVII"
+            "title": "XVII",
+            "listType": "plain",
+            "children": []
           },
           {
             "filename": "quo_vadis_022.md",
             "xhtml": "quo_vadis_022.xhtml",
             "id": 21,
             "role": "chapter",
-            "numberedChildren": false,
             "inToc": true,
-            "children": [],
-            "title": "XVIII"
+            "title": "XVIII",
+            "listType": "plain",
+            "children": []
           },
           {
             "filename": "quo_vadis_023.md",
             "xhtml": "quo_vadis_023.xhtml",
             "id": 22,
             "role": "chapter",
-            "numberedChildren": false,
             "inToc": true,
-            "children": [],
-            "title": "XIX"
+            "title": "XIX",
+            "listType": "plain",
+            "children": []
           },
           {
             "filename": "quo_vadis_024.md",
             "xhtml": "quo_vadis_024.xhtml",
             "id": 23,
             "role": "chapter",
-            "numberedChildren": false,
             "inToc": true,
-            "children": [],
-            "title": "XX"
+            "title": "XX",
+            "listType": "plain",
+            "children": []
           },
           {
             "filename": "quo_vadis_025.md",
             "xhtml": "quo_vadis_025.xhtml",
             "id": 24,
             "role": "chapter",
-            "numberedChildren": false,
             "inToc": true,
-            "children": [],
-            "title": "XXI"
+            "title": "XXI",
+            "listType": "plain",
+            "children": []
           },
           {
             "filename": "quo_vadis_026.md",
             "xhtml": "quo_vadis_026.xhtml",
             "id": 25,
             "role": "chapter",
-            "numberedChildren": false,
             "inToc": true,
-            "children": [],
-            "title": "XXII"
+            "title": "XXII",
+            "listType": "plain",
+            "children": []
           },
           {
             "filename": "quo_vadis_027.md",
             "xhtml": "quo_vadis_027.xhtml",
             "id": 26,
             "role": "chapter",
-            "numberedChildren": false,
             "inToc": true,
-            "children": [],
-            "title": "XXIII"
+            "title": "XXIII",
+            "listType": "plain",
+            "children": []
           },
           {
             "filename": "quo_vadis_028.md",
             "xhtml": "quo_vadis_028.xhtml",
             "id": 27,
             "role": "chapter",
-            "numberedChildren": false,
             "inToc": true,
-            "children": [],
-            "title": "XXIV"
+            "title": "XXIV",
+            "listType": "plain",
+            "children": []
           },
           {
             "filename": "quo_vadis_029.md",
             "xhtml": "quo_vadis_029.xhtml",
             "id": 28,
             "role": "chapter",
-            "numberedChildren": false,
             "inToc": true,
-            "children": [],
-            "title": "XXV"
+            "title": "XXV",
+            "listType": "plain",
+            "children": []
           },
           {
             "filename": "quo_vadis_030.md",
             "xhtml": "quo_vadis_030.xhtml",
             "id": 29,
             "role": "chapter",
-            "numberedChildren": false,
             "inToc": true,
-            "children": [],
-            "title": "XXVI"
+            "title": "XXVI",
+            "listType": "plain",
+            "children": []
           },
           {
             "filename": "quo_vadis_031.md",
             "xhtml": "quo_vadis_031.xhtml",
             "id": 30,
             "role": "chapter",
-            "numberedChildren": false,
             "inToc": true,
-            "children": [],
-            "title": "XXVII"
+            "title": "XXVII",
+            "listType": "plain",
+            "children": []
           },
           {
             "filename": "quo_vadis_032.md",
             "xhtml": "quo_vadis_032.xhtml",
             "id": 31,
             "role": "chapter",
-            "numberedChildren": false,
             "inToc": true,
-            "children": [],
-            "title": "XXVIII"
+            "title": "XXVIII",
+            "listType": "plain",
+            "children": []
           },
           {
             "filename": "quo_vadis_033.md",
             "xhtml": "quo_vadis_033.xhtml",
             "id": 32,
             "role": "chapter",
-            "numberedChildren": false,
             "inToc": true,
-            "children": [],
-            "title": "XXIX"
+            "title": "XXIX",
+            "listType": "plain",
+            "children": []
           },
           {
             "filename": "quo_vadis_034.md",
             "xhtml": "quo_vadis_034.xhtml",
             "id": 33,
             "role": "chapter",
-            "numberedChildren": false,
             "inToc": true,
-            "children": [],
-            "title": "XXX"
+            "title": "XXX",
+            "listType": "plain",
+            "children": []
           },
           {
             "filename": "quo_vadis_035.md",
             "xhtml": "quo_vadis_035.xhtml",
             "id": 34,
             "role": "chapter",
-            "numberedChildren": false,
             "inToc": true,
-            "children": [],
-            "title": "XXXI"
+            "title": "XXXI",
+            "listType": "plain",
+            "children": []
           },
           {
             "filename": "quo_vadis_036.md",
             "xhtml": "quo_vadis_036.xhtml",
             "id": 35,
             "role": "chapter",
-            "numberedChildren": false,
             "inToc": true,
-            "children": [],
-            "title": "XXXII"
+            "title": "XXXII",
+            "listType": "plain",
+            "children": []
           },
           {
             "filename": "quo_vadis_037.md",
             "xhtml": "quo_vadis_037.xhtml",
             "id": 36,
             "role": "chapter",
-            "numberedChildren": false,
             "inToc": true,
-            "children": [],
-            "title": "XXXIII"
+            "title": "XXXIII",
+            "listType": "plain",
+            "children": []
           },
           {
             "filename": "quo_vadis_038.md",
             "xhtml": "quo_vadis_038.xhtml",
             "id": 37,
             "role": "chapter",
-            "numberedChildren": false,
             "inToc": true,
-            "children": [],
-            "title": "XXXIV"
+            "title": "XXXIV",
+            "listType": "plain",
+            "children": []
           },
           {
             "filename": "quo_vadis_039.md",
             "xhtml": "quo_vadis_039.xhtml",
             "id": 38,
             "role": "chapter",
-            "numberedChildren": false,
             "inToc": true,
-            "children": [],
-            "title": "XXXV"
+            "title": "XXXV",
+            "listType": "plain",
+            "children": []
           },
           {
             "filename": "quo_vadis_040.md",
             "xhtml": "quo_vadis_040.xhtml",
             "id": 39,
             "role": "chapter",
-            "numberedChildren": false,
             "inToc": true,
-            "children": [],
-            "title": "XXXVI"
+            "title": "XXXVI",
+            "listType": "plain",
+            "children": []
           },
           {
             "filename": "quo_vadis_041.md",
             "xhtml": "quo_vadis_041.xhtml",
             "id": 40,
             "role": "chapter",
-            "numberedChildren": false,
             "inToc": true,
-            "children": [],
-            "title": "XXXVII"
+            "title": "XXXVII",
+            "listType": "plain",
+            "children": []
           },
           {
             "filename": "quo_vadis_042.md",
             "xhtml": "quo_vadis_042.xhtml",
             "id": 41,
             "role": "chapter",
-            "numberedChildren": false,
             "inToc": true,
-            "children": [],
-            "title": "XXXVIII"
+            "title": "XXXVIII",
+            "listType": "plain",
+            "children": []
           },
           {
             "filename": "quo_vadis_043.md",
             "xhtml": "quo_vadis_043.xhtml",
             "id": 42,
             "role": "chapter",
-            "numberedChildren": false,
             "inToc": true,
-            "children": [],
-            "title": "XXXIX"
+            "title": "XXXIX",
+            "listType": "plain",
+            "children": []
           },
           {
             "filename": "quo_vadis_044.md",
             "xhtml": "quo_vadis_044.xhtml",
             "id": 43,
             "role": "chapter",
-            "numberedChildren": false,
             "inToc": true,
-            "children": [],
-            "title": "XL"
+            "title": "XL",
+            "listType": "plain",
+            "children": []
           },
           {
             "filename": "quo_vadis_045.md",
             "xhtml": "quo_vadis_045.xhtml",
             "id": 44,
             "role": "chapter",
-            "numberedChildren": false,
             "inToc": true,
-            "children": [],
-            "title": "XLI"
+            "title": "XLI",
+            "listType": "plain",
+            "children": []
           },
           {
             "filename": "quo_vadis_046.md",
             "xhtml": "quo_vadis_046.xhtml",
             "id": 45,
             "role": "chapter",
-            "numberedChildren": false,
             "inToc": true,
-            "children": [],
-            "title": "XLII"
+            "title": "XLII",
+            "listType": "plain",
+            "children": []
           },
           {
             "filename": "quo_vadis_047.md",
             "xhtml": "quo_vadis_047.xhtml",
             "id": 46,
             "role": "chapter",
-            "numberedChildren": false,
             "inToc": true,
-            "children": [],
-            "title": "XLIII"
+            "title": "XLIII",
+            "listType": "plain",
+            "children": []
           },
           {
             "filename": "quo_vadis_048.md",
             "xhtml": "quo_vadis_048.xhtml",
             "id": 47,
             "role": "chapter",
-            "numberedChildren": false,
             "inToc": true,
-            "children": [],
-            "title": "XLIV"
+            "title": "XLIV",
+            "listType": "plain",
+            "children": []
           },
           {
             "filename": "quo_vadis_049.md",
             "xhtml": "quo_vadis_049.xhtml",
             "id": 48,
             "role": "chapter",
-            "numberedChildren": false,
             "inToc": true,
-            "children": [],
-            "title": "XLV"
+            "title": "XLV",
+            "listType": "plain",
+            "children": []
           },
           {
             "filename": "quo_vadis_050.md",
             "xhtml": "quo_vadis_050.xhtml",
             "id": 49,
             "role": "chapter",
-            "numberedChildren": false,
             "inToc": true,
-            "children": [],
-            "title": "XLVI"
+            "title": "XLVI",
+            "listType": "plain",
+            "children": []
           },
           {
             "filename": "quo_vadis_051.md",
             "xhtml": "quo_vadis_051.xhtml",
             "id": 50,
             "role": "chapter",
-            "numberedChildren": false,
             "inToc": true,
-            "children": [],
-            "title": "XLVII"
+            "title": "XLVII",
+            "listType": "plain",
+            "children": []
           },
           {
             "filename": "quo_vadis_052.md",
             "xhtml": "quo_vadis_052.xhtml",
             "id": 51,
             "role": "chapter",
-            "numberedChildren": false,
             "inToc": true,
-            "children": [],
-            "title": "XLVIII"
+            "title": "XLVIII",
+            "listType": "plain",
+            "children": []
           },
           {
             "filename": "quo_vadis_053.md",
             "xhtml": "quo_vadis_053.xhtml",
             "id": 52,
             "role": "chapter",
-            "numberedChildren": false,
             "inToc": true,
-            "children": [],
-            "title": "XLIX"
+            "title": "XLIX",
+            "listType": "plain",
+            "children": []
           },
           {
             "filename": "quo_vadis_054.md",
             "xhtml": "quo_vadis_054.xhtml",
             "id": 53,
             "role": "chapter",
-            "numberedChildren": false,
             "inToc": true,
-            "children": [],
-            "title": "L"
+            "title": "L",
+            "listType": "plain",
+            "children": []
           },
           {
             "filename": "quo_vadis_055.md",
             "xhtml": "quo_vadis_055.xhtml",
             "id": 54,
             "role": "chapter",
-            "numberedChildren": false,
             "inToc": true,
-            "children": [],
-            "title": "LI"
+            "title": "LI",
+            "listType": "plain",
+            "children": []
           },
           {
             "filename": "quo_vadis_056.md",
             "xhtml": "quo_vadis_056.xhtml",
             "id": 55,
             "role": "chapter",
-            "numberedChildren": false,
             "inToc": true,
-            "children": [],
-            "title": "LII"
+            "title": "LII",
+            "listType": "plain",
+            "children": []
           },
           {
             "filename": "quo_vadis_057.md",
             "xhtml": "quo_vadis_057.xhtml",
             "id": 56,
             "role": "chapter",
-            "numberedChildren": false,
             "inToc": true,
-            "children": [],
-            "title": "LIII"
+            "title": "LIII",
+            "listType": "plain",
+            "children": []
           },
           {
             "filename": "quo_vadis_058.md",
             "xhtml": "quo_vadis_058.xhtml",
             "id": 57,
             "role": "chapter",
-            "numberedChildren": false,
             "inToc": true,
-            "children": [],
-            "title": "LIV"
+            "title": "LIV",
+            "listType": "plain",
+            "children": []
           },
           {
             "filename": "quo_vadis_059.md",
             "xhtml": "quo_vadis_059.xhtml",
             "id": 58,
             "role": "chapter",
-            "numberedChildren": false,
             "inToc": true,
-            "children": [],
-            "title": "LV"
+            "title": "LV",
+            "listType": "plain",
+            "children": []
           },
           {
             "filename": "quo_vadis_060.md",
             "xhtml": "quo_vadis_060.xhtml",
             "id": 59,
             "role": "chapter",
-            "numberedChildren": false,
             "inToc": true,
-            "children": [],
-            "title": "LVI"
+            "title": "LVI",
+            "listType": "plain",
+            "children": []
           },
           {
             "filename": "quo_vadis_061.md",
             "xhtml": "quo_vadis_061.xhtml",
             "id": 60,
             "role": "chapter",
-            "numberedChildren": false,
             "inToc": true,
-            "children": [],
-            "title": "LVII"
+            "title": "LVII",
+            "listType": "plain",
+            "children": []
           },
           {
             "filename": "quo_vadis_062.md",
             "xhtml": "quo_vadis_062.xhtml",
             "id": 61,
             "role": "chapter",
-            "numberedChildren": false,
             "inToc": true,
-            "children": [],
-            "title": "LVIII"
+            "title": "LVIII",
+            "listType": "plain",
+            "children": []
           },
           {
             "filename": "quo_vadis_063.md",
             "xhtml": "quo_vadis_063.xhtml",
             "id": 62,
             "role": "chapter",
-            "numberedChildren": false,
             "inToc": true,
-            "children": [],
-            "title": "LIX"
+            "title": "LIX",
+            "listType": "plain",
+            "children": []
           },
           {
             "filename": "quo_vadis_064.md",
             "xhtml": "quo_vadis_064.xhtml",
             "id": 63,
             "role": "chapter",
-            "numberedChildren": false,
             "inToc": true,
-            "children": [],
-            "title": "LX"
+            "title": "LX",
+            "listType": "plain",
+            "children": []
           },
           {
             "filename": "quo_vadis_065.md",
             "xhtml": "quo_vadis_065.xhtml",
             "id": 64,
             "role": "chapter",
-            "numberedChildren": false,
             "inToc": true,
-            "children": [],
-            "title": "LXI"
+            "title": "LXI",
+            "listType": "plain",
+            "children": []
           },
           {
             "filename": "quo_vadis_066.md",
             "xhtml": "quo_vadis_066.xhtml",
             "id": 65,
             "role": "chapter",
-            "numberedChildren": false,
             "inToc": true,
-            "children": [],
-            "title": "LXII"
+            "title": "LXII",
+            "listType": "plain",
+            "children": []
           },
           {
             "filename": "quo_vadis_067.md",
             "xhtml": "quo_vadis_067.xhtml",
             "id": 66,
             "role": "chapter",
-            "numberedChildren": false,
             "inToc": true,
-            "children": [],
-            "title": "LXIII"
+            "title": "LXIII",
+            "listType": "plain",
+            "children": []
           },
           {
             "filename": "quo_vadis_068.md",
             "xhtml": "quo_vadis_068.xhtml",
             "id": 67,
             "role": "chapter",
-            "numberedChildren": false,
             "inToc": true,
-            "children": [],
-            "title": "LXIV"
+            "title": "LXIV",
+            "listType": "plain",
+            "children": []
           },
           {
             "filename": "quo_vadis_069.md",
             "xhtml": "quo_vadis_069.xhtml",
             "id": 68,
             "role": "chapter",
-            "numberedChildren": false,
             "inToc": true,
-            "children": [],
-            "title": "LXV"
+            "title": "LXV",
+            "listType": "plain",
+            "children": []
           },
           {
             "filename": "quo_vadis_070.md",
             "xhtml": "quo_vadis_070.xhtml",
             "id": 69,
             "role": "chapter",
-            "numberedChildren": false,
             "inToc": true,
-            "children": [],
-            "title": "LXVI"
+            "title": "LXVI",
+            "listType": "plain",
+            "children": []
           },
           {
             "filename": "quo_vadis_071.md",
             "xhtml": "quo_vadis_071.xhtml",
             "id": 70,
             "role": "chapter",
-            "numberedChildren": false,
             "inToc": true,
-            "children": [],
-            "title": "LXVII"
+            "title": "LXVII",
+            "listType": "plain",
+            "children": []
           },
           {
             "filename": "quo_vadis_072.md",
             "xhtml": "quo_vadis_072.xhtml",
             "id": 71,
             "role": "chapter",
-            "numberedChildren": false,
             "inToc": true,
-            "children": [],
-            "title": "LXVIII"
+            "title": "LXVIII",
+            "listType": "plain",
+            "children": []
           },
           {
             "filename": "quo_vadis_073.md",
             "xhtml": "quo_vadis_073.xhtml",
             "id": 72,
             "role": "chapter",
-            "numberedChildren": false,
             "inToc": true,
-            "children": [],
-            "title": "LXIX"
+            "title": "LXIX",
+            "listType": "plain",
+            "children": []
           },
           {
             "filename": "quo_vadis_074.md",
             "xhtml": "quo_vadis_074.xhtml",
             "id": 73,
             "role": "chapter",
-            "numberedChildren": false,
             "inToc": true,
-            "children": [],
-            "title": "LXX"
+            "title": "LXX",
+            "listType": "plain",
+            "children": []
           },
           {
             "filename": "quo_vadis_075.md",
             "xhtml": "quo_vadis_075.xhtml",
             "id": 74,
             "role": "chapter",
-            "numberedChildren": false,
             "inToc": true,
-            "children": [],
-            "title": "LXXI"
+            "title": "LXXI",
+            "listType": "plain",
+            "children": []
           },
           {
             "filename": "quo_vadis_076.md",
             "xhtml": "quo_vadis_076.xhtml",
             "id": 75,
             "role": "chapter",
-            "numberedChildren": false,
             "inToc": true,
-            "children": [],
-            "title": "LXXII"
+            "title": "LXXII",
+            "listType": "plain",
+            "children": []
           },
           {
             "filename": "quo_vadis_077.md",
             "xhtml": "quo_vadis_077.xhtml",
             "id": 76,
             "role": "chapter",
-            "numberedChildren": false,
             "inToc": true,
-            "children": [],
-            "title": "LXXIII"
+            "title": "LXXIII",
+            "listType": "plain",
+            "children": []
           },
           {
             "filename": "quo_vadis_078.md",
             "xhtml": "quo_vadis_078.xhtml",
             "id": 77,
             "role": "chapter",
-            "numberedChildren": false,
             "inToc": true,
-            "children": [],
-            "title": "LXXIV"
+            "title": "LXXIV",
+            "listType": "plain",
+            "children": []
           },
           {
             "filename": "quo_vadis_079.md",
             "xhtml": "quo_vadis_079.xhtml",
             "id": 78,
             "role": "chapter",
-            "numberedChildren": false,
             "inToc": true,
-            "children": [],
-            "title": "Doslov"
+            "title": "Doslov",
+            "listType": "plain",
+            "children": []
           },
           {
             "filename": "quo_vadis_080.md",
             "xhtml": "quo_vadis_080.xhtml",
             "id": 79,
             "role": "colophon",
-            "numberedChildren": false,
             "inToc": false,
+            "listType": "plain",
             "children": []
           }
         ]
@@ -837,7 +840,7 @@
       "identifier": "urn:uuid:eb34b298-e4f8-48c1-a1f9-3702ef438caf",
       "author": "Henryk Sienkiewicz",
       "publisher": "Městská knihovna v Praze",
-      "modified": "2021-11-30T07:50:43.389Z"
+      "modified": "2021-11-30T07:54:08.432Z"
     },
     "chapters": [
       {
@@ -1495,6 +1498,6 @@
       "user": "books-are-next",
       "repo": "quo-vadis"
     },
-    "generatedAt": 1638258645028
+    "generatedAt": 1638258850467
   }
 }
