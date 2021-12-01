@@ -1,16 +1,16 @@
 {
   "author": "Henryk Sienkiewicz",
   "edition": "beletrie",
-  "identifier": "sienkiewicz-quo-vadis-da3f5ec",
+  "identifier": "sienkiewicz-quo-vadis-d7842b4",
   "languagecode": "cs",
   "modified": "2021-10-30T17:56:57.139Z",
   "publisher": "Městská knihovna v Praze",
   "publishershort": "mkp",
   "title": "Quo vadis",
-  "revision": "da3f5ec",
+  "revision": "d7842b4",
   "generatedAt": {
-    "date": "Tue Nov 30 2021 11:09:22 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1638270562740
+    "date": "Wed Dec 01 2021 15:57:36 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1638374256544
   },
   "documents": [
     {
