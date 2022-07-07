@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "sienkiewicz-quo-vadis-231b30a",
-  "revision": "231b30a",
+  "identifier": "sienkiewicz-quo-vadis-3dd3f89",
+  "revision": "3dd3f89",
   "readingOrder": [
     "quo_vadis_002.html",
     "quo_vadis_005.html",
@@ -90,8 +90,8 @@
     "colophon.html"
   ],
   "generatedAt": {
-    "date": "Thu Jun 23 2022 10:23:25 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1655979805026
+    "date": "Thu Jul 07 2022 08:37:36 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1657183056089
   },
   "documents": [
     {
@@ -1620,8 +1620,8 @@
       "words": 144,
       "chars": 940,
       "ideas": 25,
-      "role": "colophon",
-      "order": null,
+      "role": "chapter",
+      "order": 76,
       "prev": "quo_vadis_079.html",
       "next": null,
       "toc": [
@@ -1642,9 +1642,9 @@
       "ideas": 4912
     },
     "chapters": {
-      "words": 178052,
-      "chars": 1069474,
-      "ideas": 4883
+      "words": 178196,
+      "chars": 1070414,
+      "ideas": 4908
     }
   }
 }
