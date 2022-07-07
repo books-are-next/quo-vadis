@@ -59,7 +59,7 @@
             "filename": "quo_vadis_003.md",
             "xhtml": "quo_vadis_003.xhtml",
             "id": 2,
-            "role": "colophon",
+            "role": "about",
             "inToc": false,
             "listType": "plain",
             "children": []
@@ -68,7 +68,7 @@
             "filename": "quo_vadis_004.md",
             "xhtml": "quo_vadis_004.xhtml",
             "id": 3,
-            "role": "colophon",
+            "role": "about",
             "inToc": false,
             "listType": "plain",
             "children": []
@@ -827,7 +827,7 @@
             "filename": "quo_vadis_080.md",
             "xhtml": "quo_vadis_080.xhtml",
             "id": 79,
-            "role": "colophon",
+            "role": "about",
             "inToc": false,
             "listType": "plain",
             "children": []
