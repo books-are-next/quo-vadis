@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "sienkiewicz-quo-vadis-b12235d",
-  "revision": "b12235d",
+  "identifier": "sienkiewicz-quo-vadis-271113b",
+  "revision": "271113b",
   "readingOrder": [
     "quo_vadis_002.html",
     "quo_vadis_005.html",
@@ -90,8 +90,8 @@
     "colophon.html"
   ],
   "generatedAt": {
-    "date": "Mon Oct 10 2022 15:43:58 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1665416638302
+    "date": "Fri Oct 21 2022 11:40:38 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1666352438138
   },
   "documents": [
     {
